@@ -1,0 +1,13 @@
+SecToolSet (English)
+
+This project is a translated and modified derivative of "SecToolSet"
+(https://github.com/bollwarm/SecToolSet), Copyright its contributors,
+licensed under the Apache License, Version 2.0.
+
+Changes made in this derivative:
+- Descriptions translated from Chinese to English and rewritten for clarity.
+- Deleted/empty repositories, duplicate entries and off-topic entries removed.
+- Broken links with typos corrected; some links updated to current homes.
+- Entries restructured into JSON data with generated Markdown.
+- Added GitHub activity metadata, risk flags, a SOC/SOAR & Detection
+  Engineering section, and CI workflows for link checking and refresh.

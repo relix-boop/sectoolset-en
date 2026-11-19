@@ -1,0 +1,2379 @@
+{
+ "01org/cc-oci-runtime": {
+  "last_commit": "2017-09-25"
+ },
+ "0Kee-Team/WatchAD": {
+  "last_commit": "2022-04-20"
+ },
+ "0vercl0k/rp": {
+  "last_commit": "2025-09-14"
+ },
+ "0x00-0x00/ShellPop": {
+  "last_commit": "2019-04-02"
+ },
+ "0x4D31/awesome-oscp": {
+  "last_commit": "2024-04-28"
+ },
+ "0x783kb/Security-Operation-Book": {
+  "last_commit": "2026-11-10"
+ },
+ "0xbug/SQLiScanner": {
+  "last_commit": "2017-09-22"
+ },
+ "13o-bbr-bbq/machine_learning_security": {
+  "last_commit": "2026-05-07"
+ },
+ "1N3/IntruderPayloads": {
+  "last_commit": "2021-09-26"
+ },
+ "3gstudent/Pentest-and-Development-Tips": {
+  "last_commit": "2022-05-25"
+ },
+ "5H311-1NJ3C706/local-root-exploits": {
+  "last_commit": "2018-01-22"
+ },
+ "5alt/GitLeak": {
+  "last_commit": "2018-05-15"
+ },
+ "73696e65/windows-exploits": {
+  "last_commit": "2016-03-03"
+ },
+ "78778443/permeate": {
+  "last_commit": "2026-03-12"
+ },
+ "80vul/phpcodz": {
+  "last_commit": "2015-09-05"
+ },
+ "ANELKAOS/ada": {
+  "last_commit": "2018-05-09"
+ },
+ "ANSSI-FR/audit-radius": {
+  "last_commit": "2018-10-15"
+ },
+ "AlessandroZ/LaZagne": {
+  "last_commit": "2025-09-18"
+ },
+ "AndroidTamer/KnowledgeBase": {
+  "last_commit": "2022-07-27"
+ },
+ "Audi-1/sqli-labs": {
+  "last_commit": "2014-10-31"
+ },
+ "Azure/Azure-Sentinel": {
+  "last_commit": "2026-11-19"
+ },
+ "B3nac/Android-Reports-and-Resources": {
+  "last_commit": "2026-10-20"
+ },
+ "BinaryAnalysisPlatform/bap": {
+  "last_commit": "2026-05-07"
+ },
+ "BloodHoundAD/BloodHound": {
+  "last_commit": "2026-03-02"
+ },
+ "Bypass007/Emergency-Response-Notes": {
+  "last_commit": "2021-09-02"
+ },
+ "Bypass007/Nessus_to_report": {
+  "last_commit": "2019-05-28"
+ },
+ "Bypass007/Safety-Project-Collection": {
+  "last_commit": "2022-04-11"
+ },
+ "C-Cracks/OSCP-Automation": {
+  "last_commit": "2020-10-15"
+ },
+ "CERT-BDF/Cortex": {
+  "last_commit": "2026-10-20"
+ },
+ "CERTCC/trommel": {
+  "last_commit": "2020-06-23"
+ },
+ "CHYbeta/Software-Security-Learning": {
+  "last_commit": "2018-02-17"
+ },
+ "CIRCL/AIL-framework": {
+  "last_commit": "2026-11-16"
+ },
+ "CISOfy/lynis": {
+  "last_commit": "2026-09-16"
+ },
+ "CVEProject/cvelist": {
+  "last_commit": "2025-06-03"
+ },
+ "Cherishao/APT-Sample": {
+  "last_commit": "2024-05-29"
+ },
+ "Chora10/Cknife": {
+  "last_commit": "2016-08-03"
+ },
+ "ChrisTruncer/Egress-Assess": {
+  "last_commit": "2023-08-06"
+ },
+ "ChrisTruncer/EyeWitness": {
+  "last_commit": "2024-05-23"
+ },
+ "ChrisTruncer/WMIOps": {
+  "last_commit": "2017-01-11"
+ },
+ "ClickSecurity/data_hacking": {
+  "last_commit": "2019-03-05"
+ },
+ "CoreSecurity/impacket": {
+  "last_commit": "2026-11-18"
+ },
+ "Cugu/awesome-forensics": {
+  "last_commit": "2026-09-26"
+ },
+ "CyDefUnicorn/OSCP-Archives": {
+  "last_commit": "2020-09-14"
+ },
+ "Cyb3rWard0g/HELK": {
+  "last_commit": "2021-05-08"
+ },
+ "CylanceSPEAR/CyBot": {
+  "last_commit": "2019-09-17"
+ },
+ "CymaticsCC/elf_similarity": {
+  "last_commit": "2020-10-28"
+ },
+ "D0g3-Lab/AXB-CTF": {
+  "last_commit": "2018-11-28"
+ },
+ "D0g3-Lab/H1ve": {
+  "last_commit": "2020-11-25"
+ },
+ "DanMcInerney/LANs.py": {
+  "last_commit": "2018-11-16"
+ },
+ "DanMcInerney/net-creds": {
+  "last_commit": "2019-12-18"
+ },
+ "DataSoft/Honeyd": {
+  "last_commit": "2013-12-20"
+ },
+ "DataSploit/datasploit": {
+  "last_commit": "2025-11-20"
+ },
+ "DedSecInside/TorBot": {
+  "last_commit": "2026-11-12"
+ },
+ "Developer-Y/cs-video-courses": {
+  "last_commit": "2026-11-15"
+ },
+ "DinoTools/dionaea": {
+  "last_commit": "2021-02-08"
+ },
+ "Dliv3/Venom": {
+  "last_commit": "2019-10-14"
+ },
+ "EbookFoundation/free-programming-books": {
+  "last_commit": "2026-11-12"
+ },
+ "EgeBalci/The-Eye": {
+  "last_commit": "2017-01-26"
+ },
+ "EnableSecurity/wafw00f": {
+  "last_commit": "2026-04-19"
+ },
+ "EtherDream/jsproxy": {
+  "last_commit": "2020-02-19"
+ },
+ "FSecureLABS/drozer": {
+  "last_commit": "2026-04-08"
+ },
+ "FabioBaroni/awesome-exploit-development": {
+  "last_commit": "2016-01-28"
+ },
+ "FallibleInc/security-guide-for-developers": {
+  "last_commit": "2025-08-30"
+ },
+ "FeeiCN/GSIL": {
+  "last_commit": "2023-11-28"
+ },
+ "FiloSottile/CVE-2016-2107": {
+  "last_commit": "2016-05-13"
+ },
+ "FortuneC00kie/bug-monitor": {
+  "last_commit": "2018-04-18"
+ },
+ "Funkmyster/awesome-cloud-security": {
+  "last_commit": "2025-05-19"
+ },
+ "FutureSharks/rpi-security": {
+  "last_commit": "2020-01-05"
+ },
+ "FuzzySecurity/Resource-List": {
+  "last_commit": "2016-09-02"
+ },
+ "GDSSecurity/PadBuster": {
+  "last_commit": "2021-08-18"
+ },
+ "Gallopsled/pwntools": {
+  "last_commit": "2026-11-17"
+ },
+ "GaloisInc/macaw": {
+  "last_commit": "2026-10-05"
+ },
+ "GoSecure/php7-opcache-override": {
+  "last_commit": "2021-05-27"
+ },
+ "GoSecure/security-cheat-sheet": {
+  "last_commit": "2020-07-17"
+ },
+ "Graph-X/davscan": {
+  "last_commit": "2019-07-09"
+ },
+ "Green-m/green-hat-suite": {
+  "last_commit": "2018-08-13"
+ },
+ "GrrrDog/Java-Deserialization-Cheat-Sheet": {
+  "last_commit": "2023-05-26"
+ },
+ "Hack-with-Github/Awesome-Hacking": {
+  "last_commit": "2026-10-27"
+ },
+ "Hack-with-Github/Free-Security-eBooks": {
+  "last_commit": "2019-01-20"
+ },
+ "Hack-with-Github/Windows": {
+  "last_commit": "2016-10-25"
+ },
+ "HatBoy/Pcap-Analyzer": {
+  "last_commit": "2021-02-06"
+ },
+ "Hcamael/CTF_repo": {
+  "last_commit": "2026-03-19"
+ },
+ "HexHive/libdetox": {
+  "last_commit": "2019-01-17"
+ },
+ "IBM/adversarial-robustness-toolbox": {
+  "last_commit": "2026-11-09"
+ },
+ "ITI/ICS-Security-Tools": {
+  "last_commit": "2026-11-01"
+ },
+ "InQuest/awesome-yara": {
+  "last_commit": "2026-06-15"
+ },
+ "JKornev/hidden": {
+  "last_commit": "2022-07-14"
+ },
+ "JPCERTCC/LogonTracer": {
+  "last_commit": "2026-08-02"
+ },
+ "JacobReynolds/ssrfDetector": {
+  "last_commit": "2017-04-09"
+ },
+ "JnuSimba/AndroidSecNotes": {
+  "last_commit": "2022-07-12"
+ },
+ "JnuSimba/LinuxSecNotes": {
+  "last_commit": "2023-04-03"
+ },
+ "JnuSimba/MiscSecNotes": {
+  "last_commit": "2024-09-14"
+ },
+ "JuxhinDB/OOB-Server": {
+  "last_commit": "2019-08-25"
+ },
+ "Koukyosyumei/AIJack": {
+  "last_commit": "2026-05-29"
+ },
+ "Kozea/wdb": {
+  "last_commit": "2019-09-16"
+ },
+ "LandGrey/pydictor": {
+  "last_commit": "2024-12-05"
+ },
+ "Lissy93/personal-security-checklist": {
+  "last_commit": "2026-11-01"
+ },
+ "LoRexxar/Cobra-W": {
+  "last_commit": "2026-10-12"
+ },
+ "M4ximuss/Powerless": {
+  "last_commit": "2020-08-04"
+ },
+ "MISP/MISP": {
+  "last_commit": "2026-11-18"
+ },
+ "MISP/misp-taxonomies": {
+  "last_commit": "2026-11-18"
+ },
+ "Maikuolan/CIDRAM": {
+  "last_commit": "2026-11-13"
+ },
+ "Maikuolan/phpMussel": {
+  "last_commit": "2026-11-10"
+ },
+ "Manisso/fsociety": {
+  "last_commit": "2026-07-21"
+ },
+ "Micropoor/Micro8": {
+  "last_commit": "2019-03-07"
+ },
+ "Microsoft/perfview": {
+  "last_commit": "2026-11-18"
+ },
+ "MindMac/IntentFuzzer": {
+  "last_commit": "2017-05-31"
+ },
+ "MindPointGroup/cloudfrunt": {
+  "last_commit": "2018-04-27"
+ },
+ "MobSF/Mobile-Security-Framework-MobSF": {
+  "last_commit": "2026-11-17"
+ },
+ "MozillaSecurity/dharma": {
+  "last_commit": "2021-08-13"
+ },
+ "MozillaSecurity/funfuzz": {
+  "last_commit": "2026-11-13"
+ },
+ "MozillaSecurity/peach": {
+  "last_commit": "2020-07-03"
+ },
+ "Mr-xn/BurpSuite-collections": {
+  "last_commit": "2026-10-08"
+ },
+ "Mr-xn/Penetration_Testing_POC": {
+  "last_commit": "2026-11-19"
+ },
+ "MrLuit/EtherScamDB": {
+  "last_commit": "2020-04-28"
+ },
+ "MyKings/docker-vulnerability-environment": {
+  "last_commit": "2019-05-31"
+ },
+ "Ne0nd0g/merlin": {
+  "last_commit": "2026-10-14"
+ },
+ "Neo23x0/Loki": {
+  "last_commit": "2026-01-09"
+ },
+ "Neo23x0/signature-base": {
+  "last_commit": "2026-11-17"
+ },
+ "Neohapsis/NeoPI": {
+  "last_commit": "2025-11-28"
+ },
+ "Neohapsis/bbqsql": {
+  "last_commit": "2019-01-04"
+ },
+ "NetSPI/PowerUpSQL": {
+  "last_commit": "2024-12-12"
+ },
+ "NetSecLab/Paper_for_Digital_Forensics": {
+  "last_commit": "2018-03-18"
+ },
+ "Netflix/Scumblr": {
+  "last_commit": "2019-02-05"
+ },
+ "NextronSystems/APTSimulator": {
+  "last_commit": "2025-09-23"
+ },
+ "NullHypothesis/exitmap": {
+  "last_commit": "2023-10-16"
+ },
+ "OISF/suricata": {
+  "last_commit": "2026-11-18"
+ },
+ "OTRF/Security-Datasets": {
+  "last_commit": "2023-09-20"
+ },
+ "OWASP/SecurityShepherd": {
+  "last_commit": "2026-11-18"
+ },
+ "OWASP/django-DefectDojo": {
+  "last_commit": "2026-11-18"
+ },
+ "OWASP/owasp-mstg": {
+  "last_commit": "2026-11-04"
+ },
+ "OlivierLaflamme/Cheatsheet-God": {
+  "last_commit": "2024-12-12"
+ },
+ "OpenCTI-Platform/connectors": {
+  "last_commit": "2026-11-19"
+ },
+ "OpenCTI-Platform/opencti": {
+  "last_commit": "2026-11-19"
+ },
+ "OpenNetworkingFoundation/DELTA": {
+  "last_commit": "2019-04-15"
+ },
+ "OpenSCAP/openscap": {
+  "last_commit": "2026-11-13"
+ },
+ "OpenSCAP/scap-security-guide": {
+  "last_commit": "2026-11-18"
+ },
+ "P1kachu/v0lt": {
+  "last_commit": "2018-01-22"
+ },
+ "PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing": {
+  "last_commit": "2023-01-30"
+ },
+ "PaulSec/awesome-sec-talks": {
+  "last_commit": "2026-02-17"
+ },
+ "Pl4gue/spectre-attack-demo": {
+  "last_commit": "2018-01-25"
+ },
+ "Plazmaz/MongoDB-HoneyProxy": {
+  "last_commit": "2023-02-19"
+ },
+ "PortSwigger/replicator": {
+  "last_commit": "2024-07-22"
+ },
+ "PowerShellMafia/PowerSploit": {
+  "last_commit": "2020-08-17"
+ },
+ "PreOS-Security/awesome-firmware-security": {
+  "last_commit": "2019-07-18"
+ },
+ "PreOS-Security/fwaudit": {
+  "last_commit": "2018-09-07"
+ },
+ "Qihoo360/mysql-sniffer": {
+  "last_commit": "2018-05-16"
+ },
+ "RASSec/A_Scan_Framework": {
+  "last_commit": "2023-05-15"
+ },
+ "RUB-SysSec/kAFL": {
+  "last_commit": "2017-11-28"
+ },
+ "Raikia/CredNinja": {
+  "last_commit": "2019-07-01"
+ },
+ "RandomStorm/DVWA": {
+  "last_commit": "2026-11-17"
+ },
+ "RetireJS/grunt-retire": {
+  "last_commit": "2023-06-26"
+ },
+ "Ridter/Pentest": {
+  "last_commit": "2019-04-09"
+ },
+ "RootUp/BFuzz": {
+  "last_commit": "2022-12-05"
+ },
+ "RustyShackleford221/OSCP-Prep": {
+  "last_commit": "2019-02-04"
+ },
+ "SECFORCE/SNMP-Brute": {
+  "last_commit": "2021-09-13"
+ },
+ "SECFORCE/sparta": {
+  "last_commit": "2020-08-17"
+ },
+ "SandySekharan/CTF-tool": {
+  "last_commit": "2016-04-09"
+ },
+ "SanketKarpe/anwi": {
+  "last_commit": "2018-08-03"
+ },
+ "Screetsec/Vegile": {
+  "last_commit": "2019-09-28"
+ },
+ "SecWiki/sec-chart": {
+  "last_commit": "2019-10-13"
+ },
+ "Security-Onion-Solutions/securityonion": {
+  "last_commit": "2026-11-02"
+ },
+ "SecurityFTW/cs-suite": {
+  "last_commit": "2020-10-14"
+ },
+ "Seezo-io/llm-security-101": {
+  "last_commit": "2023-10-14"
+ },
+ "Semmle/SecurityExploits": {
+  "last_commit": "2019-08-15"
+ },
+ "Shuffle/Shuffle": {
+  "last_commit": "2026-11-18"
+ },
+ "SigmaHQ/pySigma": {
+  "last_commit": "2026-11-10"
+ },
+ "SigmaHQ/sigma": {
+  "last_commit": "2026-11-18"
+ },
+ "SigmaHQ/sigma-cli": {
+  "last_commit": "2026-11-11"
+ },
+ "Siguza/ios-resources": {
+  "last_commit": "2025-05-25"
+ },
+ "SilverMoonSecurity/PassiveFuzzFrameworkOSX": {
+  "last_commit": "2017-10-18"
+ },
+ "SkewwG/VulScan": {
+  "last_commit": "2019-04-26"
+ },
+ "SkyLined/LocalNetworkScanner": {
+  "last_commit": "2016-05-27"
+ },
+ "Slynova-Org/node-fence": {
+  "last_commit": "2021-02-26"
+ },
+ "SolomonSklash/chomp-scan": {
+  "last_commit": "2020-04-17"
+ },
+ "SpamScope/spamscope": {
+  "last_commit": "2021-04-15"
+ },
+ "SpiderLabs/ModSecurity": {
+  "last_commit": "2026-11-18"
+ },
+ "TeamWalrus/Walrus": {
+  "last_commit": "2019-06-17"
+ },
+ "Tencent/HaboMalHunter": {
+  "last_commit": "2019-10-13"
+ },
+ "TheHive-Project/Cortex-Analyzers": {
+  "last_commit": "2026-11-19"
+ },
+ "TheHive-Project/TheHive": {
+  "last_commit": "2025-07-25"
+ },
+ "TheRook/subbrute": {
+  "last_commit": "2017-02-12"
+ },
+ "ThuCCSLab/Awesome-LM-SSP": {
+  "last_commit": "2026-09-02"
+ },
+ "TracecatHQ/tracecat": {
+  "last_commit": "2026-11-18"
+ },
+ "TryCatchHCF/PacketWhisper": {
+  "last_commit": "2020-05-27"
+ },
+ "Tuhinshubhra/CMSeeK": {
+  "last_commit": "2026-11-16"
+ },
+ "UKHomeOffice/repo-security-scanner": {
+  "last_commit": "2022-09-01"
+ },
+ "V33RU/IoTSecurity101": {
+  "last_commit": "2026-10-16"
+ },
+ "VVard0g/ThreatHunter-Playbook": {
+  "last_commit": "2025-12-29"
+ },
+ "ValdikSS/billgates-botnet-tracker": {
+  "last_commit": "2014-04-14"
+ },
+ "Veil-Framework/Veil-Evasion": {
+  "last_commit": "2017-02-05"
+ },
+ "Velocidex/velociraptor": {
+  "last_commit": "2026-11-19"
+ },
+ "VerbalExpressions/JSVerbalExpressions": {
+  "last_commit": "2024-05-16"
+ },
+ "VerbalExpressions/PythonVerbalExpressions": {
+  "last_commit": "2020-05-03"
+ },
+ "VirusTotal/yara": {
+  "last_commit": "2026-10-27"
+ },
+ "WallbreakerTeam/TomcatBrute": {
+  "last_commit": "2016-11-04"
+ },
+ "WangYihang/Find-PHP-Vulnerabilities": {
+  "last_commit": "2018-06-14"
+ },
+ "WangYihang/Webshell-Sniper": {
+  "last_commit": "2026-06-27"
+ },
+ "We5ter/Scanners-Box": {
+  "last_commit": "2026-11-18"
+ },
+ "WebGoat/WebGoat": {
+  "last_commit": "2026-11-09"
+ },
+ "WebGoat/WebGoat-Legacy": {
+  "last_commit": "2018-08-03"
+ },
+ "WireGuard/WireGuard": {
+  "last_commit": "2019-12-19"
+ },
+ "WithSecureLabs/chainsaw": {
+  "last_commit": "2026-11-15"
+ },
+ "XcodeGhostSource/XcodeGhost": {
+  "last_commit": "2015-09-19"
+ },
+ "XiaoXiaoGuaiXiaShi/OpenSource-HoneyPot": {
+  "last_commit": "2021-01-31"
+ },
+ "Xyntax/1000php": {
+  "last_commit": "2016-07-26"
+ },
+ "Y4er/WebLogic-Shiro-shell": {
+  "last_commit": "2020-08-25"
+ },
+ "YJesus/AntiRansom": {
+  "last_commit": "2021-11-07"
+ },
+ "YalcinYolalan/WSSAT": {
+  "last_commit": "2021-09-24"
+ },
+ "Yamato-Security/hayabusa": {
+  "last_commit": "2026-11-10"
+ },
+ "Yelp/osxcollector": {
+  "last_commit": "2019-06-19"
+ },
+ "YosaiProject/yosai": {
+  "last_commit": "2017-02-07"
+ },
+ "Z-0ne/ScanS2-045-Nmap": {
+  "last_commit": "2017-03-13"
+ },
+ "_updated": "2026-11-19",
+ "aatlasis/Chiron": {
+  "last_commit": "2018-08-03"
+ },
+ "abeluck/stegdetect": {
+  "last_commit": "2018-10-31"
+ },
+ "abhi-r3v0/Adhrit": {
+  "last_commit": "2021-12-10"
+ },
+ "aboul3la/Sublist3r": {
+  "last_commit": "2020-07-29"
+ },
+ "abourget/secrets-bridge": {
+  "last_commit": "2017-07-13"
+ },
+ "airbus-seclab/bta": {
+  "last_commit": "2016-03-25"
+ },
+ "ajdumanhug/oscp-practice": {
+  "last_commit": "2020-06-24"
+ },
+ "ajinabraham/NodeJsScan": {
+  "last_commit": "2026-09-20"
+ },
+ "aker-gateway/Aker": {
+  "last_commit": "2021-01-26"
+ },
+ "al0ne/Vxscan": {
+  "last_commit": "2020-01-02"
+ },
+ "albuch/sbt-dependency-check": {
+  "last_commit": "2025-10-11"
+ },
+ "alebcay/awesome-shell": {
+  "last_commit": "2024-02-20"
+ },
+ "alexfrancow/A-Detector": {
+  "last_commit": "2020-07-17"
+ },
+ "alibaba/jvm-sandbox": {
+  "last_commit": "2023-01-26"
+ },
+ "anandkumar11u/OSCP-60days": {
+  "last_commit": "2020-05-15"
+ },
+ "anaynayak/aws-security-viz": {
+  "last_commit": "2026-10-04"
+ },
+ "andresriancho/w3af": {
+  "last_commit": "2020-06-16"
+ },
+ "andrewjkerr/security-cheatsheets": {
+  "last_commit": "2022-03-17"
+ },
+ "angr/angr": {
+  "last_commit": "2026-11-18"
+ },
+ "angryziber/ipscan": {
+  "last_commit": "2026-11-16"
+ },
+ "antagon/TCHunt-ng": {
+  "last_commit": "2017-03-25"
+ },
+ "aol/mrcrypt": {
+  "last_commit": "2018-04-11"
+ },
+ "appsecco/alldaydevops-aism": {
+  "last_commit": "2016-12-07"
+ },
+ "apsdehal/awesome-ctf": {
+  "last_commit": "2020-05-17"
+ },
+ "aramosf/recoversqlite": {
+  "last_commit": "2016-06-17"
+ },
+ "archerysec/archerysec": {
+  "last_commit": "2024-10-08"
+ },
+ "arthepsy/ssh-audit": {
+  "last_commit": "2016-11-02"
+ },
+ "ashishb/android-security-awesome": {
+  "last_commit": "2026-11-18"
+ },
+ "ashishb/osx-and-ios-security-awesome": {
+  "last_commit": "2026-11-16"
+ },
+ "atiger77/Dionaea": {
+  "last_commit": "2016-08-11"
+ },
+ "atrandys/wireguard": {
+  "last_commit": "2020-12-19"
+ },
+ "awhitehatter/mailoney": {
+  "last_commit": "2026-09-07"
+ },
+ "az0ne/AZScanner": {
+  "last_commit": "2016-11-11"
+ },
+ "azsk/DevOpsKit-docs": {
+  "last_commit": "2021-12-29"
+ },
+ "bad-antics/nullsec": {
+  "last_commit": "2026-04-15"
+ },
+ "bad-antics/nullsec-linux": {
+  "last_commit": "2026-04-17"
+ },
+ "bad-antics/nullsec-pineapple-suite": {
+  "last_commit": "2026-04-23"
+ },
+ "bayandin/awesome-awesomeness": {
+  "last_commit": "2022-03-24"
+ },
+ "bdcht/amoco": {
+  "last_commit": "2025-02-17"
+ },
+ "beefproject/beef": {
+  "last_commit": "2026-11-17"
+ },
+ "berzerk0/Probable-Wordlists": {
+  "last_commit": "2019-12-04"
+ },
+ "bfuzzy/auditd-attack": {
+  "last_commit": "2018-11-26"
+ },
+ "bhdresh/Dejavu": {
+  "last_commit": "2025-08-02"
+ },
+ "biggiesmallsAG/nightHawkResponse": {
+  "last_commit": "2019-11-20"
+ },
+ "binux/pyspider": {
+  "last_commit": "2020-08-02"
+ },
+ "bit4woo/python_sec": {
+  "last_commit": "2020-08-06"
+ },
+ "blaCCkHatHacEEkr/PENTESTING-BIBLE": {
+  "last_commit": "2023-02-23"
+ },
+ "blackye/webdirdig": {
+  "last_commit": "2018-01-08"
+ },
+ "bloodzer0/Enterprise_Security_Build--Open_Source": {
+  "last_commit": "2018-12-17"
+ },
+ "bloodzer0/ossa": {
+  "last_commit": "2019-07-09"
+ },
+ "bndw/pick": {
+  "last_commit": "2018-11-02"
+ },
+ "bollwarm/App-Waf": {
+  "last_commit": "2018-07-10"
+ },
+ "bollwarm/POC-EXP": {
+  "last_commit": "2018-12-25"
+ },
+ "bollwarm/awvs_script_decode": {
+  "last_commit": "2017-11-16"
+ },
+ "boy-hack/w11scan": {
+  "last_commit": "2018-08-23"
+ },
+ "boy-hack/w13scan": {
+  "last_commit": "2022-07-06"
+ },
+ "boy-hack/w8fuckcdn": {
+  "last_commit": "2019-04-07"
+ },
+ "boy-hack/w9scan": {
+  "last_commit": "2019-09-10"
+ },
+ "brianlam38/Sec-Cheatsheets": {
+  "last_commit": "2020-01-21"
+ },
+ "brianlam38/Sec-Dump": {
+  "last_commit": "2018-02-02"
+ },
+ "brianwrf/hackUtils": {
+  "last_commit": "2016-09-06"
+ },
+ "bro/bro": {
+  "last_commit": "2023-03-24"
+ },
+ "bugsafe/WeReport": {
+  "last_commit": "2022-11-09"
+ },
+ "burntmybagel/OSCP-Prep": {
+  "last_commit": "2020-06-01"
+ },
+ "byt3bl33d3r/MITMf": {
+  "last_commit": "2018-08-28"
+ },
+ "byt3bl33d3r/gcat": {
+  "last_commit": "2018-11-16"
+ },
+ "c0ny1/upload-labs": {
+  "last_commit": "2020-01-15"
+ },
+ "c0ny1/vulstudy": {
+  "last_commit": "2020-03-25"
+ },
+ "caesar0301/awesome-pcaptools": {
+  "last_commit": "2025-09-03"
+ },
+ "capitalone/cloud-custodian": {
+  "last_commit": "2026-11-17"
+ },
+ "carpedm20/awesome-hacking": {
+  "last_commit": "2023-12-06"
+ },
+ "certtools/intelmq": {
+  "last_commit": "2026-04-24"
+ },
+ "chaitin/cloudwalker": {
+  "last_commit": "2022-12-14"
+ },
+ "chaitin/veinmind-tools": {
+  "last_commit": "2024-01-10"
+ },
+ "chaitin/xray": {
+  "last_commit": "2024-08-16"
+ },
+ "charlesportwoodii/libsodium-uwp": {
+  "last_commit": "2018-06-24"
+ },
+ "chawins/llm-sp": {
+  "last_commit": "2025-06-08"
+ },
+ "chef/inspec": {
+  "last_commit": "2026-11-10"
+ },
+ "chhantyal/5minutes": {
+  "last_commit": "2017-02-15"
+ },
+ "cisco-sas/katnip": {
+  "last_commit": "2019-02-01"
+ },
+ "cisco/joy": {
+  "last_commit": "2019-11-08"
+ },
+ "ciscocsirt/malspider": {
+  "last_commit": "2017-04-17"
+ },
+ "citronneur/rdpy": {
+  "last_commit": "2020-04-10"
+ },
+ "citypw/DNFWAH": {
+  "last_commit": "2018-12-05"
+ },
+ "clawoflight/aursec": {
+  "last_commit": "2018-03-05"
+ },
+ "client9/libinjection": {
+  "last_commit": "2018-03-11"
+ },
+ "cliffe/secgen": {
+  "last_commit": "2026-11-17"
+ },
+ "cloudflare/boringtun": {
+  "last_commit": "2026-06-15"
+ },
+ "cloudflare/flan": {
+  "last_commit": "2024-09-19"
+ },
+ "cloudsploit/scans": {
+  "last_commit": "2026-09-22"
+ },
+ "clymb3r/PowerShell": {
+  "last_commit": "2015-09-30"
+ },
+ "cmu-sei/pharos": {
+  "last_commit": "2026-10-20"
+ },
+ "cn0xroot/RFSec-ToolKit": {
+  "last_commit": "2024-05-28"
+ },
+ "code-scan/dzscan": {
+  "last_commit": "2018-09-20"
+ },
+ "codejanus/ToolSuite": {
+  "last_commit": "2017-02-25"
+ },
+ "codeling/bfstop": {
+  "last_commit": "2026-11-19"
+ },
+ "codingo/Reconnoitre": {
+  "last_commit": "2020-04-09"
+ },
+ "compsec-snu/razzer": {
+  "last_commit": "2019-07-10"
+ },
+ "coreb1t/awesome-pentest-cheat-sheets": {
+  "last_commit": "2024-02-16"
+ },
+ "countercept/snake": {
+  "last_commit": "2023-07-11"
+ },
+ "cowrie/cowrie": {
+  "last_commit": "2026-11-19"
+ },
+ "cr0hn/enteletaor": {
+  "last_commit": "2026-09-08"
+ },
+ "cr0hn/vulnerable-node": {
+  "last_commit": "2026-09-08"
+ },
+ "crowdsecurity/crowdsec": {
+  "last_commit": "2026-11-19"
+ },
+ "csirtgadgets/bearded-avenger": {
+  "last_commit": "2023-04-20"
+ },
+ "ctfs/resources": {
+  "last_commit": "2020-10-14"
+ },
+ "ctfs/write-ups-2016": {
+  "last_commit": "2018-06-12"
+ },
+ "cuckoosandbox/cuckoo": {
+  "last_commit": "2021-04-26"
+ },
+ "cybermaggedon/cyberprobe": {
+  "last_commit": "2024-09-13"
+ },
+ "danielbohannon/Revoke-Obfuscation": {
+  "last_commit": "2020-02-11"
+ },
+ "danielmiessler/SecLists": {
+  "last_commit": "2026-11-18"
+ },
+ "darryllane/Bluto": {
+  "last_commit": "2020-05-12"
+ },
+ "dchrastil/ScrapedIn": {
+  "last_commit": "2023-12-04"
+ },
+ "deadbits/InsecureProgramming": {
+  "last_commit": "2020-10-20"
+ },
+ "decalage2/ViperMonkey": {
+  "last_commit": "2024-04-25"
+ },
+ "decalage2/oletools": {
+  "last_commit": "2026-01-26"
+ },
+ "delvelabs/vane": {
+  "last_commit": "2019-08-23"
+ },
+ "demi6od/ChromeFuzzer": {
+  "last_commit": "2015-07-18"
+ },
+ "demisto/content": {
+  "last_commit": "2026-11-19"
+ },
+ "demisto/content-docs": {
+  "last_commit": "2026-11-17"
+ },
+ "demisto/demisto-sdk": {
+  "last_commit": "2026-11-17"
+ },
+ "demisto/dockerfiles": {
+  "last_commit": "2026-11-19"
+ },
+ "dendisuhubdy/meltdown": {
+  "last_commit": "2018-01-06"
+ },
+ "depthsecurity/armory": {
+  "last_commit": "2026-10-19"
+ },
+ "desaster/kippo": {
+  "last_commit": "2023-08-26"
+ },
+ "detailyang/awesome-cheatsheet": {
+  "last_commit": "2026-11-05"
+ },
+ "dev-sec/chef-nginx-hardening": {
+  "last_commit": "2025-12-12"
+ },
+ "dev-sec/chef-ssh-hardening": {
+  "last_commit": "2026-10-10"
+ },
+ "dev-sec/chef-windows-hardening": {
+  "last_commit": "2026-10-10"
+ },
+ "dev-sec/linux-baseline": {
+  "last_commit": "2026-09-17"
+ },
+ "dev-sec/mysql-baseline": {
+  "last_commit": "2023-11-12"
+ },
+ "devsecops/awesome-devsecops": {
+  "last_commit": "2021-10-20"
+ },
+ "devsecops/bootcamp": {
+  "last_commit": "2019-01-05"
+ },
+ "devttys0/binwalk": {
+  "last_commit": "2026-08-11"
+ },
+ "dfir-iris/iris-web": {
+  "last_commit": "2026-09-23"
+ },
+ "dhn/OSCE": {
+  "last_commit": "2018-07-08"
+ },
+ "diekmann/Iptables_Semantics": {
+  "last_commit": "2018-05-26"
+ },
+ "digsig-ng/linux-digsig": {
+  "last_commit": "2014-01-07"
+ },
+ "diogo-fernan/malsub": {
+  "last_commit": "2023-06-20"
+ },
+ "djadmin/awesome-bug-bounty": {
+  "last_commit": "2026-03-07"
+ },
+ "djformby/GRFICS": {
+  "last_commit": "2024-06-20"
+ },
+ "dongfangyuxiao/github_dis": {
+  "last_commit": "2019-03-25"
+ },
+ "dradis/dradis-ce": {
+  "last_commit": "2026-11-19"
+ },
+ "dropbox/llm-security": {
+  "last_commit": "2024-05-21"
+ },
+ "dtag-dev-sec/tpotce": {
+  "last_commit": "2026-11-16"
+ },
+ "dunglas/DunglasAngularCsrfBundle": {
+  "last_commit": "2020-12-28"
+ },
+ "dyjakan/interpreter-bugs": {
+  "last_commit": "2018-04-26"
+ },
+ "eggie5/hmac-timing-attacks": {
+  "last_commit": "2013-09-19"
+ },
+ "elastic/detection-rules": {
+  "last_commit": "2026-11-19"
+ },
+ "ele7enxxh/android-afl": {
+  "last_commit": "2017-08-02"
+ },
+ "eliotsykes/rails-security-checklist": {
+  "last_commit": "2022-07-17"
+ },
+ "elkarbackup/elkarbackup": {
+  "last_commit": "2026-03-03"
+ },
+ "emirozer/nixarmor": {
+  "last_commit": "2015-11-22"
+ },
+ "emposha/Shell-Detector": {
+  "last_commit": "2016-04-26"
+ },
+ "emptymonkey/mimic": {
+  "last_commit": "2018-07-06"
+ },
+ "enaqx/awesome-pentest": {
+  "last_commit": "2026-07-25"
+ },
+ "eolinker/GoKu-API-Gateway": {
+  "last_commit": "2022-08-11"
+ },
+ "epinna/tplmap": {
+  "last_commit": "2022-02-06"
+ },
+ "erevus-cn/pocscan": {
+  "last_commit": "2025-07-01"
+ },
+ "evilcos/xssor": {
+  "last_commit": "2017-06-25"
+ },
+ "evyatarmeged/Raccoon": {
+  "last_commit": "2025-06-10"
+ },
+ "exploitprotocol/mobile-security-wiki": {
+  "last_commit": "2018-07-20"
+ },
+ "ezekg/git-hound": {
+  "last_commit": "2020-10-08"
+ },
+ "facebook/fbctf": {
+  "last_commit": "2018-09-14"
+ },
+ "facebook/osquery": {
+  "last_commit": "2026-11-19"
+ },
+ "falcosecurity/falco": {
+  "last_commit": "2026-11-06"
+ },
+ "fatedier/frp": {
+  "last_commit": "2026-11-10"
+ },
+ "find-sec-bugs/find-sec-bugs": {
+  "last_commit": "2026-11-03"
+ },
+ "firebug/firebug": {
+  "last_commit": "2017-10-24"
+ },
+ "firecracker-microvm/firecracker": {
+  "last_commit": "2026-11-18"
+ },
+ "firesunCN/BlueLotus_XSSReceiver": {
+  "last_commit": "2022-05-24"
+ },
+ "fjserna/CVE-2015-7547": {
+  "last_commit": "2016-02-15"
+ },
+ "flipkart-incubator/Astra": {
+  "last_commit": "2024-05-21"
+ },
+ "fofapro/vulfocus": {
+  "last_commit": "2025-09-09"
+ },
+ "foospidy/payloads": {
+  "last_commit": "2021-04-22"
+ },
+ "forcesunseen/llm-hackers-handbook": {
+  "last_commit": "2023-04-14"
+ },
+ "forter/security-101-for-saas-startups": {
+  "last_commit": "2026-01-27"
+ },
+ "foxglovesec/JavaUnserializeExploits": {
+  "last_commit": "2016-03-10"
+ },
+ "freddiebarrsmith/Buffer-Overflow-Exploit-Development-Practice": {
+  "last_commit": "2019-01-26"
+ },
+ "freddymartinez9/securitytalks": {
+  "last_commit": "2020-05-02"
+ },
+ "frida/frida": {
+  "last_commit": "2026-11-18"
+ },
+ "frizb/Bypassing-Web-Application-Firewalls": {
+  "last_commit": "2018-10-29"
+ },
+ "frohoff/ysoserial": {
+  "last_commit": "2025-12-03"
+ },
+ "future-architect/vuls": {
+  "last_commit": "2026-11-18"
+ },
+ "fuzzing/MFFA": {
+  "last_commit": "2016-04-01"
+ },
+ "fuzzitdev/javafuzz": {
+  "last_commit": "2020-07-10"
+ },
+ "fuzzitdev/jsfuzz": {
+  "last_commit": "2020-07-10"
+ },
+ "ganliuzhuo/Sebug": {
+  "last_commit": "2016-03-28"
+ },
+ "ganlvtech/down_52pojie_cn": {
+  "last_commit": "2019-05-14"
+ },
+ "gbrindisi/wordpot": {
+  "last_commit": "2018-10-16"
+ },
+ "gchq/CyberChef": {
+  "last_commit": "2026-11-04"
+ },
+ "gentilkiwi/mimikatz": {
+  "last_commit": "2026-10-30"
+ },
+ "gh0stkey/DoraBox": {
+  "last_commit": "2023-07-15"
+ },
+ "giper45/DockerSecurityPlayground": {
+  "last_commit": "2026-03-11"
+ },
+ "goldshtn/etrace": {
+  "last_commit": "2017-06-29"
+ },
+ "golismero/golismero": {
+  "last_commit": "2020-04-16"
+ },
+ "goodwithtech/dockle": {
+  "last_commit": "2026-11-16"
+ },
+ "google/AFL": {
+  "last_commit": "2021-06-08"
+ },
+ "google/clusterfuzz": {
+  "last_commit": "2026-11-19"
+ },
+ "google/fuzzer-test-suite": {
+  "last_commit": "2021-08-25"
+ },
+ "google/google-ctf": {
+  "last_commit": "2026-11-16"
+ },
+ "google/grr": {
+  "last_commit": "2026-10-01"
+ },
+ "google/honggfuzz": {
+  "last_commit": "2026-09-25"
+ },
+ "google/oss-fuzz": {
+  "last_commit": "2026-11-18"
+ },
+ "google/syzkaller": {
+  "last_commit": "2026-11-19"
+ },
+ "google/timesketch": {
+  "last_commit": "2026-11-12"
+ },
+ "google/tsunami-security-scanner": {
+  "last_commit": "2026-11-16"
+ },
+ "google/vulncode-db": {
+  "last_commit": "2022-01-03"
+ },
+ "googleprojectzero/bochspwn": {
+  "last_commit": "2019-05-05"
+ },
+ "googleprojectzero/bochspwn-reloaded": {
+  "last_commit": "2019-02-24"
+ },
+ "googleprojectzero/domato": {
+  "last_commit": "2024-11-26"
+ },
+ "googleprojectzero/fuzzilli": {
+  "last_commit": "2026-11-16"
+ },
+ "googleprojectzero/winafl": {
+  "last_commit": "2026-03-13"
+ },
+ "govolution/avet": {
+  "last_commit": "2025-04-23"
+ },
+ "gradiuscypher/infosec_getting_started": {
+  "last_commit": "2023-01-04"
+ },
+ "grafov/hulk": {
+  "last_commit": "2021-04-15"
+ },
+ "grandideastudio/jtagulator": {
+  "last_commit": "2026-09-01"
+ },
+ "grayddq/GScan": {
+  "last_commit": "2019-12-30"
+ },
+ "grayddq/PublicMonitors": {
+  "last_commit": "2020-01-02"
+ },
+ "greshake/llm-security": {
+  "last_commit": "2025-07-17"
+ },
+ "gstarnberger/uncompyle": {
+  "last_commit": "2016-10-01"
+ },
+ "guyoung/CaptfEncoder": {
+  "last_commit": "2023-10-16"
+ },
+ "h4ck0ne/security_circle_2017": {
+  "last_commit": "2017-10-30"
+ },
+ "hackgnar/ble_ctf": {
+  "last_commit": "2026-08-07"
+ },
+ "hacklcx/HFish": {
+  "last_commit": "2026-03-13"
+ },
+ "hahwul/WebHackersWeapons": {
+  "last_commit": "2026-09-07"
+ },
+ "hakbot/hakbot-origin-controller": {
+  "last_commit": "2019-06-28"
+ },
+ "hakluke/weaponised-XSS-payloads": {
+  "last_commit": "2023-04-24"
+ },
+ "hannob/meltdownspectre-patches": {
+  "last_commit": "2018-02-13"
+ },
+ "hardenedlinux/srcinv": {
+  "last_commit": "2021-01-15"
+ },
+ "havysec/vulnerable-scene": {
+  "last_commit": "2018-02-07"
+ },
+ "hellerve/programming-talks": {
+  "last_commit": "2026-10-15"
+ },
+ "henshin/filebuster": {
+  "last_commit": "2023-02-25"
+ },
+ "hhyo/Archery": {
+  "last_commit": "2026-10-31"
+ },
+ "hongriSec/Web-Security-Attack": {
+  "last_commit": "2019-12-20"
+ },
+ "hslatman/awesome-industrial-control-system-security": {
+  "last_commit": "2025-10-10"
+ },
+ "hslatman/awesome-threat-intelligence": {
+  "last_commit": "2026-10-30"
+ },
+ "hunter-ht-2018/ptfuzzer": {
+  "last_commit": "2019-07-26"
+ },
+ "hxer/vulnapp": {
+  "last_commit": "2016-03-24"
+ },
+ "hypn0s/AJPy": {
+  "last_commit": "2023-09-06"
+ },
+ "iadgov/Maplesyrup": {
+  "last_commit": "2016-06-01"
+ },
+ "iamcryptoki/snowden-archive": {
+  "last_commit": "2020-01-14"
+ },
+ "ihack4falafel/OSCE": {
+  "last_commit": "2018-07-22"
+ },
+ "ihack4falafel/OSCP": {
+  "last_commit": "2018-02-22"
+ },
+ "ilmila/J2EEScan": {
+  "last_commit": "2025-10-29"
+ },
+ "im-bug/BlockChain-Security-List": {
+  "last_commit": "2018-06-28"
+ },
+ "imWildCat/scylla": {
+  "last_commit": "2026-11-02"
+ },
+ "infosec-au/altdns": {
+  "last_commit": "2025-01-09"
+ },
+ "infosecB/awesome-detection-engineering": {
+  "last_commit": "2026-10-12"
+ },
+ "infoslack/awesome-web-hacking": {
+  "last_commit": "2026-10-28"
+ },
+ "insanitybit/grapl": {
+  "last_commit": "2022-12-26"
+ },
+ "intel/Resilient-ML-Research-Platform": {
+  "last_commit": "2022-08-04"
+ },
+ "intrepidusgroup/mallory": {
+  "last_commit": "2016-06-22"
+ },
+ "ionescu007/SpecuCheck": {
+  "last_commit": "2018-10-16"
+ },
+ "ivanilves/xiringuito": {
+  "last_commit": "2021-12-29"
+ },
+ "jae2/awsbigbrother": {
+  "last_commit": "2019-01-21"
+ },
+ "jagracey/Regex-DoS": {
+  "last_commit": "2016-06-04"
+ },
+ "jameslyons/pycipher": {
+  "last_commit": "2016-07-21"
+ },
+ "jaredmichaelsmith/awesome-vehicle-security": {
+  "last_commit": "2026-05-29"
+ },
+ "jaredthecoder/awesome-vehicle-security": {
+  "last_commit": "2026-05-29"
+ },
+ "jatrost/awesome-detection-rules": {
+  "last_commit": "2024-05-05"
+ },
+ "jedisct1/edgedns": {
+  "last_commit": "2026-10-20"
+ },
+ "jeffzh3ng/Fuxi-Scanner": {
+  "last_commit": "2020-05-10"
+ },
+ "jeremylong/DependencyCheck": {
+  "last_commit": "2025-02-17"
+ },
+ "jgamblin/CarHackingTools": {
+  "last_commit": "2023-05-07"
+ },
+ "jiansiting/Decryption-Tools": {
+  "last_commit": "2019-06-18"
+ },
+ "jiayy/android_vuln_poc-exp": {
+  "last_commit": "2025-04-25"
+ },
+ "jipegit/OSXAuditor": {
+  "last_commit": "2020-07-28"
+ },
+ "jivoi/awesome-ml-for-cybersecurity": {
+  "last_commit": "2024-04-11"
+ },
+ "jivoi/awesome-osint": {
+  "last_commit": "2026-11-17"
+ },
+ "jkbrzt/httpie": {
+  "last_commit": "2024-12-17"
+ },
+ "joaomatosf/jexboss": {
+  "last_commit": "2017-03-27"
+ },
+ "joarleymoraes/net_guard": {
+  "last_commit": "2018-02-03"
+ },
+ "joe-shenouda/awesome-cyber-skills": {
+  "last_commit": "2026-09-17"
+ },
+ "jofpin/trape": {
+  "last_commit": "2021-06-20"
+ },
+ "jopohl/urh": {
+  "last_commit": "2025-12-19"
+ },
+ "jordan-wright/elastichoney": {
+  "last_commit": "2015-07-05"
+ },
+ "jtpereyda/boofuzz": {
+  "last_commit": "2026-09-21"
+ },
+ "julienbedard/browsersploit": {
+  "last_commit": "2017-04-19"
+ },
+ "juliocesarfort/public-pentesting-reports": {
+  "last_commit": "2026-06-07"
+ },
+ "jweny/pocassist": {
+  "last_commit": "2023-10-30"
+ },
+ "jzadeh/chiron-elk": {
+  "last_commit": "2019-03-20"
+ },
+ "k0retux/fuddly": {
+  "last_commit": "2026-11-18"
+ },
+ "k8scop/k8s-security-dashboard": {
+  "last_commit": "2021-06-23"
+ },
+ "kai5263499/awesome-container-security": {
+  "last_commit": "2026-11-05"
+ },
+ "kbandla/APTnotes": {
+  "last_commit": "2024-01-01"
+ },
+ "keithjjones/visualize_logs": {
+  "last_commit": "2016-11-12"
+ },
+ "kevthehermit/RATDecoders": {
+  "last_commit": "2021-09-19"
+ },
+ "khalilbijjou/WAFNinja": {
+  "last_commit": "2026-08-11"
+ },
+ "kintoandar/fwd": {
+  "last_commit": "2021-08-17"
+ },
+ "kn9ts/dumb-passwords": {
+  "last_commit": "2016-06-22"
+ },
+ "knownsec/Ethereum-Smart-Contracts-Security-CheckList": {
+  "last_commit": "2019-08-02"
+ },
+ "knownsec/KCon": {
+  "last_commit": "2026-11-03"
+ },
+ "knownsec/Pocsuite": {
+  "last_commit": "2019-09-11"
+ },
+ "knownsec/RD_Checklist": {
+  "last_commit": "2024-08-23"
+ },
+ "knqyf263/trivy": {
+  "last_commit": "2026-10-07"
+ },
+ "koalaman/shellcheck": {
+  "last_commit": "2026-11-08"
+ },
+ "kolide/kolide-quickstart": {
+  "last_commit": "2018-05-29"
+ },
+ "korcankaraokcu/PINCE": {
+  "last_commit": "2026-09-18"
+ },
+ "kotobukki/BigDataAudit": {
+  "last_commit": "2020-06-21"
+ },
+ "kreon/freeaudit": {
+  "last_commit": "2018-04-09"
+ },
+ "l3m0n/pentest_study": {
+  "last_commit": "2016-04-08"
+ },
+ "l3m0n/pentest_tools": {
+  "last_commit": "2019-01-22"
+ },
+ "lalithr95/API-fuzzer": {
+  "last_commit": "2017-07-15"
+ },
+ "lalithr95/fuzzapi": {
+  "last_commit": "2020-11-22"
+ },
+ "lazywinadmin/Monitor-ADGroupMembership": {
+  "last_commit": "2019-11-27"
+ },
+ "lazzyfu/AuditSQL": {
+  "last_commit": "2026-03-06"
+ },
+ "leonteale/pentestpackage": {
+  "last_commit": "2025-11-21"
+ },
+ "lietdai/doom": {
+  "last_commit": "2015-12-01"
+ },
+ "lightbulb-framework/lightbulb-framework": {
+  "last_commit": "2020-11-24"
+ },
+ "lijiejie/BBScan": {
+  "last_commit": "2024-12-31"
+ },
+ "lijiejie/GitHack": {
+  "last_commit": "2022-05-09"
+ },
+ "lijiejie/ds_store_exp": {
+  "last_commit": "2022-06-16"
+ },
+ "lijiejie/htpwdScan": {
+  "last_commit": "2021-09-07"
+ },
+ "lijiejie/subDomainsBrute": {
+  "last_commit": "2022-09-16"
+ },
+ "linkedin/qark": {
+  "last_commit": "2019-04-04"
+ },
+ "linuz/Sticky-Keys-Slayer": {
+  "last_commit": "2018-03-16"
+ },
+ "lk-geimfari/awesomo": {
+  "last_commit": "2026-10-26"
+ },
+ "lmy375/awesome-vmp": {
+  "last_commit": "2018-08-02"
+ },
+ "log2timeline/dftimewolf": {
+  "last_commit": "2026-11-06"
+ },
+ "longld/peda": {
+  "last_commit": "2021-01-03"
+ },
+ "lukebaggett/dnscat2-powershell": {
+  "last_commit": "2023-08-21"
+ },
+ "luyg24/IT_security": {
+  "last_commit": "2020-03-08"
+ },
+ "m0bilesecurity/RMS-Runtime-Mobile-Security": {
+  "last_commit": "2026-07-01"
+ },
+ "m0nad/HellRaiser": {
+  "last_commit": "2022-02-26"
+ },
+ "m4rco-/dorothy2": {
+  "last_commit": "2015-01-18"
+ },
+ "maK-/parameth": {
+  "last_commit": "2019-01-20"
+ },
+ "makash/linux-container-security-docs": {
+  "last_commit": "2017-04-27"
+ },
+ "makemytrip/dataShark": {
+  "last_commit": "2017-02-14"
+ },
+ "makuga01/dnsFookup": {
+  "last_commit": "2023-05-19"
+ },
+ "maliceio/malice": {
+  "last_commit": "2023-04-03"
+ },
+ "marco-lancini/goscan": {
+  "last_commit": "2020-08-21"
+ },
+ "matiasinsaurralde/evilredis": {
+  "last_commit": "2016-08-12"
+ },
+ "maurosoria/dirsearch": {
+  "last_commit": "2026-11-03"
+ },
+ "mazen160/struts-pwn_CVE-2018-11776": {
+  "last_commit": "2018-08-26"
+ },
+ "mboehme/aflfast": {
+  "last_commit": "2021-07-23"
+ },
+ "mcginty/snow": {
+  "last_commit": "2026-03-25"
+ },
+ "mebjas/CSRF-Protector-PHP": {
+  "last_commit": "2020-10-16"
+ },
+ "meirwah/awesome-incident-response": {
+  "last_commit": "2026-10-13"
+ },
+ "meta-llama/PurpleLlama": {
+  "last_commit": "2026-11-12"
+ },
+ "metac0rtex/GitHarvester": {
+  "last_commit": "2016-05-22"
+ },
+ "mgeeky/tomcatWarDeployer": {
+  "last_commit": "2022-11-05"
+ },
+ "micheloosterhof/cowrie": {
+  "last_commit": "2026-11-19"
+ },
+ "miguelgrinberg/Flask-HTTPAuth": {
+  "last_commit": "2026-08-29"
+ },
+ "mike01/pypacker": {
+  "last_commit": "2020-04-15"
+ },
+ "misterch0c/firminator_backend": {
+  "last_commit": "2016-07-18"
+ },
+ "mitchellkrogza/apache-ultimate-bad-bot-blocker": {
+  "last_commit": "2026-11-13"
+ },
+ "mitre-attack/attack-navigator": {
+  "last_commit": "2026-11-17"
+ },
+ "mitre/caldera": {
+  "last_commit": "2026-11-18"
+ },
+ "mitre/cti": {
+  "last_commit": "2026-11-05"
+ },
+ "momosecurity/aswan": {
+  "last_commit": "2021-06-15"
+ },
+ "mozilla-services/GitHub-Audit": {
+  "last_commit": "2021-10-25"
+ },
+ "mozilla/MozDef": {
+  "last_commit": "2021-11-02"
+ },
+ "mozilla/mig": {
+  "last_commit": "2019-09-13"
+ },
+ "mre/awesome-static-analysis": {
+  "last_commit": "2026-11-18"
+ },
+ "msoedov/agentic_security": {
+  "last_commit": "2026-11-18"
+ },
+ "mthbernardes/ARTLAS": {
+  "last_commit": "2021-08-16"
+ },
+ "mushorg/conpot": {
+  "last_commit": "2026-11-09"
+ },
+ "mushorg/glastopf": {
+  "last_commit": "2023-10-22"
+ },
+ "mwrlabs/KernelFuzzer": {
+  "last_commit": "2016-09-26"
+ },
+ "mwrlabs/OSXFuzz": {
+  "last_commit": "2017-10-23"
+ },
+ "mwrlabs/ViridianFuzzer": {
+  "last_commit": "2019-02-15"
+ },
+ "n0dec/MalwLess": {
+  "last_commit": "2021-10-11"
+ },
+ "n0tr00t/Beebeeto-framework": {
+  "last_commit": "2015-07-27"
+ },
+ "n0tr00t/Sreg": {
+  "last_commit": "2019-10-31"
+ },
+ "nairuzabulhul/RoadMap": {
+  "last_commit": "2026-11-11"
+ },
+ "nanshihui/Scan-T": {
+  "last_commit": "2018-08-14"
+ },
+ "nao-sec/ektotal": {
+  "last_commit": "2021-09-07"
+ },
+ "nccgroup/TriforceAFL": {
+  "last_commit": "2017-05-31"
+ },
+ "nebgnahz/awesome-iot-hacks": {
+  "last_commit": "2019-06-01"
+ },
+ "needmorecowbell/Hamburglar": {
+  "last_commit": "2025-12-31"
+ },
+ "neoneggplant/EggShell": {
+  "last_commit": "2018-09-23"
+ },
+ "netxfly/xsec-proxy-scanner": {
+  "last_commit": "2017-12-07"
+ },
+ "newaetech/chipwhisperer": {
+  "last_commit": "2026-11-18"
+ },
+ "nextcloud/twofactor_totp": {
+  "last_commit": "2026-11-15"
+ },
+ "ngalongc/bug-bounty-reference": {
+  "last_commit": "2024-08-01"
+ },
+ "nixawk/pentest-wiki": {
+  "last_commit": "2020-09-22"
+ },
+ "nmap/nmap": {
+  "last_commit": "2026-11-18"
+ },
+ "noraj/OSCP-Exam-Report-Template-Markdown": {
+  "last_commit": "2026-08-13"
+ },
+ "nvdv/vprof": {
+  "last_commit": "2022-07-15"
+ },
+ "offa/keygen": {
+  "last_commit": "2026-11-01"
+ },
+ "offensive-security/exploit-database": {
+  "last_commit": "2022-11-10"
+ },
+ "onethawt/reverseengineering-reading-list": {
+  "last_commit": "2023-05-01"
+ },
+ "onlurking/awesome-infosec": {
+  "last_commit": "2026-08-28"
+ },
+ "open-guides/og-aws": {
+  "last_commit": "2022-08-24"
+ },
+ "orf/cyborg": {
+  "last_commit": "2016-01-03"
+ },
+ "ossec/ossec-hids": {
+  "last_commit": "2026-11-17"
+ },
+ "ottosulin/awesome-ai-security": {
+  "last_commit": "2026-11-15"
+ },
+ "outflanknl/RedELK": {
+  "last_commit": "2026-11-02"
+ },
+ "owtf/owtf": {
+  "last_commit": "2026-09-03"
+ },
+ "owtf/wafbypasser": {
+  "last_commit": "2014-09-23"
+ },
+ "p1r06u3/opencanary_web": {
+  "last_commit": "2021-02-18"
+ },
+ "p4-team/ctf": {
+  "last_commit": "2024-09-18"
+ },
+ "paboldin/meltdown-exploit": {
+  "last_commit": "2018-02-14"
+ },
+ "palantir/alerting-detection-strategy-framework": {
+  "last_commit": "2021-04-29"
+ },
+ "panagiks/RSPET": {
+  "last_commit": "2017-10-14"
+ },
+ "panther-labs/panther-analysis": {
+  "last_commit": "2026-11-16"
+ },
+ "paragonie/awesome-appsec": {
+  "last_commit": "2025-02-22"
+ },
+ "paralax/awesome-honeypots": {
+  "last_commit": "2026-06-01"
+ },
+ "parsiya/Hacking-with-Go": {
+  "last_commit": "2020-02-15"
+ },
+ "pe3zx/my-awesome": {
+  "last_commit": "2026-10-24"
+ },
+ "philipperemy/tensorflow-1.4-billion-password-analysis": {
+  "last_commit": "2020-03-30"
+ },
+ "phith0n/Mind-Map": {
+  "last_commit": "2018-04-30"
+ },
+ "pierrekim/pierrekim.github.io": {
+  "last_commit": "2025-11-20"
+ },
+ "portcullislabs/rdp-sec-check": {
+  "last_commit": "2021-04-04"
+ },
+ "prakhar1989/awesome-courses": {
+  "last_commit": "2022-11-12"
+ },
+ "prateek147/DVIA-v2": {
+  "last_commit": "2024-03-29"
+ },
+ "prbinu/tls-scan": {
+  "last_commit": "2024-11-22"
+ },
+ "presidentbeef/brakeman": {
+  "last_commit": "2026-11-18"
+ },
+ "programa-stic/barf-project": {
+  "last_commit": "2019-11-24"
+ },
+ "protectai/vulnhuntr": {
+  "last_commit": "2025-02-06"
+ },
+ "psecio/parse": {
+  "last_commit": "2018-08-01"
+ },
+ "pumasecurity/puma-scan": {
+  "last_commit": "2026-08-06"
+ },
+ "putterpanda/mimikittenz": {
+  "last_commit": "2020-10-16"
+ },
+ "pyinstaller/pyinstaller": {
+  "last_commit": "2026-11-17"
+ },
+ "qazbnm456/awesome-cve-poc": {
+  "last_commit": "2021-02-09"
+ },
+ "quarkslab/binmap": {
+  "last_commit": "2018-07-02"
+ },
+ "r0eXpeR/redteam_vul": {
+  "last_commit": "2021-07-17"
+ },
+ "rabbitmask/AssetsHunter": {
+  "last_commit": "2025-09-22"
+ },
+ "rabobank-cdc/DeTTECT": {
+  "last_commit": "2026-11-05"
+ },
+ "rapid7/hackazon": {
+  "last_commit": "2021-03-11"
+ },
+ "rapid7/metasploit-framework": {
+  "last_commit": "2026-11-19"
+ },
+ "rapid7/metasploitable3": {
+  "last_commit": "2025-02-13"
+ },
+ "rastating/wordpress-exploit-framework": {
+  "last_commit": "2019-11-24"
+ },
+ "rastrea2r/rastrea2r": {
+  "last_commit": "2026-10-12"
+ },
+ "rbsec/sslscan": {
+  "last_commit": "2026-11-14"
+ },
+ "re-pronin/awesome-vulnerability-research": {
+  "last_commit": "2020-12-07"
+ },
+ "redcanaryco/atomic-red-team": {
+  "last_commit": "2026-11-06"
+ },
+ "redhuntlabs/RedHunt-OS": {
+  "last_commit": "2025-01-22"
+ },
+ "rednaga/APKiD": {
+  "last_commit": "2026-10-21"
+ },
+ "renatahodovan/fuzzinator": {
+  "last_commit": "2025-11-23"
+ },
+ "renzu0/nw-tips": {
+  "last_commit": "2019-03-20"
+ },
+ "repoog/GitPrey": {
+  "last_commit": "2020-11-26"
+ },
+ "rewardone/OSCPRepo": {
+  "last_commit": "2020-06-22"
+ },
+ "reyjrar/DreamCatcher": {
+  "last_commit": "2026-11-12"
+ },
+ "rezasp/joomscan": {
+  "last_commit": "2023-11-30"
+ },
+ "rfxn/linux-malware-detect": {
+  "last_commit": "2026-04-26"
+ },
+ "ring04h/pentest": {
+  "last_commit": "2020-05-06"
+ },
+ "ring04h/wydomain": {
+  "last_commit": "2017-06-26"
+ },
+ "riusksk/secbook": {
+  "last_commit": "2024-04-21"
+ },
+ "riverloopsec/tumblerf": {
+  "last_commit": "2018-03-15"
+ },
+ "rizinorg/cutter": {
+  "last_commit": "2026-11-13"
+ },
+ "rmikehodges/hideNsneak": {
+  "last_commit": "2019-12-10"
+ },
+ "rmusser01/Infosec_Reference": {
+  "last_commit": "2026-11-17"
+ },
+ "rshipp/awesome-malware-analysis": {
+  "last_commit": "2024-05-30"
+ },
+ "rust-unofficial/awesome-rust": {
+  "last_commit": "2026-11-19"
+ },
+ "s0md3v/AwesomeXSS": {
+  "last_commit": "2024-10-31"
+ },
+ "s3team/uroboros": {
+  "last_commit": "2026-06-22"
+ },
+ "s4n7h0/Halcyon": {
+  "last_commit": "2020-08-08"
+ },
+ "samdenty99/injectify": {
+  "last_commit": "2022-05-12"
+ },
+ "samratashok/nishang": {
+  "last_commit": "2023-02-02"
+ },
+ "saucer-man/saucerframe": {
+  "last_commit": "2025-12-09"
+ },
+ "sbilly/awesome-security": {
+  "last_commit": "2026-01-11"
+ },
+ "schubergphilis/Seccubus": {
+  "last_commit": "2019-07-12"
+ },
+ "screetsec/Dracnmap": {
+  "last_commit": "2017-10-11"
+ },
+ "se55i0n/DBScanner": {
+  "last_commit": "2017-12-01"
+ },
+ "sea-god/gitscan": {
+  "last_commit": "2016-11-29"
+ },
+ "secfigo/Awesome-Fuzzing": {
+  "last_commit": "2023-07-04"
+ },
+ "secgroundzero/warberry": {
+  "last_commit": "2019-11-09"
+ },
+ "secretsquirrel/BDFProxy": {
+  "last_commit": "2021-07-30"
+ },
+ "secretsquirrel/the-backdoor-factory": {
+  "last_commit": "2023-10-30"
+ },
+ "securego/gosec": {
+  "last_commit": "2026-11-13"
+ },
+ "sensepost/mallet": {
+  "last_commit": "2024-07-16"
+ },
+ "sergey-pronin/Awesome-Vulnerability-Research": {
+  "last_commit": "2020-12-07"
+ },
+ "shieldfy/API-Security-Checklist": {
+  "last_commit": "2026-07-21"
+ },
+ "shinnok/johnny": {
+  "last_commit": "2022-05-29"
+ },
+ "shmilylty/OneForAll": {
+  "last_commit": "2026-11-02"
+ },
+ "sindresorhus/awesome": {
+  "last_commit": "2026-09-02"
+ },
+ "six2dez/OSCP-Human-Guide": {
+  "last_commit": "2022-06-15"
+ },
+ "sleuthkit/sleuthkit": {
+  "last_commit": "2026-11-13"
+ },
+ "slowmist/Knowledge-Base": {
+  "last_commit": "2026-11-11"
+ },
+ "smartFlash/pySecurity": {
+  "last_commit": "2019-11-29"
+ },
+ "snoopysecurity/OSCE-Prep": {
+  "last_commit": "2020-08-21"
+ },
+ "snoopysecurity/awesome-burp-extensions": {
+  "last_commit": "2026-11-18"
+ },
+ "so87/OSCP-PwK": {
+  "last_commit": "2021-08-25"
+ },
+ "sobolevn/awesome-cryptography": {
+  "last_commit": "2026-07-15"
+ },
+ "softvar/secure-ls": {
+  "last_commit": "2024-06-20"
+ },
+ "sophron/wifiphisher": {
+  "last_commit": "2026-05-22"
+ },
+ "sowish/LNScan": {
+  "last_commit": "2016-08-27"
+ },
+ "spatie/laravel-littlegatekeeper": {
+  "last_commit": "2026-11-09"
+ },
+ "spectresearch/detectem": {
+  "last_commit": "2020-12-21"
+ },
+ "speed47/spectre-meltdown-checker": {
+  "last_commit": "2026-11-11"
+ },
+ "splunk/security_content": {
+  "last_commit": "2026-11-18"
+ },
+ "splx-ai/agentic-radar": {
+  "last_commit": "2026-11-13"
+ },
+ "spoofzu/DeepViolet": {
+  "last_commit": "2026-05-29"
+ },
+ "spotify/gcp-firewall-enforcer": {
+  "last_commit": "2017-02-17"
+ },
+ "spring-projects/spring-security": {
+  "last_commit": "2026-11-18"
+ },
+ "spring-projects/spring-security-oauth": {
+  "last_commit": "2022-05-30"
+ },
+ "sqlmapproject/sqlmap": {
+  "last_commit": "2026-11-12"
+ },
+ "sroberts/awesome-iocs": {
+  "last_commit": "2026-09-30"
+ },
+ "sscarduzio/elasticsearch-readonlyrest-plugin": {
+  "last_commit": "2026-11-17"
+ },
+ "stamparm/DSVW": {
+  "last_commit": "2026-08-19"
+ },
+ "stamparm/ipsum": {
+  "last_commit": "2026-11-19"
+ },
+ "stamparm/maltrail": {
+  "last_commit": "2026-11-18"
+ },
+ "stampery/mongoaudit": {
+  "last_commit": "2020-12-03"
+ },
+ "stanislav-web/OpenDoor": {
+  "last_commit": "2026-11-08"
+ },
+ "starnightcyber/Miscellaneous": {
+  "last_commit": "2024-07-19"
+ },
+ "stasinopoulos/commix": {
+  "last_commit": "2026-11-19"
+ },
+ "stevespringett/dependency-check-sonar-plugin": {
+  "last_commit": "2026-09-30"
+ },
+ "sublime-security/sublime-rules": {
+  "last_commit": "2026-11-18"
+ },
+ "sullo/nikto": {
+  "last_commit": "2026-08-15"
+ },
+ "swisskyrepo/PayloadsAllTheThings": {
+  "last_commit": "2026-10-30"
+ },
+ "sycurelab/DECAF": {
+  "last_commit": "2021-02-18"
+ },
+ "symfony/security": {
+  "last_commit": "2023-01-24"
+ },
+ "syncsrc/MicroRenovator": {
+  "last_commit": "2018-08-25"
+ },
+ "t00sh/rop-tool": {
+  "last_commit": "2019-02-21"
+ },
+ "t94j0/AIRMASTER": {
+  "last_commit": "2018-10-22"
+ },
+ "tagnullde/OSCP": {
+  "last_commit": "2024-07-17"
+ },
+ "taipan-scanner/Taipan": {
+  "last_commit": "2021-05-07"
+ },
+ "tennc/webshell": {
+  "last_commit": "2024-12-24"
+ },
+ "thesp0nge/dawnscanner": {
+  "last_commit": "2023-11-13"
+ },
+ "thomaspatzke/WASE": {
+  "last_commit": "2019-09-18"
+ },
+ "threat9/routersploit": {
+  "last_commit": "2026-05-05"
+ },
+ "threedr3am/learnjavabug": {
+  "last_commit": "2024-03-14"
+ },
+ "tigerpuma/Afl_unicorn": {
+  "last_commit": "2017-11-14"
+ },
+ "tintinweb/striptls": {
+  "last_commit": "2021-11-25"
+ },
+ "tom0li/collection-document": {
+  "last_commit": "2021-04-19"
+ },
+ "toniblyx/my-arsenal-of-aws-security-tools": {
+  "last_commit": "2026-10-02"
+ },
+ "trailofbits/mcsema": {
+  "last_commit": "2022-04-26"
+ },
+ "trimstray/iptables-essentials": {
+  "last_commit": "2024-11-19"
+ },
+ "trimstray/the-book-of-secret-knowledge": {
+  "last_commit": "2024-11-19"
+ },
+ "turbo/KPTI-PoC-Collection": {
+  "last_commit": "2018-01-04"
+ },
+ "tylerhalfpop/awesome-reversing": {
+  "last_commit": "2019-03-07"
+ },
+ "uknowsec/Active-Directory-Pentest-Notes": {
+  "last_commit": "2020-02-07"
+ },
+ "unprovable/PentestHardware": {
+  "last_commit": "2019-05-29"
+ },
+ "unrolled/secure": {
+  "last_commit": "2026-11-10"
+ },
+ "urbanadventurer/whatweb": {
+  "last_commit": "2026-04-03"
+ },
+ "utds3lab/multiverse": {
+  "last_commit": "2018-05-16"
+ },
+ "v1s1t0r1sh3r3/airgeddon": {
+  "last_commit": "2026-11-12"
+ },
+ "v2-dev/awesome-social-engineering": {
+  "last_commit": "2023-04-05"
+ },
+ "vanhoefm/krackattacks-scripts": {
+  "last_commit": "2024-12-25"
+ },
+ "veficos/reverse-engineering-for-beginners": {
+  "last_commit": "2020-07-15"
+ },
+ "vidar-team/HCTF2017": {
+  "last_commit": "2017-11-14"
+ },
+ "vinta/awesome-python": {
+  "last_commit": "2026-11-17"
+ },
+ "vlad902/hacking-team-windows-kernel-lpe": {
+  "last_commit": "2015-07-21"
+ },
+ "vrdse/MeltdownSpectreReport": {
+  "last_commit": "2018-08-15"
+ },
+ "vulhub/vulhub": {
+  "last_commit": "2026-10-18"
+ },
+ "vusec/vuzzer": {
+  "last_commit": "2019-10-28"
+ },
+ "wazuh/wazuh": {
+  "last_commit": "2026-11-17"
+ },
+ "wgliang/logcool": {
+  "last_commit": "2017-07-24"
+ },
+ "whid-injector/WHID": {
+  "last_commit": "2023-09-22"
+ },
+ "wireghoul/dotdotpwn": {
+  "last_commit": "2022-09-28"
+ },
+ "wireghoul/graudit": {
+  "last_commit": "2026-10-13"
+ },
+ "wish-i-was/femida": {
+  "last_commit": "2019-10-10"
+ },
+ "wmliang/pe-afl": {
+  "last_commit": "2019-11-15"
+ },
+ "wpscanteam/wpscan": {
+  "last_commit": "2026-11-06"
+ },
+ "wufeifei/cobra": {
+  "last_commit": "2021-06-10"
+ },
+ "wupco/weblogger": {
+  "last_commit": "2018-06-13"
+ },
+ "xMilkPowderx/OSCP": {
+  "last_commit": "2019-05-06"
+ },
+ "xairy/linux-kernel-exploitation": {
+  "last_commit": "2026-11-06"
+ },
+ "xl7dev/BurpSuite": {
+  "last_commit": "2018-01-03"
+ },
+ "xmendez/wfuzz": {
+  "last_commit": "2026-01-21"
+ },
+ "xssfile/Attack-data": {
+  "last_commit": "2018-04-20"
+ },
+ "yandex/gixy": {
+  "last_commit": "2024-01-06"
+ },
+ "yaofeifly/Vub_ENV": {
+  "last_commit": "2018-07-19"
+ },
+ "yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References": {
+  "last_commit": "2022-01-13"
+ },
+ "yinwang0/pysonar2": {
+  "last_commit": "2025-07-04"
+ },
+ "youngyangyang04/NoSQLAttack": {
+  "last_commit": "2020-08-05"
+ },
+ "ysrc/GourdScanV2": {
+  "last_commit": "2017-11-01"
+ },
+ "ysrc/Liudao": {
+  "last_commit": "2018-10-28"
+ },
+ "ysrc/xunfeng": {
+  "last_commit": "2021-03-16"
+ },
+ "yueliu1999/Awesome-Jailbreak-on-LLMs": {
+  "last_commit": "2026-11-08"
+ },
+ "zMarch/Orc": {
+  "last_commit": "2019-11-12"
+ },
+ "zTrix/zio": {
+  "last_commit": "2025-06-09"
+ },
+ "zant95/hBlock": {
+  "last_commit": "2026-10-31"
+ },
+ "zardus/ctf-tools": {
+  "last_commit": "2026-10-21"
+ },
+ "zbetcheckin/Security_list": {
+  "last_commit": "2020-01-29"
+ },
+ "zeek/zeek": {
+  "last_commit": "2026-11-18"
+ },
+ "zer0h/httpscan": {
+  "last_commit": "2016-04-05"
+ },
+ "zer0yu/Berserker": {
+  "last_commit": "2024-08-14"
+ },
+ "zer0yu/CyberSecurityRSS": {
+  "last_commit": "2026-09-07"
+ },
+ "zhuyingda/veneno": {
+  "last_commit": "2019-04-10"
+ },
+ "ziadoz/awesome-php": {
+  "last_commit": "2026-10-30"
+ },
+ "zjlywjh001/PhrackCTF-Platform-Team": {
+  "last_commit": "2018-03-27"
+ },
+ "zscproject/OWASP-ZSC": {
+  "last_commit": "2023-12-15"
+ },
+ "zsdlove/Hades": {
+  "last_commit": "2021-01-08"
+ },
+ "zt2/sqli-hunter": {
+  "last_commit": "2024-04-27"
+ },
+ "zwq0320/malicious_dynamic_behavior_detection_by_cnn": {
+  "last_commit": "2018-08-29"
+ },
+ "zxsecurity/gpsnitch": {
+  "last_commit": "2017-03-27"
+ }
+}
