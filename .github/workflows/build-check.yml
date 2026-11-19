@@ -1,0 +1,36 @@
+name: build-check
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate data
+        run: |
+          python - <<'PY'
+          import json, sys
+          sys.path.insert(0, "scripts")
+          from build import CATEGORIES
+          tools = json.load(open("data/tools.json"))
+          req = {"category", "section", "name", "description", "url", "repo", "risk"}
+          seen, errs = set(), []
+          for i, t in enumerate(tools):
+              miss = req - t.keys()
+              if miss: errs.append(f"#{i} missing {miss}")
+              if t.get("category") not in CATEGORIES: errs.append(f"#{i} bad category {t.get('category')}")
+              key = (t.get("repo") or t.get("url", "")).lower()
+              if key in seen: errs.append(f"#{i} duplicate {key}")
+              seen.add(key)
+          if errs: sys.exit("\n".join(errs))
+          print(f"{len(tools)} entries OK")
+          PY
+      - name: Generated markdown is up to date
+        run: python scripts/build.py --check
