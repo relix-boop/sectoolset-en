@@ -1,2379 +1,4067 @@
 {
  "01org/cc-oci-runtime": {
-  "last_commit": "2017-09-25"
+  "archived": true,
+  "last_commit": "2017-09-25",
+  "renamed_to": "intel/cc-oci-runtime",
+  "stars": 418
  },
  "0Kee-Team/WatchAD": {
-  "last_commit": "2022-04-20"
+  "archived": true,
+  "last_commit": "2022-04-20",
+  "renamed_to": "Qianlitp/WatchAD",
+  "stars": 1325
  },
  "0vercl0k/rp": {
-  "last_commit": "2025-09-14"
+  "archived": false,
+  "last_commit": "2025-09-14",
+  "stars": 2202
  },
  "0x00-0x00/ShellPop": {
-  "last_commit": "2019-04-02"
+  "archived": false,
+  "last_commit": "2019-04-02",
+  "stars": 1487
  },
  "0x4D31/awesome-oscp": {
-  "last_commit": "2024-04-28"
+  "archived": false,
+  "last_commit": "2024-04-28",
+  "stars": 3528
  },
  "0x783kb/Security-Operation-Book": {
-  "last_commit": "2026-11-10"
+  "archived": false,
+  "last_commit": "2026-11-10",
+  "renamed_to": "0x783kb/Threat-Analysis-Handbook",
+  "stars": 654
  },
  "0xbug/SQLiScanner": {
-  "last_commit": "2017-09-22"
+  "archived": true,
+  "last_commit": "2017-09-22",
+  "stars": 833
  },
  "13o-bbr-bbq/machine_learning_security": {
-  "last_commit": "2026-05-07"
+  "archived": false,
+  "last_commit": "2026-05-07",
+  "stars": 2095
  },
  "1N3/IntruderPayloads": {
-  "last_commit": "2021-09-26"
+  "archived": false,
+  "last_commit": "2021-09-27",
+  "stars": 4003
  },
  "3gstudent/Pentest-and-Development-Tips": {
-  "last_commit": "2022-05-25"
+  "archived": false,
+  "last_commit": "2022-05-26",
+  "stars": 1124
  },
  "5H311-1NJ3C706/local-root-exploits": {
-  "last_commit": "2018-01-22"
+  "archived": false,
+  "last_commit": "2018-01-22",
+  "stars": 38
  },
  "5alt/GitLeak": {
-  "last_commit": "2018-05-15"
+  "archived": false,
+  "last_commit": "2018-05-15",
+  "stars": 128
  },
  "73696e65/windows-exploits": {
-  "last_commit": "2016-03-03"
+  "archived": false,
+  "last_commit": "2016-03-03",
+  "stars": 73
  },
  "78778443/permeate": {
-  "last_commit": "2026-03-12"
+  "archived": false,
+  "last_commit": "2026-03-12",
+  "stars": 289
  },
  "80vul/phpcodz": {
-  "last_commit": "2015-09-05"
+  "archived": false,
+  "last_commit": "2015-09-05",
+  "stars": 673
  },
  "ANELKAOS/ada": {
-  "last_commit": "2018-05-09"
+  "archived": false,
+  "last_commit": "2018-05-09",
+  "stars": 21
  },
  "ANSSI-FR/audit-radius": {
-  "last_commit": "2018-10-15"
+  "archived": true,
+  "last_commit": "2018-10-15",
+  "stars": 81
  },
  "AlessandroZ/LaZagne": {
-  "last_commit": "2025-09-18"
+  "archived": false,
+  "last_commit": "2025-09-18",
+  "stars": 11095
  },
  "AndroidTamer/KnowledgeBase": {
-  "last_commit": "2022-07-27"
+  "archived": false,
+  "last_commit": "2022-07-27",
+  "renamed_to": "TamerPlatform/KnowledgeBase",
+  "stars": 19
  },
  "Audi-1/sqli-labs": {
-  "last_commit": "2014-10-31"
+  "archived": false,
+  "last_commit": "2014-10-31",
+  "stars": 5877
  },
  "Azure/Azure-Sentinel": {
-  "last_commit": "2026-11-19"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 6261
  },
  "B3nac/Android-Reports-and-Resources": {
-  "last_commit": "2026-10-20"
+  "archived": false,
+  "last_commit": "2026-10-21",
+  "stars": 1721
  },
  "BinaryAnalysisPlatform/bap": {
-  "last_commit": "2026-05-07"
+  "archived": false,
+  "last_commit": "2026-05-07",
+  "stars": 2263
  },
  "BloodHoundAD/BloodHound": {
-  "last_commit": "2026-03-02"
+  "archived": false,
+  "last_commit": "2026-03-02",
+  "renamed_to": "SpecterOps/BloodHound-Legacy",
+  "stars": 10627
  },
  "Bypass007/Emergency-Response-Notes": {
-  "last_commit": "2021-09-02"
+  "archived": false,
+  "last_commit": "2021-09-02",
+  "stars": 5579
  },
  "Bypass007/Nessus_to_report": {
-  "last_commit": "2019-05-28"
+  "archived": false,
+  "last_commit": "2019-05-28",
+  "stars": 369
  },
  "Bypass007/Safety-Project-Collection": {
-  "last_commit": "2022-04-11"
+  "archived": false,
+  "last_commit": "2022-04-11",
+  "stars": 2389
  },
  "C-Cracks/OSCP-Automation": {
-  "last_commit": "2020-10-15"
+  "archived": false,
+  "last_commit": "2020-10-15",
+  "stars": 153
  },
  "CERT-BDF/Cortex": {
-  "last_commit": "2026-10-20"
+  "archived": false,
+  "last_commit": "2026-10-20",
+  "renamed_to": "TheHive-Project/Cortex",
+  "stars": 1650
  },
  "CERTCC/trommel": {
-  "last_commit": "2020-06-23"
+  "archived": true,
+  "last_commit": "2020-06-23",
+  "stars": 213
  },
  "CHYbeta/Software-Security-Learning": {
-  "last_commit": "2018-02-17"
+  "archived": false,
+  "last_commit": "2018-02-17",
+  "stars": 1280
  },
  "CIRCL/AIL-framework": {
-  "last_commit": "2026-11-16"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 1385
  },
  "CISOfy/lynis": {
-  "last_commit": "2026-09-16"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 16721
  },
  "CVEProject/cvelist": {
-  "last_commit": "2025-06-03"
+  "archived": true,
+  "last_commit": "2025-06-03",
+  "stars": 1490
  },
  "Cherishao/APT-Sample": {
-  "last_commit": "2024-05-29"
+  "archived": false,
+  "last_commit": "2024-05-29",
+  "stars": 174
  },
  "Chora10/Cknife": {
-  "last_commit": "2016-08-03"
+  "archived": false,
+  "last_commit": "2016-08-03",
+  "stars": 2422
  },
  "ChrisTruncer/Egress-Assess": {
-  "last_commit": "2023-08-06"
+  "archived": false,
+  "last_commit": "2023-08-06",
+  "renamed_to": "RedSiege/Egress-Assess",
+  "stars": 716
  },
  "ChrisTruncer/EyeWitness": {
-  "last_commit": "2024-05-23"
+  "archived": false,
+  "last_commit": "2024-05-23",
+  "stars": 66
  },
  "ChrisTruncer/WMIOps": {
-  "last_commit": "2017-01-11"
+  "archived": false,
+  "last_commit": "2017-01-11",
+  "renamed_to": "RedSiege/WMIOps",
+  "stars": 384
  },
  "ClickSecurity/data_hacking": {
-  "last_commit": "2019-03-05"
+  "archived": false,
+  "last_commit": "2019-03-05",
+  "renamed_to": "SuperCowPowers/data_hacking",
+  "stars": 787
  },
  "CoreSecurity/impacket": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "renamed_to": "fortra/impacket",
+  "stars": 16287
  },
  "Cugu/awesome-forensics": {
-  "last_commit": "2026-09-26"
+  "archived": false,
+  "last_commit": "2026-09-26",
+  "stars": 5253
  },
  "CyDefUnicorn/OSCP-Archives": {
-  "last_commit": "2020-09-14"
+  "archived": false,
+  "last_commit": "2020-09-14",
+  "stars": 655
  },
  "Cyb3rWard0g/HELK": {
-  "last_commit": "2021-05-08"
+  "archived": false,
+  "last_commit": "2021-05-09",
+  "stars": 3935
  },
  "CylanceSPEAR/CyBot": {
-  "last_commit": "2019-09-17"
+  "archived": false,
+  "last_commit": "2019-09-17",
+  "renamed_to": "cylance/CyBot",
+  "stars": 317
  },
  "CymaticsCC/elf_similarity": {
-  "last_commit": "2020-10-28"
+  "archived": false,
+  "last_commit": "2020-10-28",
+  "stars": 14
  },
  "D0g3-Lab/AXB-CTF": {
-  "last_commit": "2018-11-28"
+  "archived": false,
+  "last_commit": "2018-11-28",
+  "renamed_to": "D0g3-Lab/i-SOON_CTF_2018",
+  "stars": 44
  },
  "D0g3-Lab/H1ve": {
-  "last_commit": "2020-11-25"
+  "archived": false,
+  "last_commit": "2020-11-25",
+  "stars": 656
  },
  "DanMcInerney/LANs.py": {
-  "last_commit": "2018-11-16"
+  "archived": false,
+  "last_commit": "2018-11-16",
+  "stars": 2636
  },
  "DanMcInerney/net-creds": {
-  "last_commit": "2019-12-18"
+  "archived": false,
+  "last_commit": "2019-12-18",
+  "stars": 1872
  },
  "DataSoft/Honeyd": {
-  "last_commit": "2013-12-20"
+  "archived": false,
+  "last_commit": "2013-12-20",
+  "stars": 398
  },
  "DataSploit/datasploit": {
-  "last_commit": "2025-11-20"
+  "archived": false,
+  "last_commit": "2025-11-20",
+  "stars": 3342
  },
  "DedSecInside/TorBot": {
-  "last_commit": "2026-11-12"
+  "archived": false,
+  "last_commit": "2026-11-12",
+  "stars": 5215
  },
  "Developer-Y/cs-video-courses": {
-  "last_commit": "2026-11-15"
+  "archived": false,
+  "last_commit": "2026-11-15",
+  "stars": 84885
  },
  "DinoTools/dionaea": {
-  "last_commit": "2021-02-08"
+  "archived": false,
+  "last_commit": "2021-02-08",
+  "stars": 822
  },
  "Dliv3/Venom": {
-  "last_commit": "2019-10-14"
+  "archived": false,
+  "last_commit": "2019-10-14",
+  "stars": 2164
  },
  "EbookFoundation/free-programming-books": {
-  "last_commit": "2026-11-12"
+  "archived": false,
+  "last_commit": "2026-11-12",
+  "stars": 401873
  },
  "EgeBalci/The-Eye": {
-  "last_commit": "2017-01-26"
+  "archived": true,
+  "last_commit": "2017-01-26",
+  "stars": 61
  },
  "EnableSecurity/wafw00f": {
-  "last_commit": "2026-04-19"
+  "archived": false,
+  "last_commit": "2026-04-19",
+  "stars": 6601
  },
  "EtherDream/jsproxy": {
-  "last_commit": "2020-02-19"
+  "archived": false,
+  "last_commit": "2020-02-19",
+  "stars": 9316
  },
  "FSecureLABS/drozer": {
-  "last_commit": "2026-04-08"
+  "archived": false,
+  "last_commit": "2026-04-08",
+  "renamed_to": "ReversecLabs/drozer",
+  "stars": 4658
  },
  "FabioBaroni/awesome-exploit-development": {
-  "last_commit": "2016-01-28"
+  "archived": false,
+  "last_commit": "2016-01-28",
+  "stars": 2125
  },
  "FallibleInc/security-guide-for-developers": {
-  "last_commit": "2025-08-30"
+  "archived": false,
+  "last_commit": "2025-08-30",
+  "stars": 21108
  },
  "FeeiCN/GSIL": {
-  "last_commit": "2023-11-28"
+  "archived": true,
+  "last_commit": "2023-11-28",
+  "stars": 2140
  },
  "FiloSottile/CVE-2016-2107": {
-  "last_commit": "2016-05-13"
+  "archived": false,
+  "last_commit": "2016-05-13",
+  "stars": 191
  },
  "FortuneC00kie/bug-monitor": {
-  "last_commit": "2018-04-18"
+  "archived": false,
+  "last_commit": "2018-04-18",
+  "renamed_to": "Shadow2chery/bug-monitor",
+  "stars": 268
  },
  "Funkmyster/awesome-cloud-security": {
-  "last_commit": "2025-05-19"
+  "archived": false,
+  "last_commit": "2025-05-20",
+  "stars": 681
  },
  "FutureSharks/rpi-security": {
-  "last_commit": "2020-01-05"
+  "archived": false,
+  "last_commit": "2020-01-05",
+  "stars": 224
  },
  "FuzzySecurity/Resource-List": {
-  "last_commit": "2016-09-02"
+  "archived": false,
+  "last_commit": "2016-09-02",
+  "stars": 373
  },
  "GDSSecurity/PadBuster": {
-  "last_commit": "2021-08-18"
+  "archived": false,
+  "last_commit": "2021-08-18",
+  "renamed_to": "strozfriedberg/PadBuster",
+  "stars": 815
  },
  "Gallopsled/pwntools": {
-  "last_commit": "2026-11-17"
+  "archived": false,
+  "last_commit": "2026-11-17",
+  "stars": 13874
  },
  "GaloisInc/macaw": {
-  "last_commit": "2026-10-05"
+  "archived": false,
+  "last_commit": "2026-10-06",
+  "stars": 258
  },
  "GoSecure/php7-opcache-override": {
-  "last_commit": "2021-05-27"
+  "archived": false,
+  "last_commit": "2021-05-27",
+  "stars": 317
  },
  "GoSecure/security-cheat-sheet": {
-  "last_commit": "2020-07-17"
+  "archived": false,
+  "last_commit": "2020-07-17",
+  "stars": 54
  },
  "Graph-X/davscan": {
-  "last_commit": "2019-07-09"
+  "archived": false,
+  "last_commit": "2019-07-09",
+  "stars": 120
  },
  "Green-m/green-hat-suite": {
-  "last_commit": "2018-08-13"
+  "archived": false,
+  "last_commit": "2018-08-13",
+  "stars": 128
  },
  "GrrrDog/Java-Deserialization-Cheat-Sheet": {
-  "last_commit": "2023-05-26"
+  "archived": false,
+  "last_commit": "2023-05-26",
+  "stars": 3189
  },
  "Hack-with-Github/Awesome-Hacking": {
-  "last_commit": "2026-10-27"
+  "archived": false,
+  "last_commit": "2026-10-27",
+  "stars": 125974
  },
  "Hack-with-Github/Free-Security-eBooks": {
-  "last_commit": "2019-01-20"
+  "archived": true,
+  "last_commit": "2019-01-20",
+  "stars": 5029
  },
  "Hack-with-Github/Windows": {
-  "last_commit": "2016-10-25"
+  "archived": true,
+  "last_commit": "2016-10-25",
+  "stars": 1815
  },
  "HatBoy/Pcap-Analyzer": {
-  "last_commit": "2021-02-06"
+  "archived": false,
+  "last_commit": "2021-02-06",
+  "stars": 1051
  },
  "Hcamael/CTF_repo": {
-  "last_commit": "2026-03-19"
+  "archived": false,
+  "last_commit": "2026-03-19",
+  "stars": 15
  },
  "HexHive/libdetox": {
-  "last_commit": "2019-01-17"
+  "archived": true,
+  "last_commit": "2019-01-17",
+  "stars": 59
  },
  "IBM/adversarial-robustness-toolbox": {
-  "last_commit": "2026-11-09"
+  "archived": false,
+  "last_commit": "2026-11-09",
+  "renamed_to": "Trusted-AI/adversarial-robustness-toolbox",
+  "stars": 6321
  },
  "ITI/ICS-Security-Tools": {
-  "last_commit": "2026-11-01"
+  "archived": false,
+  "last_commit": "2026-11-01",
+  "stars": 2086
  },
  "InQuest/awesome-yara": {
-  "last_commit": "2026-06-15"
+  "archived": false,
+  "last_commit": "2026-06-15",
+  "renamed_to": "pedramamini/awesome-yara",
+  "stars": 4322
  },
  "JKornev/hidden": {
-  "last_commit": "2022-07-14"
+  "archived": false,
+  "last_commit": "2022-07-13",
+  "stars": 2073
  },
  "JPCERTCC/LogonTracer": {
-  "last_commit": "2026-08-02"
+  "archived": false,
+  "last_commit": "2026-08-02",
+  "stars": 3306
  },
  "JacobReynolds/ssrfDetector": {
-  "last_commit": "2017-04-09"
+  "archived": false,
+  "last_commit": "2017-04-10",
+  "stars": 165
  },
  "JnuSimba/AndroidSecNotes": {
-  "last_commit": "2022-07-12"
+  "archived": false,
+  "last_commit": "2022-07-12",
+  "stars": 1356
  },
  "JnuSimba/LinuxSecNotes": {
-  "last_commit": "2023-04-03"
+  "archived": false,
+  "last_commit": "2023-04-03",
+  "stars": 456
  },
  "JnuSimba/MiscSecNotes": {
-  "last_commit": "2024-09-14"
+  "archived": false,
+  "last_commit": "2024-09-14",
+  "stars": 920
  },
  "JuxhinDB/OOB-Server": {
-  "last_commit": "2019-08-25"
+  "archived": false,
+  "last_commit": "2019-08-25",
+  "stars": 196
  },
  "Koukyosyumei/AIJack": {
-  "last_commit": "2026-05-29"
+  "archived": false,
+  "last_commit": "2026-05-30",
+  "stars": 430
  },
  "Kozea/wdb": {
-  "last_commit": "2019-09-16"
+  "archived": false,
+  "last_commit": "2019-09-16",
+  "stars": 1592
  },
  "LandGrey/pydictor": {
-  "last_commit": "2024-12-05"
+  "archived": false,
+  "last_commit": "2024-12-05",
+  "stars": 3661
  },
  "Lissy93/personal-security-checklist": {
-  "last_commit": "2026-11-01"
+  "archived": false,
+  "last_commit": "2026-11-01",
+  "stars": 22831
  },
  "LoRexxar/Cobra-W": {
-  "last_commit": "2026-10-12"
+  "archived": false,
+  "last_commit": "2026-10-12",
+  "renamed_to": "LoRexxar/Kunlun-M",
+  "stars": 2422
  },
  "M4ximuss/Powerless": {
-  "last_commit": "2020-08-04"
+  "archived": false,
+  "last_commit": "2020-08-04",
+  "renamed_to": "gladiatx0r/Powerless",
+  "stars": 486
  },
  "MISP/MISP": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 6676
  },
  "MISP/misp-taxonomies": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 312
  },
  "Maikuolan/CIDRAM": {
-  "last_commit": "2026-11-13"
+  "archived": false,
+  "last_commit": "2026-11-13",
+  "renamed_to": "CIDRAM/CIDRAM",
+  "stars": 113
  },
  "Maikuolan/phpMussel": {
-  "last_commit": "2026-11-10"
+  "archived": false,
+  "last_commit": "2026-11-10",
+  "renamed_to": "phpMussel/phpMussel",
+  "stars": 435
  },
  "Manisso/fsociety": {
-  "last_commit": "2026-07-21"
+  "archived": false,
+  "last_commit": "2026-07-21",
+  "stars": 12437
  },
  "Micropoor/Micro8": {
-  "last_commit": "2019-03-07"
+  "archived": false,
+  "last_commit": "2019-03-07",
+  "stars": 18032
  },
  "Microsoft/perfview": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 4788
  },
  "MindMac/IntentFuzzer": {
-  "last_commit": "2017-05-31"
+  "archived": false,
+  "last_commit": "2017-05-31",
+  "stars": 185
  },
  "MindPointGroup/cloudfrunt": {
-  "last_commit": "2018-04-27"
+  "archived": false,
+  "last_commit": "2018-04-27",
+  "stars": 361
  },
  "MobSF/Mobile-Security-Framework-MobSF": {
-  "last_commit": "2026-11-17"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 22261
  },
  "MozillaSecurity/dharma": {
-  "last_commit": "2021-08-13"
+  "archived": true,
+  "last_commit": "2021-08-13",
+  "stars": 493
  },
  "MozillaSecurity/funfuzz": {
-  "last_commit": "2026-11-13"
+  "archived": false,
+  "last_commit": "2026-11-13",
+  "stars": 645
  },
  "MozillaSecurity/peach": {
-  "last_commit": "2020-07-03"
+  "archived": true,
+  "last_commit": "2020-07-03",
+  "stars": 420
  },
  "Mr-xn/BurpSuite-collections": {
-  "last_commit": "2026-10-08"
+  "archived": false,
+  "last_commit": "2026-10-08",
+  "stars": 4002
  },
  "Mr-xn/Penetration_Testing_POC": {
-  "last_commit": "2026-11-19"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 7586
  },
  "MrLuit/EtherScamDB": {
-  "last_commit": "2020-04-28"
+  "archived": false,
+  "last_commit": "2020-04-28",
+  "stars": 174
  },
  "MyKings/docker-vulnerability-environment": {
-  "last_commit": "2019-05-31"
+  "archived": false,
+  "last_commit": "2019-05-31",
+  "stars": 394
  },
  "Ne0nd0g/merlin": {
-  "last_commit": "2026-10-14"
+  "archived": false,
+  "last_commit": "2026-10-15",
+  "stars": 5635
  },
  "Neo23x0/Loki": {
-  "last_commit": "2026-01-09"
+  "archived": false,
+  "last_commit": "2026-01-09",
+  "stars": 3805
  },
  "Neo23x0/signature-base": {
-  "last_commit": "2026-11-17"
+  "archived": false,
+  "last_commit": "2026-11-17",
+  "stars": 3068
  },
  "Neohapsis/NeoPI": {
-  "last_commit": "2025-11-28"
+  "archived": false,
+  "last_commit": "2025-11-28",
+  "renamed_to": "CiscoCXSecurity/NeoPI",
+  "stars": 483
  },
  "Neohapsis/bbqsql": {
-  "last_commit": "2019-01-04"
+  "archived": false,
+  "last_commit": "2019-01-04",
+  "renamed_to": "CiscoCXSecurity/bbqsql",
+  "stars": 840
  },
  "NetSPI/PowerUpSQL": {
-  "last_commit": "2024-12-12"
+  "archived": false,
+  "last_commit": "2024-12-12",
+  "stars": 2753
  },
  "NetSecLab/Paper_for_Digital_Forensics": {
-  "last_commit": "2018-03-18"
+  "archived": false,
+  "last_commit": "2018-03-18",
+  "stars": 10
  },
  "Netflix/Scumblr": {
-  "last_commit": "2019-02-05"
+  "archived": false,
+  "last_commit": "2019-02-05",
+  "renamed_to": "Netflix-Skunkworks/Scumblr",
+  "stars": 2635
  },
  "NextronSystems/APTSimulator": {
-  "last_commit": "2025-09-23"
+  "archived": false,
+  "last_commit": "2025-09-23",
+  "stars": 2792
  },
  "NullHypothesis/exitmap": {
-  "last_commit": "2023-10-16"
+  "archived": true,
+  "last_commit": "2023-10-16",
+  "stars": 460
  },
  "OISF/suricata": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 6916
  },
  "OTRF/Security-Datasets": {
-  "last_commit": "2023-09-20"
+  "archived": false,
+  "last_commit": "2023-09-20",
+  "stars": 1852
  },
  "OWASP/SecurityShepherd": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 1470
  },
  "OWASP/django-DefectDojo": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "renamed_to": "DefectDojo/django-DefectDojo",
+  "stars": 5252
  },
  "OWASP/owasp-mstg": {
-  "last_commit": "2026-11-04"
+  "archived": false,
+  "last_commit": "2026-11-04",
+  "renamed_to": "OWASP/mastg",
+  "stars": 13362
  },
  "OlivierLaflamme/Cheatsheet-God": {
-  "last_commit": "2024-12-12"
+  "archived": false,
+  "last_commit": "2024-12-12",
+  "stars": 5686
  },
  "OpenCTI-Platform/connectors": {
-  "last_commit": "2026-11-19"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 597
  },
  "OpenCTI-Platform/opencti": {
-  "last_commit": "2026-11-19"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 10399
  },
  "OpenNetworkingFoundation/DELTA": {
-  "last_commit": "2019-04-15"
+  "archived": false,
+  "last_commit": "2019-04-15",
+  "stars": 221
  },
  "OpenSCAP/openscap": {
-  "last_commit": "2026-11-13"
+  "archived": false,
+  "last_commit": "2026-11-13",
+  "stars": 1851
  },
  "OpenSCAP/scap-security-guide": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "renamed_to": "ComplianceAsCode/content",
+  "stars": 2843
  },
  "P1kachu/v0lt": {
-  "last_commit": "2018-01-22"
+  "archived": true,
+  "last_commit": "2018-01-22",
+  "stars": 371
  },
  "PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing": {
-  "last_commit": "2023-01-30"
+  "archived": false,
+  "last_commit": "2023-01-30",
+  "stars": 372
  },
  "PaulSec/awesome-sec-talks": {
-  "last_commit": "2026-02-17"
+  "archived": false,
+  "last_commit": "2026-02-17",
+  "stars": 4251
  },
  "Pl4gue/spectre-attack-demo": {
-  "last_commit": "2018-01-25"
+  "archived": false,
+  "last_commit": "2018-01-25",
+  "renamed_to": "flxwu/spectre-attack-demo",
+  "stars": 87
  },
  "Plazmaz/MongoDB-HoneyProxy": {
-  "last_commit": "2023-02-19"
+  "archived": false,
+  "last_commit": "2023-02-20",
+  "stars": 92
  },
  "PortSwigger/replicator": {
-  "last_commit": "2024-07-22"
+  "archived": false,
+  "last_commit": "2024-07-22",
+  "stars": 69
  },
  "PowerShellMafia/PowerSploit": {
-  "last_commit": "2020-08-17"
+  "archived": true,
+  "last_commit": "2020-08-17",
+  "stars": 13070
  },
  "PreOS-Security/awesome-firmware-security": {
-  "last_commit": "2019-07-18"
+  "archived": false,
+  "last_commit": "2019-07-18",
+  "stars": 620
  },
  "PreOS-Security/fwaudit": {
-  "last_commit": "2018-09-07"
+  "archived": false,
+  "last_commit": "2018-09-07",
+  "stars": 131
  },
  "Qihoo360/mysql-sniffer": {
-  "last_commit": "2018-05-16"
+  "archived": false,
+  "last_commit": "2018-05-16",
+  "stars": 866
  },
  "RASSec/A_Scan_Framework": {
-  "last_commit": "2023-05-15"
+  "archived": false,
+  "last_commit": "2023-05-15",
+  "stars": 131
  },
  "RUB-SysSec/kAFL": {
-  "last_commit": "2017-11-28"
+  "archived": false,
+  "last_commit": "2017-11-28",
+  "stars": 597
  },
  "Raikia/CredNinja": {
-  "last_commit": "2019-07-01"
+  "archived": false,
+  "last_commit": "2019-07-02",
+  "stars": 449
  },
  "RandomStorm/DVWA": {
-  "last_commit": "2026-11-17"
+  "archived": false,
+  "last_commit": "2026-11-17",
+  "renamed_to": "digininja/DVWA",
+  "stars": 14057
  },
  "RetireJS/grunt-retire": {
-  "last_commit": "2023-06-26"
+  "archived": false,
+  "last_commit": "2023-06-26",
+  "stars": 90
  },
  "Ridter/Pentest": {
-  "last_commit": "2019-04-09"
+  "archived": false,
+  "last_commit": "2019-04-09",
+  "stars": 544
  },
  "RootUp/BFuzz": {
-  "last_commit": "2022-12-05"
+  "archived": false,
+  "last_commit": "2022-12-05",
+  "stars": 319
  },
  "RustyShackleford221/OSCP-Prep": {
-  "last_commit": "2019-02-04"
+  "archived": false,
+  "last_commit": "2019-02-04",
+  "stars": 980
  },
  "SECFORCE/SNMP-Brute": {
-  "last_commit": "2021-09-13"
+  "archived": false,
+  "last_commit": "2021-09-13",
+  "stars": 334
  },
  "SECFORCE/sparta": {
-  "last_commit": "2020-08-17"
+  "archived": false,
+  "last_commit": "2020-08-17",
+  "stars": 1668
  },
  "SandySekharan/CTF-tool": {
-  "last_commit": "2016-04-09"
+  "archived": false,
+  "last_commit": "2016-04-09",
+  "stars": 309
  },
  "SanketKarpe/anwi": {
-  "last_commit": "2018-08-03"
+  "archived": false,
+  "last_commit": "2018-08-03",
+  "stars": 28
  },
  "Screetsec/Vegile": {
-  "last_commit": "2019-09-28"
+  "archived": false,
+  "last_commit": "2019-09-27",
+  "stars": 757
  },
  "SecWiki/sec-chart": {
-  "last_commit": "2019-10-13"
+  "archived": false,
+  "last_commit": "2019-10-13",
+  "stars": 6498
  },
  "Security-Onion-Solutions/securityonion": {
-  "last_commit": "2026-11-02"
+  "archived": false,
+  "last_commit": "2026-11-02",
+  "stars": 4993
  },
  "SecurityFTW/cs-suite": {
-  "last_commit": "2020-10-14"
+  "archived": false,
+  "last_commit": "2020-10-14",
+  "stars": 1172
  },
  "Seezo-io/llm-security-101": {
-  "last_commit": "2023-10-14"
+  "archived": false,
+  "last_commit": "2023-10-13",
+  "stars": 172
  },
  "Semmle/SecurityExploits": {
-  "last_commit": "2019-08-15"
+  "archived": true,
+  "last_commit": "2019-08-16",
+  "stars": 254
  },
  "Shuffle/Shuffle": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 2486
  },
  "SigmaHQ/pySigma": {
-  "last_commit": "2026-11-10"
+  "archived": false,
+  "last_commit": "2026-11-09",
+  "stars": 613
  },
  "SigmaHQ/sigma": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 11536
  },
  "SigmaHQ/sigma-cli": {
-  "last_commit": "2026-11-11"
+  "archived": false,
+  "last_commit": "2026-11-11",
+  "stars": 225
  },
  "Siguza/ios-resources": {
-  "last_commit": "2025-05-25"
+  "archived": false,
+  "last_commit": "2025-05-24",
+  "stars": 1988
  },
  "SilverMoonSecurity/PassiveFuzzFrameworkOSX": {
-  "last_commit": "2017-10-18"
+  "archived": false,
+  "last_commit": "2017-10-18",
+  "stars": 229
  },
  "SkewwG/VulScan": {
-  "last_commit": "2019-04-26"
+  "archived": false,
+  "last_commit": "2019-04-26",
+  "stars": 286
  },
  "SkyLined/LocalNetworkScanner": {
-  "last_commit": "2016-05-27"
+  "archived": false,
+  "last_commit": "2016-05-27",
+  "stars": 160
  },
  "Slynova-Org/node-fence": {
-  "last_commit": "2021-02-26"
+  "archived": false,
+  "last_commit": "2021-02-25",
+  "renamed_to": "Slynova-Org/fence",
+  "stars": 65
  },
  "SolomonSklash/chomp-scan": {
-  "last_commit": "2020-04-17"
+  "archived": false,
+  "last_commit": "2020-04-17",
+  "stars": 395
  },
  "SpamScope/spamscope": {
-  "last_commit": "2021-04-15"
+  "archived": false,
+  "last_commit": "2021-04-15",
+  "stars": 314
  },
  "SpiderLabs/ModSecurity": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "renamed_to": "owasp-modsecurity/ModSecurity",
+  "stars": 9881
  },
  "TeamWalrus/Walrus": {
-  "last_commit": "2019-06-17"
+  "archived": true,
+  "last_commit": "2019-06-17",
+  "stars": 491
  },
  "Tencent/HaboMalHunter": {
-  "last_commit": "2019-10-13"
+  "archived": false,
+  "last_commit": "2019-10-13",
+  "stars": 751
  },
  "TheHive-Project/Cortex-Analyzers": {
-  "last_commit": "2026-11-19"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 495
  },
  "TheHive-Project/TheHive": {
-  "last_commit": "2025-07-25"
+  "archived": true,
+  "last_commit": "2025-07-25",
+  "stars": 3951
  },
  "TheRook/subbrute": {
-  "last_commit": "2017-02-12"
+  "archived": false,
+  "last_commit": "2017-02-12",
+  "stars": 3541
  },
  "ThuCCSLab/Awesome-LM-SSP": {
-  "last_commit": "2026-09-02"
+  "archived": false,
+  "last_commit": "2026-09-02",
+  "renamed_to": "CryptoAILab/Awesome-LM-SSP",
+  "stars": 2106
  },
  "TracecatHQ/tracecat": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 3907
  },
  "TryCatchHCF/PacketWhisper": {
-  "last_commit": "2020-05-27"
+  "archived": false,
+  "last_commit": "2020-05-27",
+  "stars": 658
  },
  "Tuhinshubhra/CMSeeK": {
-  "last_commit": "2026-11-16"
+  "archived": false,
+  "last_commit": "2026-11-16",
+  "stars": 2597
  },
  "UKHomeOffice/repo-security-scanner": {
-  "last_commit": "2022-09-01"
+  "archived": false,
+  "last_commit": "2022-09-01",
+  "renamed_to": "techjacker/repo-security-scanner",
+  "stars": 1160
  },
  "V33RU/IoTSecurity101": {
-  "last_commit": "2026-10-16"
+  "archived": false,
+  "last_commit": "2026-10-16",
+  "renamed_to": "V33RU/awesome-connected-things-sec",
+  "stars": 3583
  },
  "VVard0g/ThreatHunter-Playbook": {
-  "last_commit": "2025-12-29"
+  "archived": false,
+  "last_commit": "2025-12-30",
+  "renamed_to": "OTRF/ThreatHunter-Playbook",
+  "stars": 4723
  },
  "ValdikSS/billgates-botnet-tracker": {
-  "last_commit": "2014-04-14"
+  "archived": false,
+  "last_commit": "2014-04-14",
+  "stars": 140
  },
  "Veil-Framework/Veil-Evasion": {
-  "last_commit": "2017-02-05"
+  "archived": true,
+  "last_commit": "2017-02-05",
+  "stars": 1841
  },
  "Velocidex/velociraptor": {
-  "last_commit": "2026-11-19"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 4484
  },
  "VerbalExpressions/JSVerbalExpressions": {
-  "last_commit": "2024-05-16"
+  "archived": false,
+  "last_commit": "2024-05-16",
+  "stars": 12114
  },
  "VerbalExpressions/PythonVerbalExpressions": {
-  "last_commit": "2020-05-03"
+  "archived": false,
+  "last_commit": "2020-05-03",
+  "stars": 1635
  },
  "VirusTotal/yara": {
-  "last_commit": "2026-10-27"
+  "archived": false,
+  "last_commit": "2026-10-27",
+  "stars": 10047
  },
  "WallbreakerTeam/TomcatBrute": {
-  "last_commit": "2016-11-04"
+  "archived": false,
+  "last_commit": "2016-11-04",
+  "stars": 12
  },
  "WangYihang/Find-PHP-Vulnerabilities": {
-  "last_commit": "2018-06-14"
+  "archived": false,
+  "last_commit": "2018-06-14",
+  "stars": 59
  },
  "WangYihang/Webshell-Sniper": {
-  "last_commit": "2026-06-27"
+  "archived": false,
+  "last_commit": "2026-06-27",
+  "stars": 427
  },
  "We5ter/Scanners-Box": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 9220
  },
  "WebGoat/WebGoat": {
-  "last_commit": "2026-11-09"
+  "archived": false,
+  "last_commit": "2026-11-09",
+  "stars": 9490
  },
  "WebGoat/WebGoat-Legacy": {
-  "last_commit": "2018-08-03"
+  "archived": false,
+  "last_commit": "2018-08-03",
+  "stars": 331
  },
  "WireGuard/WireGuard": {
-  "last_commit": "2019-12-19"
+  "archived": true,
+  "last_commit": "2019-12-19",
+  "renamed_to": "WireGuard/wireguard-monolithic-historical",
+  "stars": 2320
  },
  "WithSecureLabs/chainsaw": {
-  "last_commit": "2026-11-15"
+  "archived": false,
+  "last_commit": "2026-11-15",
+  "renamed_to": "WithSecureOpenSource/chainsaw",
+  "stars": 3727
  },
  "XcodeGhostSource/XcodeGhost": {
-  "last_commit": "2015-09-19"
+  "archived": false,
+  "last_commit": "2015-09-18",
+  "stars": 1921
  },
  "XiaoXiaoGuaiXiaShi/OpenSource-HoneyPot": {
-  "last_commit": "2021-01-31"
+  "archived": false,
+  "last_commit": "2021-01-31",
+  "stars": 56
  },
  "Xyntax/1000php": {
-  "last_commit": "2016-07-26"
+  "archived": false,
+  "last_commit": "2016-07-26",
+  "stars": 1106
  },
  "Y4er/WebLogic-Shiro-shell": {
-  "last_commit": "2020-08-25"
+  "archived": false,
+  "last_commit": "2020-08-25",
+  "stars": 530
  },
  "YJesus/AntiRansom": {
-  "last_commit": "2021-11-07"
+  "archived": false,
+  "last_commit": "2021-11-07",
+  "stars": 180
  },
  "YalcinYolalan/WSSAT": {
-  "last_commit": "2021-09-24"
+  "archived": false,
+  "last_commit": "2021-09-24",
+  "stars": 388
  },
  "Yamato-Security/hayabusa": {
-  "last_commit": "2026-11-10"
+  "archived": false,
+  "last_commit": "2026-11-10",
+  "stars": 3495
  },
  "Yelp/osxcollector": {
-  "last_commit": "2019-06-19"
+  "archived": true,
+  "last_commit": "2019-06-19",
+  "renamed_to": "YelpArchive/osxcollector",
+  "stars": 1887
  },
  "YosaiProject/yosai": {
-  "last_commit": "2017-02-07"
+  "archived": true,
+  "last_commit": "2017-02-07",
+  "stars": 584
  },
  "Z-0ne/ScanS2-045-Nmap": {
-  "last_commit": "2017-03-13"
+  "archived": false,
+  "last_commit": "2017-03-13",
+  "stars": 53
  },
  "_updated": "2026-11-19",
  "aatlasis/Chiron": {
-  "last_commit": "2018-08-03"
+  "archived": false,
+  "last_commit": "2018-08-03",
+  "stars": 208
  },
  "abeluck/stegdetect": {
-  "last_commit": "2018-10-31"
+  "archived": true,
+  "last_commit": "2018-10-31",
+  "stars": 426
  },
  "abhi-r3v0/Adhrit": {
-  "last_commit": "2021-12-10"
+  "archived": true,
+  "last_commit": "2021-12-10",
+  "stars": 542
  },
  "aboul3la/Sublist3r": {
-  "last_commit": "2020-07-29"
+  "archived": false,
+  "last_commit": "2020-07-29",
+  "stars": 11099
  },
  "abourget/secrets-bridge": {
-  "last_commit": "2017-07-13"
+  "archived": false,
+  "last_commit": "2017-07-13",
+  "stars": 49
  },
  "airbus-seclab/bta": {
-  "last_commit": "2016-03-25"
+  "archived": false,
+  "last_commit": "2016-03-25",
+  "stars": 138
  },
  "ajdumanhug/oscp-practice": {
-  "last_commit": "2020-06-24"
+  "archived": false,
+  "last_commit": "2020-06-23",
+  "stars": 167
  },
  "ajinabraham/NodeJsScan": {
-  "last_commit": "2026-09-20"
+  "archived": true,
+  "last_commit": "2026-09-21",
+  "stars": 2577
  },
  "aker-gateway/Aker": {
-  "last_commit": "2021-01-26"
+  "archived": false,
+  "last_commit": "2021-01-26",
+  "stars": 573
  },
  "al0ne/Vxscan": {
-  "last_commit": "2020-01-02"
+  "archived": false,
+  "last_commit": "2020-01-02",
+  "stars": 1764
  },
  "albuch/sbt-dependency-check": {
-  "last_commit": "2025-10-11"
+  "archived": true,
+  "last_commit": "2025-10-11",
+  "stars": 265
  },
  "alebcay/awesome-shell": {
-  "last_commit": "2024-02-20"
+  "archived": false,
+  "last_commit": "2024-02-20",
+  "stars": 37986
  },
  "alexfrancow/A-Detector": {
-  "last_commit": "2020-07-17"
+  "archived": false,
+  "last_commit": "2020-07-17",
+  "stars": 84
  },
  "alibaba/jvm-sandbox": {
-  "last_commit": "2023-01-26"
+  "archived": false,
+  "last_commit": "2023-01-26",
+  "stars": 6954
  },
  "anandkumar11u/OSCP-60days": {
-  "last_commit": "2020-05-15"
+  "archived": false,
+  "last_commit": "2020-05-14",
+  "renamed_to": "offsec-ttps/OSCP-60days",
+  "stars": 1
  },
  "anaynayak/aws-security-viz": {
-  "last_commit": "2026-10-04"
+  "archived": false,
+  "last_commit": "2026-10-04",
+  "stars": 721
  },
  "andresriancho/w3af": {
-  "last_commit": "2020-06-16"
+  "archived": false,
+  "last_commit": "2020-06-16",
+  "stars": 4916
  },
  "andrewjkerr/security-cheatsheets": {
-  "last_commit": "2022-03-17"
+  "archived": false,
+  "last_commit": "2022-03-18",
+  "stars": 1403
  },
  "angr/angr": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 9395
  },
  "angryziber/ipscan": {
-  "last_commit": "2026-11-16"
+  "archived": false,
+  "last_commit": "2026-11-16",
+  "renamed_to": "angryip/ipscan",
+  "stars": 5209
  },
  "antagon/TCHunt-ng": {
-  "last_commit": "2017-03-25"
+  "archived": false,
+  "last_commit": "2017-03-25",
+  "stars": 54
  },
  "aol/mrcrypt": {
-  "last_commit": "2018-04-11"
+  "archived": true,
+  "last_commit": "2018-04-11",
+  "renamed_to": "AOL-archive/mrcrypt",
+  "stars": 12
  },
  "appsecco/alldaydevops-aism": {
-  "last_commit": "2016-12-07"
+  "archived": false,
+  "last_commit": "2016-12-07",
+  "stars": 24
  },
  "apsdehal/awesome-ctf": {
-  "last_commit": "2020-05-17"
+  "archived": false,
+  "last_commit": "2020-05-18",
+  "stars": 12011
  },
  "aramosf/recoversqlite": {
-  "last_commit": "2016-06-17"
+  "archived": false,
+  "last_commit": "2016-06-17",
+  "stars": 65
  },
  "archerysec/archerysec": {
-  "last_commit": "2024-10-08"
+  "archived": false,
+  "last_commit": "2024-10-08",
+  "stars": 2478
  },
  "arthepsy/ssh-audit": {
-  "last_commit": "2016-11-02"
+  "archived": false,
+  "last_commit": "2016-11-02",
+  "stars": 2991
  },
  "ashishb/android-security-awesome": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 9840
  },
  "ashishb/osx-and-ios-security-awesome": {
-  "last_commit": "2026-11-16"
+  "archived": false,
+  "last_commit": "2026-11-17",
+  "stars": 1779
  },
  "atiger77/Dionaea": {
-  "last_commit": "2016-08-11"
+  "archived": false,
+  "last_commit": "2016-08-11",
+  "stars": 177
  },
  "atrandys/wireguard": {
-  "last_commit": "2020-12-19"
+  "archived": false,
+  "last_commit": "2020-12-19",
+  "stars": 753
  },
  "awhitehatter/mailoney": {
-  "last_commit": "2026-09-07"
+  "archived": false,
+  "last_commit": "2026-09-07",
+  "renamed_to": "phin3has/mailoney",
+  "stars": 286
  },
  "az0ne/AZScanner": {
-  "last_commit": "2016-11-11"
+  "archived": false,
+  "last_commit": "2016-11-11",
+  "stars": 500
  },
  "azsk/DevOpsKit-docs": {
-  "last_commit": "2021-12-29"
+  "archived": false,
+  "last_commit": "2021-12-29",
+  "stars": 493
  },
  "bad-antics/nullsec": {
-  "last_commit": "2026-04-15"
+  "archived": false,
+  "last_commit": "2026-04-16",
+  "stars": 78
  },
  "bad-antics/nullsec-linux": {
-  "last_commit": "2026-04-17"
+  "archived": false,
+  "last_commit": "2026-04-17",
+  "stars": 86
  },
  "bad-antics/nullsec-pineapple-suite": {
-  "last_commit": "2026-04-23"
+  "archived": false,
+  "last_commit": "2026-04-23",
+  "stars": 104
  },
  "bayandin/awesome-awesomeness": {
-  "last_commit": "2022-03-24"
+  "archived": false,
+  "last_commit": "2022-03-24",
+  "stars": 33798
  },
  "bdcht/amoco": {
-  "last_commit": "2025-02-17"
+  "archived": false,
+  "last_commit": "2025-02-17",
+  "stars": 495
  },
  "beefproject/beef": {
-  "last_commit": "2026-11-17"
+  "archived": false,
+  "last_commit": "2026-11-17",
+  "stars": 11100
  },
  "berzerk0/Probable-Wordlists": {
-  "last_commit": "2019-12-04"
+  "archived": false,
+  "last_commit": "2019-12-04",
+  "stars": 9395
  },
  "bfuzzy/auditd-attack": {
-  "last_commit": "2018-11-26"
+  "archived": false,
+  "last_commit": "2018-11-27",
+  "stars": 827
  },
  "bhdresh/Dejavu": {
-  "last_commit": "2025-08-02"
+  "archived": false,
+  "last_commit": "2025-08-02",
+  "stars": 436
  },
  "biggiesmallsAG/nightHawkResponse": {
-  "last_commit": "2019-11-20"
+  "archived": false,
+  "last_commit": "2019-11-20",
+  "stars": 607
  },
  "binux/pyspider": {
-  "last_commit": "2020-08-02"
+  "archived": true,
+  "last_commit": "2020-08-02",
+  "stars": 16745
  },
  "bit4woo/python_sec": {
-  "last_commit": "2020-08-06"
+  "archived": false,
+  "last_commit": "2020-08-06",
+  "stars": 1351
  },
  "blaCCkHatHacEEkr/PENTESTING-BIBLE": {
-  "last_commit": "2023-02-23"
+  "archived": false,
+  "last_commit": "2023-02-23",
+  "stars": 14029
  },
  "blackye/webdirdig": {
-  "last_commit": "2018-01-08"
+  "archived": false,
+  "last_commit": "2018-01-08",
+  "stars": 126
  },
  "bloodzer0/Enterprise_Security_Build--Open_Source": {
-  "last_commit": "2018-12-17"
+  "archived": false,
+  "last_commit": "2018-12-17",
+  "stars": 3
  },
  "bloodzer0/ossa": {
-  "last_commit": "2019-07-09"
+  "archived": false,
+  "last_commit": "2019-07-09",
+  "stars": 941
  },
  "bndw/pick": {
-  "last_commit": "2018-11-02"
+  "archived": true,
+  "last_commit": "2018-11-02",
+  "stars": 367
  },
  "bollwarm/App-Waf": {
-  "last_commit": "2018-07-10"
+  "archived": false,
+  "last_commit": "2018-07-10",
+  "stars": 34
  },
  "bollwarm/POC-EXP": {
-  "last_commit": "2018-12-25"
+  "archived": false,
+  "last_commit": "2018-12-25",
+  "stars": 1
  },
  "bollwarm/awvs_script_decode": {
-  "last_commit": "2017-11-16"
+  "archived": false,
+  "last_commit": "2017-11-16",
+  "stars": 2
  },
  "boy-hack/w11scan": {
-  "last_commit": "2018-08-23"
+  "archived": false,
+  "last_commit": "2018-08-23",
+  "renamed_to": "w-digital-scanner/w11scan",
+  "stars": 468
  },
  "boy-hack/w13scan": {
-  "last_commit": "2022-07-06"
+  "archived": false,
+  "last_commit": "2022-07-06",
+  "renamed_to": "w-digital-scanner/w13scan",
+  "stars": 1939
  },
  "boy-hack/w8fuckcdn": {
-  "last_commit": "2019-04-07"
+  "archived": false,
+  "last_commit": "2019-04-07",
+  "stars": 779
  },
  "boy-hack/w9scan": {
-  "last_commit": "2019-09-10"
+  "archived": false,
+  "last_commit": "2019-09-10",
+  "renamed_to": "w-digital-scanner/w9scan",
+  "stars": 1133
  },
  "brianlam38/Sec-Cheatsheets": {
-  "last_commit": "2020-01-21"
+  "archived": false,
+  "last_commit": "2020-01-20",
+  "stars": 35
  },
  "brianlam38/Sec-Dump": {
-  "last_commit": "2018-02-02"
+  "archived": false,
+  "last_commit": "2018-02-02",
+  "stars": 14
  },
  "brianwrf/hackUtils": {
-  "last_commit": "2016-09-06"
+  "archived": false,
+  "last_commit": "2016-09-06",
+  "stars": 519
  },
  "bro/bro": {
-  "last_commit": "2023-03-24"
+  "archived": true,
+  "last_commit": "2023-03-24",
+  "stars": 175
  },
  "bugsafe/WeReport": {
-  "last_commit": "2022-11-09"
+  "archived": false,
+  "last_commit": "2022-11-09",
+  "stars": 92
  },
  "burntmybagel/OSCP-Prep": {
-  "last_commit": "2020-06-01"
+  "archived": false,
+  "last_commit": "2020-06-01",
+  "stars": 502
  },
  "byt3bl33d3r/MITMf": {
-  "last_commit": "2018-08-28"
+  "archived": true,
+  "last_commit": "2018-08-28",
+  "stars": 3642
  },
  "byt3bl33d3r/gcat": {
-  "last_commit": "2018-11-16"
+  "archived": true,
+  "last_commit": "2018-11-16",
+  "stars": 1349
  },
  "c0ny1/upload-labs": {
-  "last_commit": "2020-01-15"
+  "archived": false,
+  "last_commit": "2020-01-15",
+  "stars": 4201
  },
  "c0ny1/vulstudy": {
-  "last_commit": "2020-03-25"
+  "archived": false,
+  "last_commit": "2020-03-25",
+  "stars": 2456
  },
  "caesar0301/awesome-pcaptools": {
-  "last_commit": "2025-09-03"
+  "archived": false,
+  "last_commit": "2025-09-03",
+  "stars": 3442
  },
  "capitalone/cloud-custodian": {
-  "last_commit": "2026-11-17"
+  "archived": false,
+  "last_commit": "2026-11-17",
+  "renamed_to": "cloud-custodian/cloud-custodian",
+  "stars": 6115
  },
  "carpedm20/awesome-hacking": {
-  "last_commit": "2023-12-06"
+  "archived": false,
+  "last_commit": "2023-12-06",
+  "stars": 17540
  },
  "certtools/intelmq": {
-  "last_commit": "2026-04-24"
+  "archived": false,
+  "last_commit": "2026-04-24",
+  "stars": 1145
  },
  "chaitin/cloudwalker": {
-  "last_commit": "2022-12-14"
+  "archived": false,
+  "last_commit": "2022-12-14",
+  "stars": 672
  },
  "chaitin/veinmind-tools": {
-  "last_commit": "2024-01-10"
+  "archived": false,
+  "last_commit": "2024-01-10",
+  "stars": 1653
  },
  "chaitin/xray": {
-  "last_commit": "2024-08-16"
+  "archived": false,
+  "last_commit": "2024-08-16",
+  "stars": 11797
  },
  "charlesportwoodii/libsodium-uwp": {
-  "last_commit": "2018-06-24"
+  "archived": false,
+  "last_commit": "2018-06-24",
+  "stars": 16
  },
  "chawins/llm-sp": {
-  "last_commit": "2025-06-08"
+  "archived": false,
+  "last_commit": "2025-06-08",
+  "stars": 589
  },
  "chef/inspec": {
-  "last_commit": "2026-11-10"
+  "archived": false,
+  "last_commit": "2026-11-10",
+  "renamed_to": "inspec/inspec",
+  "stars": 3105
  },
  "chhantyal/5minutes": {
-  "last_commit": "2017-02-15"
+  "archived": false,
+  "last_commit": "2017-02-15",
+  "stars": 114
  },
  "cisco-sas/katnip": {
-  "last_commit": "2019-02-01"
+  "archived": false,
+  "last_commit": "2019-02-01",
+  "stars": 80
  },
  "cisco/joy": {
-  "last_commit": "2019-11-08"
+  "archived": true,
+  "last_commit": "2019-11-08",
+  "stars": 1367
  },
  "ciscocsirt/malspider": {
-  "last_commit": "2017-04-17"
+  "archived": false,
+  "last_commit": "2017-04-17",
+  "stars": 417
  },
  "citronneur/rdpy": {
-  "last_commit": "2020-04-10"
+  "archived": false,
+  "last_commit": "2020-04-10",
+  "stars": 1736
  },
  "citypw/DNFWAH": {
-  "last_commit": "2018-12-05"
+  "archived": false,
+  "last_commit": "2018-12-05",
+  "renamed_to": "DNFWAH/DNFWAH",
+  "stars": 463
  },
  "clawoflight/aursec": {
-  "last_commit": "2018-03-05"
+  "archived": true,
+  "last_commit": "2018-03-05",
+  "stars": 15
  },
  "client9/libinjection": {
-  "last_commit": "2018-03-11"
+  "archived": false,
+  "last_commit": "2018-03-12",
+  "stars": 1031
  },
  "cliffe/secgen": {
-  "last_commit": "2026-11-17"
+  "archived": false,
+  "last_commit": "2026-11-17",
+  "stars": 2803
  },
  "cloudflare/boringtun": {
-  "last_commit": "2026-06-15"
+  "archived": false,
+  "last_commit": "2026-06-15",
+  "stars": 7271
  },
  "cloudflare/flan": {
-  "last_commit": "2024-09-19"
+  "archived": true,
+  "last_commit": "2024-09-20",
+  "stars": 4153
  },
  "cloudsploit/scans": {
-  "last_commit": "2026-09-22"
+  "archived": false,
+  "last_commit": "2026-09-22",
+  "renamed_to": "aquasecurity/cloudsploit",
+  "stars": 3789
  },
  "clymb3r/PowerShell": {
-  "last_commit": "2015-09-30"
+  "archived": false,
+  "last_commit": "2015-10-01",
+  "stars": 1289
  },
  "cmu-sei/pharos": {
-  "last_commit": "2026-10-20"
+  "archived": false,
+  "last_commit": "2026-10-20",
+  "stars": 1746
  },
  "cn0xroot/RFSec-ToolKit": {
-  "last_commit": "2024-05-28"
+  "archived": false,
+  "last_commit": "2024-05-28",
+  "stars": 1738
  },
  "code-scan/dzscan": {
-  "last_commit": "2018-09-20"
+  "archived": true,
+  "last_commit": "2018-09-20",
+  "stars": 307
  },
  "codejanus/ToolSuite": {
-  "last_commit": "2017-02-25"
+  "archived": false,
+  "last_commit": "2017-02-25",
+  "stars": 111
  },
  "codeling/bfstop": {
-  "last_commit": "2026-11-19"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 38
  },
  "codingo/Reconnoitre": {
-  "last_commit": "2020-04-09"
+  "archived": false,
+  "last_commit": "2020-04-09",
+  "stars": 2200
  },
  "compsec-snu/razzer": {
-  "last_commit": "2019-07-10"
+  "archived": false,
+  "last_commit": "2019-07-10",
+  "stars": 378
  },
  "coreb1t/awesome-pentest-cheat-sheets": {
-  "last_commit": "2024-02-16"
+  "archived": true,
+  "last_commit": "2024-02-16",
+  "stars": 4398
  },
  "countercept/snake": {
-  "last_commit": "2023-07-11"
+  "archived": false,
+  "last_commit": "2023-07-11",
+  "renamed_to": "WithSecureLabs/snake",
+  "stars": 218
  },
  "cowrie/cowrie": {
-  "last_commit": "2026-11-19"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 6685
  },
  "cr0hn/enteletaor": {
-  "last_commit": "2026-09-08"
+  "archived": false,
+  "last_commit": "2026-09-08",
+  "stars": 151
  },
  "cr0hn/vulnerable-node": {
-  "last_commit": "2026-09-08"
+  "archived": false,
+  "last_commit": "2026-09-08",
+  "stars": 493
  },
  "crowdsecurity/crowdsec": {
-  "last_commit": "2026-11-19"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 15693
  },
  "csirtgadgets/bearded-avenger": {
-  "last_commit": "2023-04-20"
+  "archived": true,
+  "last_commit": "2023-04-20",
+  "stars": 186
  },
  "ctfs/resources": {
-  "last_commit": "2020-10-14"
+  "archived": false,
+  "last_commit": "2020-10-14",
+  "stars": 1830
  },
  "ctfs/write-ups-2016": {
-  "last_commit": "2018-06-12"
+  "archived": false,
+  "last_commit": "2018-06-12",
+  "stars": 1631
  },
  "cuckoosandbox/cuckoo": {
-  "last_commit": "2021-04-26"
+  "archived": true,
+  "last_commit": "2021-04-26",
+  "stars": 5956
  },
  "cybermaggedon/cyberprobe": {
-  "last_commit": "2024-09-13"
+  "archived": false,
+  "last_commit": "2024-09-13",
+  "stars": 175
  },
  "danielbohannon/Revoke-Obfuscation": {
-  "last_commit": "2020-02-11"
+  "archived": false,
+  "last_commit": "2020-02-11",
+  "stars": 757
  },
  "danielmiessler/SecLists": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 74841
  },
  "darryllane/Bluto": {
-  "last_commit": "2020-05-12"
+  "archived": false,
+  "last_commit": "2020-05-12",
+  "stars": 670
  },
  "dchrastil/ScrapedIn": {
-  "last_commit": "2023-12-04"
+  "archived": false,
+  "last_commit": "2023-12-04",
+  "stars": 1248
  },
  "deadbits/InsecureProgramming": {
-  "last_commit": "2020-10-20"
+  "archived": true,
+  "last_commit": "2020-10-20",
+  "stars": 275
  },
  "decalage2/ViperMonkey": {
-  "last_commit": "2024-04-25"
+  "archived": false,
+  "last_commit": "2024-04-25",
+  "stars": 1132
  },
  "decalage2/oletools": {
-  "last_commit": "2026-01-26"
+  "archived": false,
+  "last_commit": "2026-01-26",
+  "stars": 3452
  },
  "delvelabs/vane": {
-  "last_commit": "2019-08-23"
+  "archived": true,
+  "last_commit": "2019-08-23",
+  "stars": 210
  },
  "demi6od/ChromeFuzzer": {
-  "last_commit": "2015-07-18"
+  "archived": false,
+  "last_commit": "2015-07-18",
+  "stars": 124
  },
  "demisto/content": {
-  "last_commit": "2026-11-19"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 1325
  },
  "demisto/content-docs": {
-  "last_commit": "2026-11-17"
+  "archived": false,
+  "last_commit": "2026-11-17",
+  "stars": 47
  },
  "demisto/demisto-sdk": {
-  "last_commit": "2026-11-17"
+  "archived": false,
+  "last_commit": "2026-11-17",
+  "stars": 90
  },
  "demisto/dockerfiles": {
-  "last_commit": "2026-11-19"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 90
  },
  "dendisuhubdy/meltdown": {
-  "last_commit": "2018-01-06"
+  "archived": false,
+  "last_commit": "2018-01-07",
+  "renamed_to": "scorpiondefense/meltdown",
+  "stars": 78
  },
  "depthsecurity/armory": {
-  "last_commit": "2026-10-19"
+  "archived": false,
+  "last_commit": "2026-10-19",
+  "stars": 426
  },
  "desaster/kippo": {
-  "last_commit": "2023-08-26"
+  "archived": false,
+  "last_commit": "2023-08-26",
+  "stars": 1717
  },
  "detailyang/awesome-cheatsheet": {
-  "last_commit": "2026-11-05"
+  "archived": false,
+  "last_commit": "2026-11-05",
+  "stars": 8693
  },
  "dev-sec/chef-nginx-hardening": {
-  "last_commit": "2025-12-12"
+  "archived": false,
+  "last_commit": "2025-12-12",
+  "stars": 49
  },
  "dev-sec/chef-ssh-hardening": {
-  "last_commit": "2026-10-10"
+  "archived": false,
+  "last_commit": "2026-10-10",
+  "stars": 168
  },
  "dev-sec/chef-windows-hardening": {
-  "last_commit": "2026-10-10"
+  "archived": false,
+  "last_commit": "2026-10-10",
+  "stars": 107
  },
  "dev-sec/linux-baseline": {
-  "last_commit": "2026-09-17"
+  "archived": false,
+  "last_commit": "2026-09-17",
+  "stars": 883
  },
  "dev-sec/mysql-baseline": {
-  "last_commit": "2023-11-12"
+  "archived": false,
+  "last_commit": "2023-11-12",
+  "stars": 63
  },
  "devsecops/awesome-devsecops": {
-  "last_commit": "2021-10-20"
+  "archived": false,
+  "last_commit": "2021-10-20",
+  "stars": 5522
  },
  "devsecops/bootcamp": {
-  "last_commit": "2019-01-05"
+  "archived": false,
+  "last_commit": "2019-01-05",
+  "stars": 802
  },
  "devttys0/binwalk": {
-  "last_commit": "2026-08-11"
+  "archived": false,
+  "last_commit": "2026-08-11",
+  "renamed_to": "ReFirmLabs/binwalk",
+  "stars": 14724
  },
  "dfir-iris/iris-web": {
-  "last_commit": "2026-09-23"
+  "archived": false,
+  "last_commit": "2026-09-23",
+  "stars": 1628
  },
  "dhn/OSCE": {
-  "last_commit": "2018-07-08"
+  "archived": false,
+  "last_commit": "2018-07-07",
+  "stars": 81
  },
  "diekmann/Iptables_Semantics": {
-  "last_commit": "2018-05-26"
+  "archived": false,
+  "last_commit": "2018-05-26",
+  "stars": 101
  },
  "digsig-ng/linux-digsig": {
-  "last_commit": "2014-01-07"
+  "archived": false,
+  "last_commit": "2014-01-07",
+  "stars": 21
  },
  "diogo-fernan/malsub": {
-  "last_commit": "2023-06-20"
+  "archived": false,
+  "last_commit": "2023-06-20",
+  "stars": 363
  },
  "djadmin/awesome-bug-bounty": {
-  "last_commit": "2026-03-07"
+  "archived": false,
+  "last_commit": "2026-03-07",
+  "stars": 5986
  },
  "djformby/GRFICS": {
-  "last_commit": "2024-06-20"
+  "archived": false,
+  "last_commit": "2024-06-20",
+  "stars": 240
  },
  "dongfangyuxiao/github_dis": {
-  "last_commit": "2019-03-25"
+  "archived": false,
+  "last_commit": "2019-03-25",
+  "stars": 80
  },
  "dradis/dradis-ce": {
-  "last_commit": "2026-11-19"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 848
  },
  "dropbox/llm-security": {
-  "last_commit": "2024-05-21"
+  "archived": false,
+  "last_commit": "2024-05-21",
+  "stars": 259
  },
  "dtag-dev-sec/tpotce": {
-  "last_commit": "2026-11-16"
+  "archived": false,
+  "last_commit": "2026-11-16",
+  "renamed_to": "telekom-security/tpotce",
+  "stars": 9739
  },
  "dunglas/DunglasAngularCsrfBundle": {
-  "last_commit": "2020-12-28"
+  "archived": true,
+  "last_commit": "2020-12-28",
+  "stars": 148
  },
  "dyjakan/interpreter-bugs": {
-  "last_commit": "2018-04-26"
+  "archived": false,
+  "last_commit": "2018-04-26",
+  "stars": 82
  },
  "eggie5/hmac-timing-attacks": {
-  "last_commit": "2013-09-19"
+  "archived": false,
+  "last_commit": "2013-09-19",
+  "stars": 23
  },
  "elastic/detection-rules": {
-  "last_commit": "2026-11-19"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 2975
  },
  "ele7enxxh/android-afl": {
-  "last_commit": "2017-08-02"
+  "archived": false,
+  "last_commit": "2017-08-02",
+  "stars": 334
  },
  "eliotsykes/rails-security-checklist": {
-  "last_commit": "2022-07-17"
+  "archived": false,
+  "last_commit": "2022-07-17",
+  "stars": 1363
  },
  "elkarbackup/elkarbackup": {
-  "last_commit": "2026-03-03"
+  "archived": false,
+  "last_commit": "2026-03-03",
+  "stars": 420
  },
  "emirozer/nixarmor": {
-  "last_commit": "2015-11-22"
+  "archived": false,
+  "last_commit": "2015-11-22",
+  "stars": 65
  },
  "emposha/Shell-Detector": {
-  "last_commit": "2016-04-26"
+  "archived": false,
+  "last_commit": "2016-04-26",
+  "stars": 411
  },
  "emptymonkey/mimic": {
-  "last_commit": "2018-07-06"
+  "archived": false,
+  "last_commit": "2018-07-07",
+  "stars": 263
  },
  "enaqx/awesome-pentest": {
-  "last_commit": "2026-07-25"
+  "archived": false,
+  "last_commit": "2026-07-25",
+  "stars": 27791
  },
  "eolinker/GoKu-API-Gateway": {
-  "last_commit": "2022-08-11"
+  "archived": false,
+  "last_commit": "2022-08-11",
+  "renamed_to": "eolinker/goku_lite",
+  "stars": 3121
  },
  "epinna/tplmap": {
-  "last_commit": "2022-02-06"
+  "archived": false,
+  "last_commit": "2022-02-06",
+  "stars": 4220
  },
  "erevus-cn/pocscan": {
-  "last_commit": "2025-07-01"
+  "archived": false,
+  "last_commit": "2025-07-01",
+  "stars": 517
  },
  "evilcos/xssor": {
-  "last_commit": "2017-06-25"
+  "archived": false,
+  "last_commit": "2017-06-25",
+  "stars": 467
  },
  "evyatarmeged/Raccoon": {
-  "last_commit": "2025-06-10"
+  "archived": false,
+  "last_commit": "2025-06-10",
+  "stars": 4079
  },
  "exploitprotocol/mobile-security-wiki": {
-  "last_commit": "2018-07-20"
+  "archived": false,
+  "last_commit": "2018-07-20",
+  "stars": 173
  },
  "ezekg/git-hound": {
-  "last_commit": "2020-10-08"
+  "archived": false,
+  "last_commit": "2020-10-08",
+  "stars": 314
  },
  "facebook/fbctf": {
-  "last_commit": "2018-09-14"
+  "archived": true,
+  "last_commit": "2018-09-14",
+  "renamed_to": "facebookarchive/fbctf",
+  "stars": 6536
  },
  "facebook/osquery": {
-  "last_commit": "2026-11-19"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "renamed_to": "osquery/osquery",
+  "stars": 23785
  },
  "falcosecurity/falco": {
-  "last_commit": "2026-11-06"
+  "archived": false,
+  "last_commit": "2026-11-06",
+  "stars": 9591
  },
  "fatedier/frp": {
-  "last_commit": "2026-11-10"
+  "archived": false,
+  "last_commit": "2026-11-10",
+  "stars": 110670
  },
  "find-sec-bugs/find-sec-bugs": {
-  "last_commit": "2026-11-03"
+  "archived": false,
+  "last_commit": "2026-11-03",
+  "stars": 2454
  },
  "firebug/firebug": {
-  "last_commit": "2017-10-24"
+  "archived": false,
+  "last_commit": "2017-10-24",
+  "stars": 1369
  },
  "firecracker-microvm/firecracker": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 38109
  },
  "firesunCN/BlueLotus_XSSReceiver": {
-  "last_commit": "2022-05-24"
+  "archived": false,
+  "last_commit": "2022-05-23",
+  "stars": 1628
  },
  "fjserna/CVE-2015-7547": {
-  "last_commit": "2016-02-15"
+  "archived": false,
+  "last_commit": "2016-02-16",
+  "stars": 544
  },
  "flipkart-incubator/Astra": {
-  "last_commit": "2024-05-21"
+  "archived": false,
+  "last_commit": "2024-05-21",
+  "stars": 2676
  },
  "fofapro/vulfocus": {
-  "last_commit": "2025-09-09"
+  "archived": false,
+  "last_commit": "2025-09-09",
+  "stars": 3500
  },
  "foospidy/payloads": {
-  "last_commit": "2021-04-22"
+  "archived": false,
+  "last_commit": "2021-04-22",
+  "stars": 4007
  },
  "forcesunseen/llm-hackers-handbook": {
-  "last_commit": "2023-04-14"
+  "archived": false,
+  "last_commit": "2023-04-14",
+  "stars": 202
  },
  "forter/security-101-for-saas-startups": {
-  "last_commit": "2026-01-27"
+  "archived": false,
+  "last_commit": "2026-01-27",
+  "stars": 4662
  },
  "foxglovesec/JavaUnserializeExploits": {
-  "last_commit": "2016-03-10"
+  "archived": false,
+  "last_commit": "2016-03-10",
+  "stars": 503
  },
  "freddiebarrsmith/Buffer-Overflow-Exploit-Development-Practice": {
-  "last_commit": "2019-01-26"
+  "archived": false,
+  "last_commit": "2019-01-26",
+  "stars": 447
  },
  "freddymartinez9/securitytalks": {
-  "last_commit": "2020-05-02"
+  "archived": false,
+  "last_commit": "2020-05-02",
+  "renamed_to": "b-meson/securitytalks",
+  "stars": 31
  },
  "frida/frida": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 22844
  },
  "frizb/Bypassing-Web-Application-Firewalls": {
-  "last_commit": "2018-10-29"
+  "archived": false,
+  "last_commit": "2018-10-29",
+  "stars": 278
  },
  "frohoff/ysoserial": {
-  "last_commit": "2025-12-03"
+  "archived": false,
+  "last_commit": "2025-12-04",
+  "stars": 9102
  },
  "future-architect/vuls": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 12356
  },
  "fuzzing/MFFA": {
-  "last_commit": "2016-04-01"
+  "archived": false,
+  "last_commit": "2016-04-01",
+  "stars": 335
  },
  "fuzzitdev/javafuzz": {
-  "last_commit": "2020-07-10"
+  "archived": true,
+  "last_commit": "2020-07-10",
+  "stars": 229
  },
  "fuzzitdev/jsfuzz": {
-  "last_commit": "2020-07-10"
+  "archived": true,
+  "last_commit": "2020-07-10",
+  "stars": 608
  },
  "ganliuzhuo/Sebug": {
-  "last_commit": "2016-03-28"
+  "archived": false,
+  "last_commit": "2016-03-28",
+  "renamed_to": "hello123leo/Sebug",
+  "stars": 87
  },
  "ganlvtech/down_52pojie_cn": {
-  "last_commit": "2019-05-14"
+  "archived": false,
+  "last_commit": "2019-05-14",
+  "stars": 2831
  },
  "gbrindisi/wordpot": {
-  "last_commit": "2018-10-16"
+  "archived": false,
+  "last_commit": "2018-10-16",
+  "stars": 189
  },
  "gchq/CyberChef": {
-  "last_commit": "2026-11-04"
+  "archived": false,
+  "last_commit": "2026-11-04",
+  "stars": 36482
  },
  "gentilkiwi/mimikatz": {
-  "last_commit": "2026-10-30"
+  "archived": false,
+  "last_commit": "2026-10-30",
+  "stars": 21982
  },
  "gh0stkey/DoraBox": {
-  "last_commit": "2023-07-15"
+  "archived": true,
+  "last_commit": "2023-07-15",
+  "renamed_to": "overspace-labs/DoraBox",
+  "stars": 798
  },
  "giper45/DockerSecurityPlayground": {
-  "last_commit": "2026-03-11"
+  "archived": false,
+  "last_commit": "2026-03-11",
+  "renamed_to": "DockerSecurityPlayground/DSP",
+  "stars": 643
  },
  "goldshtn/etrace": {
-  "last_commit": "2017-06-29"
+  "archived": false,
+  "last_commit": "2017-06-29",
+  "stars": 147
  },
  "golismero/golismero": {
-  "last_commit": "2020-04-16"
+  "archived": true,
+  "last_commit": "2020-04-16",
+  "stars": 882
  },
  "goodwithtech/dockle": {
-  "last_commit": "2026-11-16"
+  "archived": false,
+  "last_commit": "2026-11-15",
+  "stars": 3299
  },
  "google/AFL": {
-  "last_commit": "2021-06-08"
+  "archived": true,
+  "last_commit": "2021-06-08",
+  "stars": 4203
  },
  "google/clusterfuzz": {
-  "last_commit": "2026-11-19"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 5639
  },
  "google/fuzzer-test-suite": {
-  "last_commit": "2021-08-25"
+  "archived": true,
+  "last_commit": "2021-08-25",
+  "stars": 1472
  },
  "google/google-ctf": {
-  "last_commit": "2026-11-16"
+  "archived": false,
+  "last_commit": "2026-11-16",
+  "stars": 5060
  },
  "google/grr": {
-  "last_commit": "2026-10-01"
+  "archived": false,
+  "last_commit": "2026-10-01",
+  "stars": 5113
  },
  "google/honggfuzz": {
-  "last_commit": "2026-09-25"
+  "archived": false,
+  "last_commit": "2026-09-25",
+  "stars": 3416
  },
  "google/oss-fuzz": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 12975
  },
  "google/syzkaller": {
-  "last_commit": "2026-11-19"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 6417
  },
  "google/timesketch": {
-  "last_commit": "2026-11-12"
+  "archived": false,
+  "last_commit": "2026-11-12",
+  "stars": 3452
  },
  "google/tsunami-security-scanner": {
-  "last_commit": "2026-11-16"
+  "archived": false,
+  "last_commit": "2026-11-16",
+  "stars": 8625
  },
  "google/vulncode-db": {
-  "last_commit": "2022-01-03"
+  "archived": true,
+  "last_commit": "2022-01-03",
+  "stars": 573
  },
  "googleprojectzero/bochspwn": {
-  "last_commit": "2019-05-05"
+  "archived": true,
+  "last_commit": "2019-05-05",
+  "stars": 345
  },
  "googleprojectzero/bochspwn-reloaded": {
-  "last_commit": "2019-02-24"
+  "archived": true,
+  "last_commit": "2019-02-24",
+  "stars": 311
  },
  "googleprojectzero/domato": {
-  "last_commit": "2024-11-26"
+  "archived": false,
+  "last_commit": "2024-11-26",
+  "stars": 1787
  },
  "googleprojectzero/fuzzilli": {
-  "last_commit": "2026-11-16"
+  "archived": false,
+  "last_commit": "2026-11-16",
+  "stars": 2394
  },
  "googleprojectzero/winafl": {
-  "last_commit": "2026-03-13"
+  "archived": false,
+  "last_commit": "2026-03-13",
+  "stars": 2629
  },
  "govolution/avet": {
-  "last_commit": "2025-04-23"
+  "archived": false,
+  "last_commit": "2025-04-23",
+  "stars": 1762
  },
  "gradiuscypher/infosec_getting_started": {
-  "last_commit": "2023-01-04"
+  "archived": false,
+  "last_commit": "2023-01-05",
+  "stars": 620
  },
  "grafov/hulk": {
-  "last_commit": "2021-04-15"
+  "archived": false,
+  "last_commit": "2021-04-15",
+  "stars": 911
  },
  "grandideastudio/jtagulator": {
-  "last_commit": "2026-09-01"
+  "archived": false,
+  "last_commit": "2026-09-02",
+  "stars": 824
  },
  "grayddq/GScan": {
-  "last_commit": "2019-12-30"
+  "archived": false,
+  "last_commit": "2019-12-30",
+  "stars": 2829
  },
  "grayddq/PublicMonitors": {
-  "last_commit": "2020-01-02"
+  "archived": false,
+  "last_commit": "2020-01-02",
+  "stars": 607
  },
  "greshake/llm-security": {
-  "last_commit": "2025-07-17"
+  "archived": false,
+  "last_commit": "2025-07-17",
+  "stars": 2154
  },
  "gstarnberger/uncompyle": {
-  "last_commit": "2016-10-01"
+  "archived": true,
+  "last_commit": "2016-10-01",
+  "stars": 427
  },
  "guyoung/CaptfEncoder": {
-  "last_commit": "2023-10-16"
+  "archived": false,
+  "last_commit": "2023-10-16",
+  "stars": 1302
  },
  "h4ck0ne/security_circle_2017": {
-  "last_commit": "2017-10-30"
+  "archived": false,
+  "last_commit": "2017-10-29",
+  "stars": 90
  },
  "hackgnar/ble_ctf": {
-  "last_commit": "2026-08-07"
+  "archived": false,
+  "last_commit": "2026-08-07",
+  "stars": 793
  },
  "hacklcx/HFish": {
-  "last_commit": "2026-03-13"
+  "archived": false,
+  "last_commit": "2026-03-13",
+  "stars": 4556
  },
  "hahwul/WebHackersWeapons": {
-  "last_commit": "2026-09-07"
+  "archived": false,
+  "last_commit": "2026-09-07",
+  "stars": 5150
  },
  "hakbot/hakbot-origin-controller": {
-  "last_commit": "2019-06-28"
+  "archived": true,
+  "last_commit": "2019-06-28",
+  "stars": 28
  },
  "hakluke/weaponised-XSS-payloads": {
-  "last_commit": "2023-04-24"
+  "archived": false,
+  "last_commit": "2023-04-24",
+  "stars": 1408
  },
  "hannob/meltdownspectre-patches": {
-  "last_commit": "2018-02-13"
+  "archived": false,
+  "last_commit": "2018-02-13",
+  "stars": 348
  },
  "hardenedlinux/srcinv": {
-  "last_commit": "2021-01-15"
+  "archived": false,
+  "last_commit": "2021-01-15",
+  "renamed_to": "snorez/srcinv",
+  "stars": 48
  },
  "havysec/vulnerable-scene": {
-  "last_commit": "2018-02-07"
+  "archived": false,
+  "last_commit": "2018-02-07",
+  "stars": 36
  },
  "hellerve/programming-talks": {
-  "last_commit": "2026-10-15"
+  "archived": false,
+  "last_commit": "2026-10-15",
+  "stars": 7371
  },
  "henshin/filebuster": {
-  "last_commit": "2023-02-25"
+  "archived": false,
+  "last_commit": "2023-02-25",
+  "stars": 223
  },
  "hhyo/Archery": {
-  "last_commit": "2026-10-31"
+  "archived": false,
+  "last_commit": "2026-10-31",
+  "stars": 7098
  },
  "hongriSec/Web-Security-Attack": {
-  "last_commit": "2019-12-20"
+  "archived": false,
+  "last_commit": "2019-12-20",
+  "stars": 954
  },
  "hslatman/awesome-industrial-control-system-security": {
-  "last_commit": "2025-10-10"
+  "archived": false,
+  "last_commit": "2025-10-10",
+  "stars": 2050
  },
  "hslatman/awesome-threat-intelligence": {
-  "last_commit": "2026-10-30"
+  "archived": false,
+  "last_commit": "2026-10-30",
+  "stars": 10877
  },
  "hunter-ht-2018/ptfuzzer": {
-  "last_commit": "2019-07-26"
+  "archived": false,
+  "last_commit": "2019-07-26",
+  "stars": 292
  },
  "hxer/vulnapp": {
-  "last_commit": "2016-03-24"
+  "archived": false,
+  "last_commit": "2016-03-24",
+  "stars": 86
  },
  "hypn0s/AJPy": {
-  "last_commit": "2023-09-06"
+  "archived": false,
+  "last_commit": "2023-09-06",
+  "stars": 473
  },
  "iadgov/Maplesyrup": {
-  "last_commit": "2016-06-01"
+  "archived": true,
+  "last_commit": "2016-06-01",
+  "renamed_to": "nsacyber/Maplesyrup",
+  "stars": 143
  },
  "iamcryptoki/snowden-archive": {
-  "last_commit": "2020-01-14"
+  "archived": false,
+  "last_commit": "2020-01-14",
+  "stars": 1438
  },
  "ihack4falafel/OSCE": {
-  "last_commit": "2018-07-22"
+  "archived": false,
+  "last_commit": "2018-07-23",
+  "stars": 189
  },
  "ihack4falafel/OSCP": {
-  "last_commit": "2018-02-22"
+  "archived": false,
+  "last_commit": "2018-02-22",
+  "stars": 960
  },
  "ilmila/J2EEScan": {
-  "last_commit": "2025-10-29"
+  "archived": false,
+  "last_commit": "2025-10-29",
+  "stars": 677
  },
  "im-bug/BlockChain-Security-List": {
-  "last_commit": "2018-06-28"
+  "archived": false,
+  "last_commit": "2018-06-28",
+  "stars": 70
  },
  "imWildCat/scylla": {
-  "last_commit": "2026-11-02"
+  "archived": false,
+  "last_commit": "2026-11-03",
+  "renamed_to": "MikeChongCan/scylla",
+  "stars": 4022
  },
  "infosec-au/altdns": {
-  "last_commit": "2025-01-09"
+  "archived": false,
+  "last_commit": "2025-01-09",
+  "stars": 2512
  },
  "infosecB/awesome-detection-engineering": {
-  "last_commit": "2026-10-12"
+  "archived": false,
+  "last_commit": "2026-10-12",
+  "stars": 1404
  },
  "infoslack/awesome-web-hacking": {
-  "last_commit": "2026-10-28"
+  "archived": false,
+  "last_commit": "2026-10-29",
+  "stars": 7362
  },
  "insanitybit/grapl": {
-  "last_commit": "2022-12-26"
+  "archived": true,
+  "last_commit": "2022-12-26",
+  "renamed_to": "grapl-security/grapl",
+  "stars": 700
  },
  "intel/Resilient-ML-Research-Platform": {
-  "last_commit": "2022-08-04"
+  "archived": true,
+  "last_commit": "2022-08-04",
+  "stars": 78
  },
  "intrepidusgroup/mallory": {
-  "last_commit": "2016-06-22"
+  "archived": false,
+  "last_commit": "2016-06-22",
+  "stars": 324
  },
  "ionescu007/SpecuCheck": {
-  "last_commit": "2018-10-16"
+  "archived": false,
+  "last_commit": "2018-10-17",
+  "stars": 586
  },
  "ivanilves/xiringuito": {
-  "last_commit": "2021-12-29"
+  "archived": false,
+  "last_commit": "2021-12-29",
+  "stars": 1165
  },
  "jae2/awsbigbrother": {
-  "last_commit": "2019-01-21"
+  "archived": false,
+  "last_commit": "2019-01-21",
+  "renamed_to": "jedops/awsbigbrother",
+  "stars": 13
  },
  "jagracey/Regex-DoS": {
-  "last_commit": "2016-06-04"
+  "archived": false,
+  "last_commit": "2016-06-04",
+  "stars": 180
  },
  "jameslyons/pycipher": {
-  "last_commit": "2016-07-21"
+  "archived": false,
+  "last_commit": "2016-07-21",
+  "stars": 221
  },
  "jaredmichaelsmith/awesome-vehicle-security": {
-  "last_commit": "2026-05-29"
+  "archived": false,
+  "last_commit": "2026-05-30",
+  "renamed_to": "jaredthecoder/awesome-vehicle-security",
+  "stars": 4790
  },
  "jaredthecoder/awesome-vehicle-security": {
-  "last_commit": "2026-05-29"
+  "archived": false,
+  "last_commit": "2026-05-30",
+  "stars": 4790
  },
  "jatrost/awesome-detection-rules": {
-  "last_commit": "2024-05-05"
+  "archived": false,
+  "last_commit": "2024-05-05",
+  "stars": 300
  },
  "jedisct1/edgedns": {
-  "last_commit": "2026-10-20"
+  "archived": true,
+  "last_commit": "2026-10-20",
+  "stars": 514
  },
  "jeffzh3ng/Fuxi-Scanner": {
-  "last_commit": "2020-05-10"
+  "archived": false,
+  "last_commit": "2020-05-10",
+  "renamed_to": "jeffzh3ng/fuxi",
+  "stars": 1345
  },
  "jeremylong/DependencyCheck": {
-  "last_commit": "2025-02-17"
+  "archived": true,
+  "last_commit": "2025-02-17",
+  "stars": 56
  },
  "jgamblin/CarHackingTools": {
-  "last_commit": "2023-05-07"
+  "archived": true,
+  "last_commit": "2023-05-07",
+  "stars": 979
  },
  "jiansiting/Decryption-Tools": {
-  "last_commit": "2019-06-18"
+  "archived": false,
+  "last_commit": "2019-06-17",
+  "stars": 956
  },
  "jiayy/android_vuln_poc-exp": {
-  "last_commit": "2025-04-25"
+  "archived": false,
+  "last_commit": "2025-04-25",
+  "stars": 798
  },
  "jipegit/OSXAuditor": {
-  "last_commit": "2020-07-28"
+  "archived": false,
+  "last_commit": "2020-07-27",
+  "stars": 3128
  },
  "jivoi/awesome-ml-for-cybersecurity": {
-  "last_commit": "2024-04-11"
+  "archived": false,
+  "last_commit": "2024-04-11",
+  "stars": 9574
  },
  "jivoi/awesome-osint": {
-  "last_commit": "2026-11-17"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 31240
  },
  "jkbrzt/httpie": {
-  "last_commit": "2024-12-17"
+  "archived": false,
+  "last_commit": "2024-12-17",
+  "renamed_to": "httpie/cli",
+  "stars": 38724
  },
  "joaomatosf/jexboss": {
-  "last_commit": "2017-03-27"
+  "archived": false,
+  "last_commit": "2017-03-28",
+  "stars": 2524
  },
  "joarleymoraes/net_guard": {
-  "last_commit": "2018-02-03"
+  "archived": false,
+  "last_commit": "2018-02-04",
+  "stars": 110
  },
  "joe-shenouda/awesome-cyber-skills": {
-  "last_commit": "2026-09-17"
+  "archived": false,
+  "last_commit": "2026-09-17",
+  "stars": 4799
  },
  "jofpin/trape": {
-  "last_commit": "2021-06-20"
+  "archived": false,
+  "last_commit": "2021-06-20",
+  "stars": 9086
  },
  "jopohl/urh": {
-  "last_commit": "2025-12-19"
+  "archived": true,
+  "last_commit": "2025-12-19",
+  "stars": 12616
  },
  "jordan-wright/elastichoney": {
-  "last_commit": "2015-07-05"
+  "archived": false,
+  "last_commit": "2015-07-06",
+  "stars": 193
  },
  "jtpereyda/boofuzz": {
-  "last_commit": "2026-09-21"
+  "archived": false,
+  "last_commit": "2026-09-21",
+  "stars": 2376
  },
  "julienbedard/browsersploit": {
-  "last_commit": "2017-04-19"
+  "archived": false,
+  "last_commit": "2017-04-19",
+  "stars": 332
  },
  "juliocesarfort/public-pentesting-reports": {
-  "last_commit": "2026-06-07"
+  "archived": false,
+  "last_commit": "2026-06-07",
+  "stars": 9821
  },
  "jweny/pocassist": {
-  "last_commit": "2023-10-30"
+  "archived": true,
+  "last_commit": "2023-10-30",
+  "stars": 1434
  },
  "jzadeh/chiron-elk": {
-  "last_commit": "2019-03-20"
+  "archived": false,
+  "last_commit": "2019-03-20",
+  "stars": 137
  },
  "k0retux/fuddly": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 163
  },
  "k8scop/k8s-security-dashboard": {
-  "last_commit": "2021-06-23"
+  "archived": false,
+  "last_commit": "2021-06-23",
+  "stars": 132
  },
  "kai5263499/awesome-container-security": {
-  "last_commit": "2026-11-05"
+  "archived": false,
+  "last_commit": "2026-11-05",
+  "stars": 253
  },
  "kbandla/APTnotes": {
-  "last_commit": "2024-01-01"
+  "archived": false,
+  "last_commit": "2024-01-01",
+  "stars": 3675
  },
  "keithjjones/visualize_logs": {
-  "last_commit": "2016-11-12"
+  "archived": false,
+  "last_commit": "2016-11-12",
+  "stars": 145
  },
  "kevthehermit/RATDecoders": {
-  "last_commit": "2021-09-19"
+  "archived": false,
+  "last_commit": "2021-09-19",
+  "stars": 1123
  },
  "khalilbijjou/WAFNinja": {
-  "last_commit": "2026-08-11"
+  "archived": false,
+  "last_commit": "2026-08-11",
+  "stars": 834
  },
  "kintoandar/fwd": {
-  "last_commit": "2021-08-17"
+  "archived": false,
+  "last_commit": "2021-08-17",
+  "stars": 214
  },
  "kn9ts/dumb-passwords": {
-  "last_commit": "2016-06-22"
+  "archived": false,
+  "last_commit": "2016-06-22",
+  "stars": 89
  },
  "knownsec/Ethereum-Smart-Contracts-Security-CheckList": {
-  "last_commit": "2019-08-02"
+  "archived": false,
+  "last_commit": "2019-08-02",
+  "stars": 171
  },
  "knownsec/KCon": {
-  "last_commit": "2026-11-03"
+  "archived": false,
+  "last_commit": "2026-11-03",
+  "stars": 4653
  },
  "knownsec/Pocsuite": {
-  "last_commit": "2019-09-11"
+  "archived": false,
+  "last_commit": "2019-09-11",
+  "stars": 1809
  },
  "knownsec/RD_Checklist": {
-  "last_commit": "2024-08-23"
+  "archived": false,
+  "last_commit": "2024-08-23",
+  "stars": 846
  },
  "knqyf263/trivy": {
-  "last_commit": "2026-10-07"
+  "archived": false,
+  "last_commit": "2026-10-07",
+  "stars": 1
  },
  "koalaman/shellcheck": {
-  "last_commit": "2026-11-08"
+  "archived": false,
+  "last_commit": "2026-11-09",
+  "stars": 40358
  },
  "kolide/kolide-quickstart": {
-  "last_commit": "2018-05-29"
+  "archived": true,
+  "last_commit": "2018-05-29",
+  "stars": 51
  },
  "korcankaraokcu/PINCE": {
-  "last_commit": "2026-09-18"
+  "archived": false,
+  "last_commit": "2026-09-18",
+  "stars": 3152
  },
  "kotobukki/BigDataAudit": {
-  "last_commit": "2020-06-21"
+  "archived": true,
+  "last_commit": "2020-06-21",
+  "renamed_to": "shouc/daudit",
+  "stars": 105
  },
  "kreon/freeaudit": {
-  "last_commit": "2018-04-09"
+  "archived": false,
+  "last_commit": "2018-04-09",
+  "renamed_to": "annmuor/freeaudit",
+  "stars": 20
  },
  "l3m0n/pentest_study": {
-  "last_commit": "2016-04-08"
+  "archived": false,
+  "last_commit": "2016-04-08",
+  "stars": 3042
  },
  "l3m0n/pentest_tools": {
-  "last_commit": "2019-01-22"
+  "archived": false,
+  "last_commit": "2019-01-22",
+  "stars": 625
  },
  "lalithr95/API-fuzzer": {
-  "last_commit": "2017-07-15"
+  "archived": false,
+  "last_commit": "2017-07-16",
+  "renamed_to": "Fuzzapi/API-fuzzer",
+  "stars": 409
  },
  "lalithr95/fuzzapi": {
-  "last_commit": "2020-11-22"
+  "archived": true,
+  "last_commit": "2020-11-21",
+  "renamed_to": "Fuzzapi/fuzzapi",
+  "stars": 662
  },
  "lazywinadmin/Monitor-ADGroupMembership": {
-  "last_commit": "2019-11-27"
+  "archived": false,
+  "last_commit": "2019-11-28",
+  "stars": 276
  },
  "lazzyfu/AuditSQL": {
-  "last_commit": "2026-03-06"
+  "archived": false,
+  "last_commit": "2026-03-06",
+  "renamed_to": "lazzyfu/goInsight",
+  "stars": 728
  },
  "leonteale/pentestpackage": {
-  "last_commit": "2025-11-21"
+  "archived": false,
+  "last_commit": "2025-11-21",
+  "stars": 646
  },
  "lietdai/doom": {
-  "last_commit": "2015-12-01"
+  "archived": false,
+  "last_commit": "2015-12-01",
+  "stars": 135
  },
  "lightbulb-framework/lightbulb-framework": {
-  "last_commit": "2020-11-24"
+  "archived": false,
+  "last_commit": "2020-11-24",
+  "stars": 466
  },
  "lijiejie/BBScan": {
-  "last_commit": "2024-12-31"
+  "archived": false,
+  "last_commit": "2024-12-31",
+  "stars": 2373
  },
  "lijiejie/GitHack": {
-  "last_commit": "2022-05-09"
+  "archived": false,
+  "last_commit": "2022-05-09",
+  "stars": 3584
  },
  "lijiejie/ds_store_exp": {
-  "last_commit": "2022-06-16"
+  "archived": false,
+  "last_commit": "2022-06-16",
+  "stars": 1738
  },
  "lijiejie/htpwdScan": {
-  "last_commit": "2021-09-07"
+  "archived": false,
+  "last_commit": "2021-09-07",
+  "stars": 918
  },
  "lijiejie/subDomainsBrute": {
-  "last_commit": "2022-09-16"
+  "archived": false,
+  "last_commit": "2022-09-15",
+  "stars": 3620
  },
  "linkedin/qark": {
-  "last_commit": "2019-04-04"
+  "archived": false,
+  "last_commit": "2019-04-05",
+  "stars": 3397
  },
  "linuz/Sticky-Keys-Slayer": {
-  "last_commit": "2018-03-16"
+  "archived": false,
+  "last_commit": "2018-03-16",
+  "stars": 349
  },
  "lk-geimfari/awesomo": {
-  "last_commit": "2026-10-26"
+  "archived": false,
+  "last_commit": "2026-10-26",
+  "stars": 9977
  },
  "lmy375/awesome-vmp": {
-  "last_commit": "2018-08-02"
+  "archived": true,
+  "last_commit": "2018-08-02",
+  "stars": 1096
  },
  "log2timeline/dftimewolf": {
-  "last_commit": "2026-11-06"
+  "archived": false,
+  "last_commit": "2026-11-06",
+  "stars": 362
  },
  "longld/peda": {
-  "last_commit": "2021-01-03"
+  "archived": false,
+  "last_commit": "2021-01-03",
+  "stars": 6172
  },
  "lukebaggett/dnscat2-powershell": {
-  "last_commit": "2023-08-21"
+  "archived": true,
+  "last_commit": "2023-08-22",
+  "stars": 438
  },
  "luyg24/IT_security": {
-  "last_commit": "2020-03-08"
+  "archived": false,
+  "last_commit": "2020-03-08",
+  "stars": 118
  },
  "m0bilesecurity/RMS-Runtime-Mobile-Security": {
-  "last_commit": "2026-07-01"
+  "archived": false,
+  "last_commit": "2026-07-01",
+  "stars": 3152
  },
  "m0nad/HellRaiser": {
-  "last_commit": "2022-02-26"
+  "archived": false,
+  "last_commit": "2022-02-26",
+  "stars": 587
  },
  "m4rco-/dorothy2": {
-  "last_commit": "2015-01-18"
+  "archived": false,
+  "last_commit": "2015-01-18",
+  "stars": 195
  },
  "maK-/parameth": {
-  "last_commit": "2019-01-20"
+  "archived": true,
+  "last_commit": "2019-01-20",
+  "stars": 1394
  },
  "makash/linux-container-security-docs": {
-  "last_commit": "2017-04-27"
+  "archived": false,
+  "last_commit": "2017-04-27",
+  "stars": 21
  },
  "makemytrip/dataShark": {
-  "last_commit": "2017-02-14"
+  "archived": false,
+  "last_commit": "2017-02-14",
+  "stars": 43
  },
  "makuga01/dnsFookup": {
-  "last_commit": "2023-05-19"
+  "archived": false,
+  "last_commit": "2023-05-19",
+  "stars": 257
  },
  "maliceio/malice": {
-  "last_commit": "2023-04-03"
+  "archived": true,
+  "last_commit": "2023-04-03",
+  "stars": 1863
  },
  "marco-lancini/goscan": {
-  "last_commit": "2020-08-21"
+  "archived": false,
+  "last_commit": "2020-08-21",
+  "stars": 1037
  },
  "matiasinsaurralde/evilredis": {
-  "last_commit": "2016-08-12"
+  "archived": false,
+  "last_commit": "2016-08-12",
+  "stars": 72
  },
  "maurosoria/dirsearch": {
-  "last_commit": "2026-11-03"
+  "archived": false,
+  "last_commit": "2026-11-03",
+  "stars": 15098
  },
  "mazen160/struts-pwn_CVE-2018-11776": {
-  "last_commit": "2018-08-26"
+  "archived": false,
+  "last_commit": "2018-08-26",
+  "stars": 305
  },
  "mboehme/aflfast": {
-  "last_commit": "2021-07-23"
+  "archived": false,
+  "last_commit": "2021-07-23",
+  "stars": 424
  },
  "mcginty/snow": {
-  "last_commit": "2026-03-25"
+  "archived": false,
+  "last_commit": "2026-03-25",
+  "stars": 1122
  },
  "mebjas/CSRF-Protector-PHP": {
-  "last_commit": "2020-10-16"
+  "archived": false,
+  "last_commit": "2020-10-16",
+  "stars": 213
  },
  "meirwah/awesome-incident-response": {
-  "last_commit": "2026-10-13"
+  "archived": false,
+  "last_commit": "2026-10-13",
+  "stars": 9585
  },
  "meta-llama/PurpleLlama": {
-  "last_commit": "2026-11-12"
+  "archived": false,
+  "last_commit": "2026-11-13",
+  "stars": 4486
  },
  "metac0rtex/GitHarvester": {
-  "last_commit": "2016-05-22"
+  "archived": false,
+  "last_commit": "2016-05-22",
+  "stars": 314
  },
  "mgeeky/tomcatWarDeployer": {
-  "last_commit": "2022-11-05"
+  "archived": false,
+  "last_commit": "2022-11-05",
+  "stars": 451
  },
  "micheloosterhof/cowrie": {
-  "last_commit": "2026-11-19"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "renamed_to": "cowrie/cowrie",
+  "stars": 6685
  },
  "miguelgrinberg/Flask-HTTPAuth": {
-  "last_commit": "2026-08-29"
+  "archived": false,
+  "last_commit": "2026-08-29",
+  "stars": 1291
  },
  "mike01/pypacker": {
-  "last_commit": "2020-04-15"
+  "archived": false,
+  "last_commit": "2020-04-15",
+  "stars": 260
  },
  "misterch0c/firminator_backend": {
-  "last_commit": "2016-07-18"
+  "archived": false,
+  "last_commit": "2016-07-18",
+  "stars": 197
  },
  "mitchellkrogza/apache-ultimate-bad-bot-blocker": {
-  "last_commit": "2026-11-13"
+  "archived": false,
+  "last_commit": "2026-11-13",
+  "stars": 996
  },
  "mitre-attack/attack-navigator": {
-  "last_commit": "2026-11-17"
+  "archived": false,
+  "last_commit": "2026-11-17",
+  "stars": 2512
  },
  "mitre/caldera": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "renamed_to": "apache/caldera",
+  "stars": 7542
  },
  "mitre/cti": {
-  "last_commit": "2026-11-05"
+  "archived": false,
+  "last_commit": "2026-11-05",
+  "stars": 2173
  },
  "momosecurity/aswan": {
-  "last_commit": "2021-06-15"
+  "archived": false,
+  "last_commit": "2021-06-15",
+  "stars": 3040
  },
  "mozilla-services/GitHub-Audit": {
-  "last_commit": "2021-10-25"
+  "archived": true,
+  "last_commit": "2021-10-25",
+  "stars": 136
  },
  "mozilla/MozDef": {
-  "last_commit": "2021-11-02"
+  "archived": true,
+  "last_commit": "2021-11-02",
+  "stars": 2156
  },
  "mozilla/mig": {
-  "last_commit": "2019-09-13"
+  "archived": true,
+  "last_commit": "2019-09-13",
+  "stars": 1203
  },
  "mre/awesome-static-analysis": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "renamed_to": "analysis-tools-dev/static-analysis",
+  "stars": 14909
  },
  "msoedov/agentic_security": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 2047
  },
  "mthbernardes/ARTLAS": {
-  "last_commit": "2021-08-16"
+  "archived": false,
+  "last_commit": "2021-08-16",
+  "stars": 126
  },
  "mushorg/conpot": {
-  "last_commit": "2026-11-09"
+  "archived": false,
+  "last_commit": "2026-11-09",
+  "stars": 1548
  },
  "mushorg/glastopf": {
-  "last_commit": "2023-10-22"
+  "archived": false,
+  "last_commit": "2023-10-22",
+  "stars": 607
  },
  "mwrlabs/KernelFuzzer": {
-  "last_commit": "2016-09-26"
+  "archived": false,
+  "last_commit": "2016-09-26",
+  "renamed_to": "ReversecLabs/KernelFuzzer",
+  "stars": 457
  },
  "mwrlabs/OSXFuzz": {
-  "last_commit": "2017-10-23"
+  "archived": false,
+  "last_commit": "2017-10-23",
+  "renamed_to": "ReversecLabs/OSXFuzz",
+  "stars": 259
  },
  "mwrlabs/ViridianFuzzer": {
-  "last_commit": "2019-02-15"
+  "archived": false,
+  "last_commit": "2019-02-15",
+  "renamed_to": "FSecureLABS/ViridianFuzzer",
+  "stars": 140
  },
  "n0dec/MalwLess": {
-  "last_commit": "2021-10-11"
+  "archived": false,
+  "last_commit": "2021-10-11",
+  "stars": 272
  },
  "n0tr00t/Beebeeto-framework": {
-  "last_commit": "2015-07-27"
+  "archived": false,
+  "last_commit": "2015-07-27",
+  "stars": 256
  },
  "n0tr00t/Sreg": {
-  "last_commit": "2019-10-31"
+  "archived": false,
+  "last_commit": "2019-10-31",
+  "stars": 1249
  },
  "nairuzabulhul/RoadMap": {
-  "last_commit": "2026-11-11"
+  "archived": false,
+  "last_commit": "2026-11-11",
+  "renamed_to": "nairuzabulhul/R3d-Buck3T",
+  "stars": 135
  },
  "nanshihui/Scan-T": {
-  "last_commit": "2018-08-14"
+  "archived": false,
+  "last_commit": "2018-08-14",
+  "stars": 501
  },
  "nao-sec/ektotal": {
-  "last_commit": "2021-09-07"
+  "archived": false,
+  "last_commit": "2021-09-07",
+  "stars": 106
  },
  "nccgroup/TriforceAFL": {
-  "last_commit": "2017-05-31"
+  "archived": false,
+  "last_commit": "2017-05-31",
+  "stars": 645
  },
  "nebgnahz/awesome-iot-hacks": {
-  "last_commit": "2019-06-01"
+  "archived": false,
+  "last_commit": "2019-06-02",
+  "stars": 2448
  },
  "needmorecowbell/Hamburglar": {
-  "last_commit": "2025-12-31"
+  "archived": false,
+  "last_commit": "2025-12-31",
+  "stars": 320
  },
  "neoneggplant/EggShell": {
-  "last_commit": "2018-09-23"
+  "archived": false,
+  "last_commit": "2018-09-24",
+  "renamed_to": "lucasjacks0n/EggShell",
+  "stars": 1776
  },
  "netxfly/xsec-proxy-scanner": {
-  "last_commit": "2017-12-07"
+  "archived": false,
+  "last_commit": "2017-12-07",
+  "stars": 279
  },
  "newaetech/chipwhisperer": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 1633
  },
  "nextcloud/twofactor_totp": {
-  "last_commit": "2026-11-15"
+  "archived": false,
+  "last_commit": "2026-11-15",
+  "stars": 322
  },
  "ngalongc/bug-bounty-reference": {
-  "last_commit": "2024-08-01"
+  "archived": false,
+  "last_commit": "2024-07-31",
+  "stars": 4306
  },
  "nixawk/pentest-wiki": {
-  "last_commit": "2020-09-22"
+  "archived": false,
+  "last_commit": "2020-09-22",
+  "stars": 3792
  },
  "nmap/nmap": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 14024
  },
  "noraj/OSCP-Exam-Report-Template-Markdown": {
-  "last_commit": "2026-08-13"
+  "archived": false,
+  "last_commit": "2026-08-12",
+  "stars": 4228
  },
  "nvdv/vprof": {
-  "last_commit": "2022-07-15"
+  "archived": false,
+  "last_commit": "2022-07-15",
+  "stars": 3973
  },
  "offa/keygen": {
-  "last_commit": "2026-11-01"
+  "archived": false,
+  "last_commit": "2026-11-01",
+  "stars": 33
  },
  "offensive-security/exploit-database": {
-  "last_commit": "2022-11-10"
+  "archived": true,
+  "last_commit": "2022-11-10",
+  "renamed_to": "offensive-security/exploitdb",
+  "stars": 7861
  },
  "onethawt/reverseengineering-reading-list": {
-  "last_commit": "2023-05-01"
+  "archived": false,
+  "last_commit": "2023-05-02",
+  "stars": 2765
  },
  "onlurking/awesome-infosec": {
-  "last_commit": "2026-08-28"
+  "archived": false,
+  "last_commit": "2026-08-28",
+  "stars": 5794
  },
  "open-guides/og-aws": {
-  "last_commit": "2022-08-24"
+  "archived": false,
+  "last_commit": "2022-08-24",
+  "stars": 36465
  },
  "orf/cyborg": {
-  "last_commit": "2016-01-03"
+  "archived": false,
+  "last_commit": "2016-01-03",
+  "stars": 311
  },
  "ossec/ossec-hids": {
-  "last_commit": "2026-11-17"
+  "archived": false,
+  "last_commit": "2026-11-17",
+  "stars": 5074
  },
  "ottosulin/awesome-ai-security": {
-  "last_commit": "2026-11-15"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 1622
  },
  "outflanknl/RedELK": {
-  "last_commit": "2026-11-02"
+  "archived": false,
+  "last_commit": "2026-11-02",
+  "stars": 2691
  },
  "owtf/owtf": {
-  "last_commit": "2026-09-03"
+  "archived": false,
+  "last_commit": "2026-09-03",
+  "stars": 1971
  },
  "owtf/wafbypasser": {
-  "last_commit": "2014-09-23"
+  "archived": true,
+  "last_commit": "2014-09-22",
+  "stars": 81
  },
  "p1r06u3/opencanary_web": {
-  "last_commit": "2021-02-18"
+  "archived": false,
+  "last_commit": "2021-02-18",
+  "stars": 671
  },
  "p4-team/ctf": {
-  "last_commit": "2024-09-18"
+  "archived": false,
+  "last_commit": "2024-09-18",
+  "stars": 1846
  },
  "paboldin/meltdown-exploit": {
-  "last_commit": "2018-02-14"
+  "archived": false,
+  "last_commit": "2018-02-14",
+  "stars": 952
  },
  "palantir/alerting-detection-strategy-framework": {
-  "last_commit": "2021-04-29"
+  "archived": false,
+  "last_commit": "2021-04-29",
+  "stars": 931
  },
  "panagiks/RSPET": {
-  "last_commit": "2017-10-14"
+  "archived": false,
+  "last_commit": "2017-10-14",
+  "stars": 263
  },
  "panther-labs/panther-analysis": {
-  "last_commit": "2026-11-16"
+  "archived": false,
+  "last_commit": "2026-11-16",
+  "stars": 474
  },
  "paragonie/awesome-appsec": {
-  "last_commit": "2025-02-22"
+  "archived": false,
+  "last_commit": "2025-02-22",
+  "stars": 7149
  },
  "paralax/awesome-honeypots": {
-  "last_commit": "2026-06-01"
+  "archived": false,
+  "last_commit": "2026-06-01",
+  "stars": 10677
  },
  "parsiya/Hacking-with-Go": {
-  "last_commit": "2020-02-15"
+  "archived": true,
+  "last_commit": "2020-02-15",
+  "stars": 1805
  },
  "pe3zx/my-awesome": {
-  "last_commit": "2026-10-24"
+  "archived": true,
+  "last_commit": "2026-10-24",
+  "renamed_to": "pe3zx/my-infosec-awesome",
+  "stars": 1171
  },
  "philipperemy/tensorflow-1.4-billion-password-analysis": {
-  "last_commit": "2020-03-30"
+  "archived": false,
+  "last_commit": "2020-03-30",
+  "stars": 1962
  },
  "phith0n/Mind-Map": {
-  "last_commit": "2018-04-30"
+  "archived": false,
+  "last_commit": "2018-04-29",
+  "stars": 4599
  },
  "pierrekim/pierrekim.github.io": {
-  "last_commit": "2025-11-20"
+  "archived": false,
+  "last_commit": "2025-11-20",
+  "stars": 41
  },
  "portcullislabs/rdp-sec-check": {
-  "last_commit": "2021-04-04"
+  "archived": false,
+  "last_commit": "2021-04-04",
+  "renamed_to": "CiscoCXSecurity/rdp-sec-check",
+  "stars": 268
  },
  "prakhar1989/awesome-courses": {
-  "last_commit": "2022-11-12"
+  "archived": false,
+  "last_commit": "2022-11-12",
+  "stars": 73003
  },
  "prateek147/DVIA-v2": {
-  "last_commit": "2024-03-29"
+  "archived": false,
+  "last_commit": "2024-03-29",
+  "stars": 1135
  },
  "prbinu/tls-scan": {
-  "last_commit": "2024-11-22"
+  "archived": false,
+  "last_commit": "2024-11-22",
+  "stars": 331
  },
  "presidentbeef/brakeman": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 7296
  },
  "programa-stic/barf-project": {
-  "last_commit": "2019-11-24"
+  "archived": false,
+  "last_commit": "2019-11-24",
+  "stars": 1456
  },
  "protectai/vulnhuntr": {
-  "last_commit": "2025-02-06"
+  "archived": false,
+  "last_commit": "2025-02-06",
+  "stars": 2827
  },
  "psecio/parse": {
-  "last_commit": "2018-08-01"
+  "archived": false,
+  "last_commit": "2018-08-01",
+  "stars": 378
  },
  "pumasecurity/puma-scan": {
-  "last_commit": "2026-08-06"
+  "archived": false,
+  "last_commit": "2026-08-07",
+  "stars": 447
  },
  "putterpanda/mimikittenz": {
-  "last_commit": "2020-10-16"
+  "archived": false,
+  "last_commit": "2020-10-16",
+  "renamed_to": "orlyjamie/mimikittenz",
+  "stars": 1869
  },
  "pyinstaller/pyinstaller": {
-  "last_commit": "2026-11-17"
+  "archived": false,
+  "last_commit": "2026-11-17",
+  "stars": 13164
  },
  "qazbnm456/awesome-cve-poc": {
-  "last_commit": "2021-02-09"
+  "archived": false,
+  "last_commit": "2021-02-09",
+  "stars": 3548
  },
  "quarkslab/binmap": {
-  "last_commit": "2018-07-02"
+  "archived": false,
+  "last_commit": "2018-07-02",
+  "stars": 223
  },
  "r0eXpeR/redteam_vul": {
-  "last_commit": "2021-07-17"
+  "archived": false,
+  "last_commit": "2021-07-17",
+  "stars": 2530
  },
  "rabbitmask/AssetsHunter": {
-  "last_commit": "2025-09-22"
+  "archived": false,
+  "last_commit": "2025-09-22",
+  "stars": 500
  },
  "rabobank-cdc/DeTTECT": {
-  "last_commit": "2026-11-05"
+  "archived": false,
+  "last_commit": "2026-11-05",
+  "stars": 2363
  },
  "rapid7/hackazon": {
-  "last_commit": "2021-03-11"
+  "archived": true,
+  "last_commit": "2021-03-11",
+  "stars": 1039
  },
  "rapid7/metasploit-framework": {
-  "last_commit": "2026-11-19"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 39615
  },
  "rapid7/metasploitable3": {
-  "last_commit": "2025-02-13"
+  "archived": false,
+  "last_commit": "2025-02-13",
+  "stars": 5793
  },
  "rastating/wordpress-exploit-framework": {
-  "last_commit": "2019-11-24"
+  "archived": true,
+  "last_commit": "2019-11-24",
+  "stars": 1041
  },
  "rastrea2r/rastrea2r": {
-  "last_commit": "2026-10-12"
+  "archived": false,
+  "last_commit": "2026-10-12",
+  "stars": 237
  },
  "rbsec/sslscan": {
-  "last_commit": "2026-11-14"
+  "archived": false,
+  "last_commit": "2026-11-14",
+  "stars": 2637
  },
  "re-pronin/awesome-vulnerability-research": {
-  "last_commit": "2020-12-07"
+  "archived": false,
+  "last_commit": "2020-12-07",
+  "renamed_to": "sergey-pronin/Awesome-Vulnerability-Research",
+  "stars": 1386
  },
  "redcanaryco/atomic-red-team": {
-  "last_commit": "2026-11-06"
+  "archived": false,
+  "last_commit": "2026-11-06",
+  "stars": 12887
  },
  "redhuntlabs/RedHunt-OS": {
-  "last_commit": "2025-01-22"
+  "archived": false,
+  "last_commit": "2025-01-22",
+  "stars": 1322
  },
  "rednaga/APKiD": {
-  "last_commit": "2026-10-21"
+  "archived": false,
+  "last_commit": "2026-10-21",
+  "stars": 2633
  },
  "renatahodovan/fuzzinator": {
-  "last_commit": "2025-11-23"
+  "archived": false,
+  "last_commit": "2025-11-23",
+  "stars": 195
  },
  "renzu0/nw-tips": {
-  "last_commit": "2019-03-20"
+  "archived": false,
+  "last_commit": "2019-03-20",
+  "stars": 363
  },
  "repoog/GitPrey": {
-  "last_commit": "2020-11-26"
+  "archived": false,
+  "last_commit": "2020-11-26",
+  "stars": 604
  },
  "rewardone/OSCPRepo": {
-  "last_commit": "2020-06-22"
+  "archived": false,
+  "last_commit": "2020-06-22",
+  "stars": 2756
  },
  "reyjrar/DreamCatcher": {
-  "last_commit": "2026-11-12"
+  "archived": false,
+  "last_commit": "2026-11-12",
+  "stars": 24
  },
  "rezasp/joomscan": {
-  "last_commit": "2023-11-30"
+  "archived": false,
+  "last_commit": "2023-11-30",
+  "renamed_to": "OWASP/joomscan",
+  "stars": 1198
  },
  "rfxn/linux-malware-detect": {
-  "last_commit": "2026-04-26"
+  "archived": false,
+  "last_commit": "2026-04-26",
+  "stars": 1559
  },
  "ring04h/pentest": {
-  "last_commit": "2020-05-06"
+  "archived": false,
+  "last_commit": "2020-05-06",
+  "stars": 430
  },
  "ring04h/wydomain": {
-  "last_commit": "2017-06-26"
+  "archived": false,
+  "last_commit": "2017-06-26",
+  "stars": 1477
  },
  "riusksk/secbook": {
-  "last_commit": "2024-04-21"
+  "archived": false,
+  "last_commit": "2024-04-21",
+  "stars": 3221
  },
  "riverloopsec/tumblerf": {
-  "last_commit": "2018-03-15"
+  "archived": false,
+  "last_commit": "2018-03-15",
+  "stars": 167
  },
  "rizinorg/cutter": {
-  "last_commit": "2026-11-13"
+  "archived": false,
+  "last_commit": "2026-11-13",
+  "stars": 20239
  },
  "rmikehodges/hideNsneak": {
-  "last_commit": "2019-12-10"
+  "archived": false,
+  "last_commit": "2019-12-10",
+  "stars": 18
  },
  "rmusser01/Infosec_Reference": {
-  "last_commit": "2026-11-17"
+  "archived": false,
+  "last_commit": "2026-11-17",
+  "stars": 6047
  },
  "rshipp/awesome-malware-analysis": {
-  "last_commit": "2024-05-30"
+  "archived": false,
+  "last_commit": "2024-05-30",
+  "stars": 14438
  },
  "rust-unofficial/awesome-rust": {
-  "last_commit": "2026-11-19"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 60649
  },
  "s0md3v/AwesomeXSS": {
-  "last_commit": "2024-10-31"
+  "archived": false,
+  "last_commit": "2024-10-30",
+  "stars": 5161
  },
  "s3team/uroboros": {
-  "last_commit": "2026-06-22"
+  "archived": false,
+  "last_commit": "2026-06-22",
+  "stars": 219
  },
  "s4n7h0/Halcyon": {
-  "last_commit": "2020-08-08"
+  "archived": false,
+  "last_commit": "2020-08-08",
+  "renamed_to": "s4n7h0/Halcyon-IDE",
+  "stars": 360
  },
  "samdenty99/injectify": {
-  "last_commit": "2022-05-12"
+  "archived": false,
+  "last_commit": "2022-05-12",
+  "renamed_to": "samdenty/injectify",
+  "stars": 688
  },
  "samratashok/nishang": {
-  "last_commit": "2023-02-02"
+  "archived": false,
+  "last_commit": "2023-02-02",
+  "stars": 10211
  },
  "saucer-man/saucerframe": {
-  "last_commit": "2025-12-09"
+  "archived": false,
+  "last_commit": "2025-12-09",
+  "stars": 385
  },
  "sbilly/awesome-security": {
-  "last_commit": "2026-01-11"
+  "archived": false,
+  "last_commit": "2026-01-11",
+  "stars": 15130
  },
  "schubergphilis/Seccubus": {
-  "last_commit": "2019-07-12"
+  "archived": false,
+  "last_commit": "2019-07-12",
+  "renamed_to": "seccubus/seccubus",
+  "stars": 710
  },
  "screetsec/Dracnmap": {
-  "last_commit": "2017-10-11"
+  "archived": false,
+  "last_commit": "2017-10-11",
+  "stars": 1391
  },
  "se55i0n/DBScanner": {
-  "last_commit": "2017-12-01"
+  "archived": false,
+  "last_commit": "2017-12-01",
+  "stars": 563
  },
  "sea-god/gitscan": {
-  "last_commit": "2016-11-29"
+  "archived": false,
+  "last_commit": "2016-11-29",
+  "stars": 72
  },
  "secfigo/Awesome-Fuzzing": {
-  "last_commit": "2023-07-04"
+  "archived": false,
+  "last_commit": "2023-07-04",
+  "stars": 5953
  },
  "secgroundzero/warberry": {
-  "last_commit": "2019-11-09"
+  "archived": false,
+  "last_commit": "2019-11-09",
+  "stars": 2222
  },
  "secretsquirrel/BDFProxy": {
-  "last_commit": "2021-07-30"
+  "archived": false,
+  "last_commit": "2021-07-31",
+  "stars": 1018
  },
  "secretsquirrel/the-backdoor-factory": {
-  "last_commit": "2023-10-30"
+  "archived": false,
+  "last_commit": "2023-10-30",
+  "stars": 3445
  },
  "securego/gosec": {
-  "last_commit": "2026-11-13"
+  "archived": false,
+  "last_commit": "2026-11-13",
+  "stars": 9011
  },
  "sensepost/mallet": {
-  "last_commit": "2024-07-16"
+  "archived": false,
+  "last_commit": "2024-07-16",
+  "stars": 294
  },
  "sergey-pronin/Awesome-Vulnerability-Research": {
-  "last_commit": "2020-12-07"
+  "archived": false,
+  "last_commit": "2020-12-07",
+  "stars": 1386
  },
  "shieldfy/API-Security-Checklist": {
-  "last_commit": "2026-07-21"
+  "archived": false,
+  "last_commit": "2026-07-21",
+  "stars": 23368
  },
  "shinnok/johnny": {
-  "last_commit": "2022-05-29"
+  "archived": false,
+  "last_commit": "2022-05-29",
+  "renamed_to": "openwall/johnny",
+  "stars": 649
  },
  "shmilylty/OneForAll": {
-  "last_commit": "2026-11-02"
+  "archived": false,
+  "last_commit": "2026-11-02",
+  "stars": 10155
  },
  "sindresorhus/awesome": {
-  "last_commit": "2026-09-02"
+  "archived": false,
+  "last_commit": "2026-09-02",
+  "stars": 539262
  },
  "six2dez/OSCP-Human-Guide": {
-  "last_commit": "2022-06-15"
+  "archived": false,
+  "last_commit": "2022-06-15",
+  "stars": 857
  },
  "sleuthkit/sleuthkit": {
-  "last_commit": "2026-11-13"
+  "archived": false,
+  "last_commit": "2026-11-14",
+  "stars": 3202
  },
  "slowmist/Knowledge-Base": {
-  "last_commit": "2026-11-11"
+  "archived": false,
+  "last_commit": "2026-11-11",
+  "stars": 4631
  },
  "smartFlash/pySecurity": {
-  "last_commit": "2019-11-29"
+  "archived": false,
+  "last_commit": "2019-11-29",
+  "stars": 667
  },
  "snoopysecurity/OSCE-Prep": {
-  "last_commit": "2020-08-21"
+  "archived": false,
+  "last_commit": "2020-08-21",
+  "stars": 237
  },
  "snoopysecurity/awesome-burp-extensions": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 3456
  },
  "so87/OSCP-PwK": {
-  "last_commit": "2021-08-25"
+  "archived": false,
+  "last_commit": "2021-08-25",
+  "stars": 490
  },
  "sobolevn/awesome-cryptography": {
-  "last_commit": "2026-07-15"
+  "archived": false,
+  "last_commit": "2026-07-15",
+  "stars": 7211
  },
  "softvar/secure-ls": {
-  "last_commit": "2024-06-20"
+  "archived": false,
+  "last_commit": "2024-06-20",
+  "stars": 674
  },
  "sophron/wifiphisher": {
-  "last_commit": "2026-05-22"
+  "archived": false,
+  "last_commit": "2026-05-22",
+  "renamed_to": "wifiphisher/wifiphisher",
+  "stars": 14988
  },
  "sowish/LNScan": {
-  "last_commit": "2016-08-27"
+  "archived": false,
+  "last_commit": "2016-08-27",
+  "stars": 208
  },
  "spatie/laravel-littlegatekeeper": {
-  "last_commit": "2026-11-09"
+  "archived": false,
+  "last_commit": "2026-11-09",
+  "stars": 192
  },
  "spectresearch/detectem": {
-  "last_commit": "2020-12-21"
+  "archived": false,
+  "last_commit": "2020-12-21",
+  "renamed_to": "alertot/detectem",
+  "stars": 156
  },
  "speed47/spectre-meltdown-checker": {
-  "last_commit": "2026-11-11"
+  "archived": false,
+  "last_commit": "2026-11-11",
+  "stars": 3959
  },
  "splunk/security_content": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 1739
  },
  "splx-ai/agentic-radar": {
-  "last_commit": "2026-11-13"
+  "archived": false,
+  "last_commit": "2026-11-13",
+  "stars": 1071
  },
  "spoofzu/DeepViolet": {
-  "last_commit": "2026-05-29"
+  "archived": false,
+  "last_commit": "2026-05-29",
+  "stars": 152
  },
  "spotify/gcp-firewall-enforcer": {
-  "last_commit": "2017-02-17"
+  "archived": true,
+  "last_commit": "2017-02-17",
+  "stars": 76
  },
  "spring-projects/spring-security": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 9668
  },
  "spring-projects/spring-security-oauth": {
-  "last_commit": "2022-05-30"
+  "archived": true,
+  "last_commit": "2022-05-30",
+  "renamed_to": "spring-attic/spring-security-oauth",
+  "stars": 4682
  },
  "sqlmapproject/sqlmap": {
-  "last_commit": "2026-11-12"
+  "archived": false,
+  "last_commit": "2026-11-12",
+  "stars": 38988
  },
  "sroberts/awesome-iocs": {
-  "last_commit": "2026-09-30"
+  "archived": false,
+  "last_commit": "2026-10-01",
+  "stars": 1032
  },
  "sscarduzio/elasticsearch-readonlyrest-plugin": {
-  "last_commit": "2026-11-17"
+  "archived": false,
+  "last_commit": "2026-11-17",
+  "stars": 958
  },
  "stamparm/DSVW": {
-  "last_commit": "2026-08-19"
+  "archived": false,
+  "last_commit": "2026-08-19",
+  "stars": 886
  },
  "stamparm/ipsum": {
-  "last_commit": "2026-11-19"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "stars": 2415
  },
  "stamparm/maltrail": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 8662
  },
  "stampery/mongoaudit": {
-  "last_commit": "2020-12-03"
+  "archived": false,
+  "last_commit": "2020-12-02",
+  "stars": 1327
  },
  "stanislav-web/OpenDoor": {
-  "last_commit": "2026-11-08"
+  "archived": false,
+  "last_commit": "2026-11-08",
+  "stars": 1017
  },
  "starnightcyber/Miscellaneous": {
-  "last_commit": "2024-07-19"
+  "archived": false,
+  "last_commit": "2024-07-19",
+  "stars": 458
  },
  "stasinopoulos/commix": {
-  "last_commit": "2026-11-19"
+  "archived": false,
+  "last_commit": "2026-11-19",
+  "renamed_to": "commixproject/commix",
+  "stars": 5914
  },
  "stevespringett/dependency-check-sonar-plugin": {
-  "last_commit": "2026-09-30"
+  "archived": false,
+  "last_commit": "2026-09-30",
+  "renamed_to": "dependency-check/dependency-check-sonar-plugin",
+  "stars": 698
  },
  "sublime-security/sublime-rules": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 382
  },
  "sullo/nikto": {
-  "last_commit": "2026-08-15"
+  "archived": false,
+  "last_commit": "2026-08-15",
+  "stars": 10866
  },
  "swisskyrepo/PayloadsAllTheThings": {
-  "last_commit": "2026-10-30"
+  "archived": false,
+  "last_commit": "2026-10-30",
+  "stars": 82779
  },
  "sycurelab/DECAF": {
-  "last_commit": "2021-02-18"
+  "archived": false,
+  "last_commit": "2021-02-18",
+  "renamed_to": "decaf-project/DECAF",
+  "stars": 840
  },
  "symfony/security": {
-  "last_commit": "2023-01-24"
+  "archived": true,
+  "last_commit": "2023-01-24",
+  "stars": 1196
  },
  "syncsrc/MicroRenovator": {
-  "last_commit": "2018-08-25"
+  "archived": false,
+  "last_commit": "2018-08-25",
+  "stars": 42
  },
  "t00sh/rop-tool": {
-  "last_commit": "2019-02-21"
+  "archived": false,
+  "last_commit": "2019-02-21",
+  "stars": 611
  },
  "t94j0/AIRMASTER": {
-  "last_commit": "2018-10-22"
+  "archived": false,
+  "last_commit": "2018-10-22",
+  "stars": 185
  },
  "tagnullde/OSCP": {
-  "last_commit": "2024-07-17"
+  "archived": false,
+  "last_commit": "2024-07-17",
+  "stars": 230
  },
  "taipan-scanner/Taipan": {
-  "last_commit": "2021-05-07"
+  "archived": false,
+  "last_commit": "2021-05-07",
+  "renamed_to": "enkomio/Taipan",
+  "stars": 461
  },
  "tennc/webshell": {
-  "last_commit": "2024-12-24"
+  "archived": false,
+  "last_commit": "2024-12-24",
+  "stars": 10804
  },
  "thesp0nge/dawnscanner": {
-  "last_commit": "2023-11-13"
+  "archived": false,
+  "last_commit": "2023-11-13",
+  "stars": 748
  },
  "thomaspatzke/WASE": {
-  "last_commit": "2019-09-18"
+  "archived": false,
+  "last_commit": "2019-09-18",
+  "stars": 114
  },
  "threat9/routersploit": {
-  "last_commit": "2026-05-05"
+  "archived": false,
+  "last_commit": "2026-05-05",
+  "stars": 13322
  },
  "threedr3am/learnjavabug": {
-  "last_commit": "2024-03-14"
+  "archived": false,
+  "last_commit": "2024-03-14",
+  "stars": 2680
  },
  "tigerpuma/Afl_unicorn": {
-  "last_commit": "2017-11-14"
+  "archived": false,
+  "last_commit": "2017-11-15",
+  "stars": 39
  },
  "tintinweb/striptls": {
-  "last_commit": "2021-11-25"
+  "archived": false,
+  "last_commit": "2021-11-25",
+  "stars": 168
  },
  "tom0li/collection-document": {
-  "last_commit": "2021-04-19"
+  "archived": false,
+  "last_commit": "2021-04-19",
+  "stars": 2122
  },
  "toniblyx/my-arsenal-of-aws-security-tools": {
-  "last_commit": "2026-10-02"
+  "archived": false,
+  "last_commit": "2026-10-02",
+  "stars": 9538
  },
  "trailofbits/mcsema": {
-  "last_commit": "2022-04-26"
+  "archived": true,
+  "last_commit": "2022-04-26",
+  "renamed_to": "lifting-bits/mcsema",
+  "stars": 2793
  },
  "trimstray/iptables-essentials": {
-  "last_commit": "2024-11-19"
+  "archived": false,
+  "last_commit": "2024-11-19",
+  "stars": 1590
  },
  "trimstray/the-book-of-secret-knowledge": {
-  "last_commit": "2024-11-19"
+  "archived": false,
+  "last_commit": "2024-11-19",
+  "stars": 259635
  },
  "turbo/KPTI-PoC-Collection": {
-  "last_commit": "2018-01-04"
+  "archived": false,
+  "last_commit": "2018-01-04",
+  "stars": 504
  },
  "tylerhalfpop/awesome-reversing": {
-  "last_commit": "2019-03-07"
+  "archived": false,
+  "last_commit": "2019-03-08",
+  "renamed_to": "tylerha97/awesome-reversing",
+  "stars": 4530
  },
  "uknowsec/Active-Directory-Pentest-Notes": {
-  "last_commit": "2020-02-07"
+  "archived": false,
+  "last_commit": "2020-02-07",
+  "stars": 1805
  },
  "unprovable/PentestHardware": {
-  "last_commit": "2019-05-29"
+  "archived": false,
+  "last_commit": "2019-05-29",
+  "stars": 509
  },
  "unrolled/secure": {
-  "last_commit": "2026-11-10"
+  "archived": false,
+  "last_commit": "2026-11-10",
+  "stars": 2360
  },
  "urbanadventurer/whatweb": {
-  "last_commit": "2026-04-03"
+  "archived": false,
+  "last_commit": "2026-04-02",
+  "stars": 7019
  },
  "utds3lab/multiverse": {
-  "last_commit": "2018-05-16"
+  "archived": false,
+  "last_commit": "2018-05-17",
+  "stars": 310
  },
  "v1s1t0r1sh3r3/airgeddon": {
-  "last_commit": "2026-11-12"
+  "archived": false,
+  "last_commit": "2026-11-12",
+  "stars": 8165
  },
  "v2-dev/awesome-social-engineering": {
-  "last_commit": "2023-04-05"
+  "archived": false,
+  "last_commit": "2023-04-04",
+  "renamed_to": "giuliacassara/awesome-social-engineering",
+  "stars": 4339
  },
  "vanhoefm/krackattacks-scripts": {
-  "last_commit": "2024-12-25"
+  "archived": false,
+  "last_commit": "2024-12-25",
+  "stars": 3545
  },
  "veficos/reverse-engineering-for-beginners": {
-  "last_commit": "2020-07-15"
+  "archived": false,
+  "last_commit": "2020-07-15",
+  "stars": 664
  },
  "vidar-team/HCTF2017": {
-  "last_commit": "2017-11-14"
+  "archived": false,
+  "last_commit": "2017-11-14",
+  "stars": 134
  },
  "vinta/awesome-python": {
-  "last_commit": "2026-11-17"
+  "archived": false,
+  "last_commit": "2026-11-17",
+  "stars": 335784
  },
  "vlad902/hacking-team-windows-kernel-lpe": {
-  "last_commit": "2015-07-21"
+  "archived": false,
+  "last_commit": "2015-07-21",
+  "stars": 203
  },
  "vrdse/MeltdownSpectreReport": {
-  "last_commit": "2018-08-15"
+  "archived": false,
+  "last_commit": "2018-08-15",
+  "stars": 70
  },
  "vulhub/vulhub": {
-  "last_commit": "2026-10-18"
+  "archived": false,
+  "last_commit": "2026-10-17",
+  "stars": 21512
  },
  "vusec/vuzzer": {
-  "last_commit": "2019-10-28"
+  "archived": false,
+  "last_commit": "2019-10-28",
+  "stars": 387
  },
  "wazuh/wazuh": {
-  "last_commit": "2026-11-17"
+  "archived": false,
+  "last_commit": "2026-11-17",
+  "stars": 17825
  },
  "wgliang/logcool": {
-  "last_commit": "2017-07-24"
+  "archived": false,
+  "last_commit": "2017-07-24",
+  "stars": 163
  },
  "whid-injector/WHID": {
-  "last_commit": "2023-09-22"
+  "archived": false,
+  "last_commit": "2023-09-22",
+  "stars": 1842
  },
  "wireghoul/dotdotpwn": {
-  "last_commit": "2022-09-28"
+  "archived": false,
+  "last_commit": "2022-09-28",
+  "stars": 1122
  },
  "wireghoul/graudit": {
-  "last_commit": "2026-10-13"
+  "archived": false,
+  "last_commit": "2026-10-13",
+  "stars": 1695
  },
  "wish-i-was/femida": {
-  "last_commit": "2019-10-10"
+  "archived": false,
+  "last_commit": "2019-10-10",
+  "stars": 282
  },
  "wmliang/pe-afl": {
-  "last_commit": "2019-11-15"
+  "archived": false,
+  "last_commit": "2019-11-14",
+  "stars": 249
  },
  "wpscanteam/wpscan": {
-  "last_commit": "2026-11-06"
+  "archived": false,
+  "last_commit": "2026-11-07",
+  "stars": 9862
  },
  "wufeifei/cobra": {
-  "last_commit": "2021-06-10"
+  "archived": true,
+  "last_commit": "2021-06-09",
+  "renamed_to": "FeeiCN/Cobra",
+  "stars": 3183
  },
  "wupco/weblogger": {
-  "last_commit": "2018-06-13"
+  "archived": false,
+  "last_commit": "2018-06-13",
+  "stars": 738
  },
  "xMilkPowderx/OSCP": {
-  "last_commit": "2019-05-06"
+  "archived": false,
+  "last_commit": "2019-05-06",
+  "stars": 203
  },
  "xairy/linux-kernel-exploitation": {
-  "last_commit": "2026-11-06"
+  "archived": false,
+  "last_commit": "2026-11-05",
+  "stars": 6694
  },
  "xl7dev/BurpSuite": {
-  "last_commit": "2018-01-03"
+  "archived": false,
+  "last_commit": "2018-01-03",
+  "stars": 1000
  },
  "xmendez/wfuzz": {
-  "last_commit": "2026-01-21"
+  "archived": false,
+  "last_commit": "2026-01-21",
+  "stars": 6608
  },
  "xssfile/Attack-data": {
-  "last_commit": "2018-04-20"
+  "archived": false,
+  "last_commit": "2018-04-20",
+  "stars": 26
  },
  "yandex/gixy": {
-  "last_commit": "2024-01-06"
+  "archived": false,
+  "last_commit": "2024-01-06",
+  "stars": 8560
  },
  "yaofeifly/Vub_ENV": {
-  "last_commit": "2018-07-19"
+  "archived": false,
+  "last_commit": "2018-07-19",
+  "stars": 239
  },
  "yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References": {
-  "last_commit": "2022-01-13"
+  "archived": false,
+  "last_commit": "2022-01-13",
+  "stars": 1575
  },
  "yinwang0/pysonar2": {
-  "last_commit": "2025-07-04"
+  "archived": false,
+  "last_commit": "2025-07-04",
+  "stars": 1425
  },
  "youngyangyang04/NoSQLAttack": {
-  "last_commit": "2020-08-05"
+  "archived": false,
+  "last_commit": "2020-08-05",
+  "stars": 317
  },
  "ysrc/GourdScanV2": {
-  "last_commit": "2017-11-01"
+  "archived": false,
+  "last_commit": "2017-11-01",
+  "stars": 864
  },
  "ysrc/Liudao": {
-  "last_commit": "2018-10-28"
+  "archived": true,
+  "last_commit": "2018-10-28",
+  "stars": 475
  },
  "ysrc/xunfeng": {
-  "last_commit": "2021-03-16"
+  "archived": false,
+  "last_commit": "2021-03-16",
+  "stars": 3592
  },
  "yueliu1999/Awesome-Jailbreak-on-LLMs": {
-  "last_commit": "2026-11-08"
+  "archived": false,
+  "last_commit": "2026-11-08",
+  "stars": 2025
  },
  "zMarch/Orc": {
-  "last_commit": "2019-11-12"
+  "archived": false,
+  "last_commit": "2019-11-12",
+  "stars": 402
  },
  "zTrix/zio": {
-  "last_commit": "2025-06-09"
+  "archived": false,
+  "last_commit": "2025-06-08",
+  "stars": 397
  },
  "zant95/hBlock": {
-  "last_commit": "2026-10-31"
+  "archived": false,
+  "last_commit": "2026-10-31",
+  "renamed_to": "hectorm/hblock",
+  "stars": 2012
  },
  "zardus/ctf-tools": {
-  "last_commit": "2026-10-21"
+  "archived": false,
+  "last_commit": "2026-10-21",
+  "stars": 9582
  },
  "zbetcheckin/Security_list": {
-  "last_commit": "2020-01-29"
+  "archived": false,
+  "last_commit": "2020-01-29",
+  "stars": 1884
  },
  "zeek/zeek": {
-  "last_commit": "2026-11-18"
+  "archived": false,
+  "last_commit": "2026-11-18",
+  "stars": 8260
  },
  "zer0h/httpscan": {
-  "last_commit": "2016-04-05"
+  "archived": false,
+  "last_commit": "2016-04-05",
+  "stars": 395
  },
  "zer0yu/Berserker": {
-  "last_commit": "2024-08-14"
+  "archived": false,
+  "last_commit": "2024-08-14",
+  "stars": 313
  },
  "zer0yu/CyberSecurityRSS": {
-  "last_commit": "2026-09-07"
+  "archived": false,
+  "last_commit": "2026-09-07",
+  "stars": 1991
  },
  "zhuyingda/veneno": {
-  "last_commit": "2019-04-10"
+  "archived": false,
+  "last_commit": "2019-04-10",
+  "stars": 237
  },
  "ziadoz/awesome-php": {
-  "last_commit": "2026-10-30"
+  "archived": false,
+  "last_commit": "2026-10-30",
+  "stars": 32809
  },
  "zjlywjh001/PhrackCTF-Platform-Team": {
-  "last_commit": "2018-03-27"
+  "archived": false,
+  "last_commit": "2018-03-27",
+  "stars": 195
  },
  "zscproject/OWASP-ZSC": {
-  "last_commit": "2023-12-15"
+  "archived": false,
+  "last_commit": "2023-12-15",
+  "renamed_to": "OWASP/ZSC",
+  "stars": 655
  },
  "zsdlove/Hades": {
-  "last_commit": "2021-01-08"
+  "archived": false,
+  "last_commit": "2021-01-08",
+  "stars": 468
  },
  "zt2/sqli-hunter": {
-  "last_commit": "2024-04-27"
+  "archived": false,
+  "last_commit": "2024-04-27",
+  "stars": 434
  },
  "zwq0320/malicious_dynamic_behavior_detection_by_cnn": {
-  "last_commit": "2018-08-29"
+  "archived": false,
+  "last_commit": "2018-08-29",
+  "stars": 168
  },
  "zxsecurity/gpsnitch": {
-  "last_commit": "2017-03-27"
+  "archived": false,
+  "last_commit": "2017-03-26",
+  "stars": 91
  }
 }
