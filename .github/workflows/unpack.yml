@@ -1,0 +1,23 @@
+name: unpack
+on:
+  push:
+    paths: [".github/workflows/unpack.yml"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  unpack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Unpack sectoolset-en.zip (non-workflow files)
+        run: |
+          unzip -q -o sectoolset-en.zip
+          rm -rf sectoolset-en/.github
+          cp -a sectoolset-en/. .
+          rm -rf sectoolset-en sectoolset-en.zip
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Unpack repository contents from sectoolset-en.zip"
+          git push
