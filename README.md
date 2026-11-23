@@ -6,7 +6,7 @@ Built from the Chinese-language [bollwarm/SecToolSet](https://github.com/bollwar
 
 **Legend:** ⚠️ third-party offensive code / PoC / malware sample – read the source and run only in an isolated lab · 🗄️ archived upstream · 💤 no commits for 3+ years · ⭐ and dates are refreshed weekly by CI.
 
-_Metadata last refreshed: 2026-11-19_
+_Metadata last refreshed: 2026-11-23_
 
 ## Categories
 

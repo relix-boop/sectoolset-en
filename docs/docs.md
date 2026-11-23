@@ -14,16 +14,16 @@ Reading lists, awesome lists, courses, cheat sheets and programming resources.
 
 | Tool | Description | ⭐ | Last commit |
 |---|---|--:|---|
-| [SecLists](https://github.com/danielmiessler/SecLists) | Wordlists and payloads for security testing | 74.8k | 2026-11-19 |
-| [android-security-awesome](https://github.com/ashishb/android-security-awesome) | Android tools, research and exploits | 9.8k | 2026-11-19 |
-| [spring-security](https://github.com/spring-projects/spring-security) | Spring Security provides security services for the Spring IO Platform. Spring Security 5.0 requires Spring 5.0 as a minimum and also requires Java 8. | 9.7k | 2026-11-18 |
+| [SecLists](https://github.com/danielmiessler/SecLists) | Wordlists and payloads for security testing | 74.9k | 2026-11-23 |
+| [dftimewolf](https://github.com/log2timeline/dftimewolf) | DFTimewolf A framework for orchestrating forensic collection, processing and data export. | 362 | 2026-11-23 |
+| [spring-security](https://github.com/spring-projects/spring-security) | Spring Security provides security services for the Spring IO Platform. Spring Security 5.0 requires Spring 5.0 as a minimum and also requires Java 8. | 9.7k | 2026-11-20 |
+| [android-security-awesome](https://github.com/ashishb/android-security-awesome) | Android tools, research and exploits | 9.9k | 2026-11-19 |
 | [cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) | Cloud Custodian is a rules engine for managing public cloud accounts and resources | 6.1k | 2026-11-17 |
 | [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) | "an information security reference that doesn't suck" | 6.0k | 2026-11-17 |
-| [Security-Operation-Book](https://github.com/0x783kb/Threat-Analysis-Handbook) | 116 ATT&CK techniques with simulation and detection guidance (Web, AD, Linux) | 654 | 2026-11-10 |
-| [dftimewolf](https://github.com/log2timeline/dftimewolf) | DFTimewolf A framework for orchestrating forensic collection, processing and data export. | 362 | 2026-11-06 |
+| [Security-Operation-Book](https://github.com/0x783kb/Threat-Analysis-Handbook) | 116 ATT&CK techniques with simulation and detection guidance (Web, AD, Linux) | 653 | 2026-11-10 |
 | [KCon](https://github.com/knownsec/KCon) | KCon conference materials (Knownsec) | 4.7k | 2026-11-03 |
 | [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) | Web security books, docs and tools | 7.4k | 2026-10-29 |
-| [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | Hacking, pentest and security research collection | 126.0k | 2026-10-27 |
+| [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | Hacking, pentest and security research collection | 126.3k | 2026-10-27 |
 | [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources) | Android app bug bounty reports | 1.7k | 2026-10-21 |
 | [my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) | List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. | 9.5k | 2026-10-02 |
 | [CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS) | Security RSS feeds and intel sources | 2.0k | 2026-09-07 |
@@ -31,24 +31,24 @@ Reading lists, awesome lists, courses, cheat sheets and programming resources.
 | [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) | Crypto theory, tools and libraries | 7.2k | 2026-07-15 |
 | [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) | Automotive security docs, hardware and software | 4.8k | 2026-05-30 |
 | [awesome-vehicle-security](https://github.com/jaredthecoder/awesome-vehicle-security) | Car hacking resources and cases | 4.8k | 2026-05-30 |
-| [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) | Security conference talks 2013–2017 | 4.3k | 2026-02-17 |
+| [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) | Security conference talks 2013–2017 | 4.2k | 2026-02-17 |
 | [awesome-security](https://github.com/sbilly/awesome-security) | Community-curated security resources | 15.1k | 2026-01-11 |
-| [awesome-industrial-control-system-security](https://github.com/hslatman/awesome-industrial-control-system-security) | ICS tools, honeypots, data and conferences | 2.0k | 2025-10-10 |
-| [awesome-cloud-security](https://github.com/Funkmyster/awesome-cloud-security) | Curated list of awesome cloud security blogs, podcasts, standards, projects, and examples. | 681 | 2025-05-20 |
-| [awesome-appsec](https://github.com/paragonie/awesome-appsec) | Application security resources | 7.1k | 2025-02-22 |
-| [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | Manuals, one-liners, CLI/web tools | 259.6k | 2024-11-19 |
+| [awesome-industrial-control-system-security](https://github.com/hslatman/awesome-industrial-control-system-security) | ICS tools, honeypots, data and conferences | 2.1k | 2025-10-10 |
+| [awesome-cloud-security](https://github.com/Funkmyster/awesome-cloud-security) | Curated list of awesome cloud security blogs, podcasts, standards, projects, and examples. | 680 | 2025-05-20 |
+| [awesome-appsec](https://github.com/paragonie/awesome-appsec) | Application security resources | 7.2k | 2025-02-22 |
+| [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | Manuals, one-liners, CLI/web tools | 260.7k | 2024-11-19 |
 | [iptables-essentials](https://github.com/trimstray/iptables-essentials#manuals-howtos-tutorials) | Iptables Essentials: Common Firewall Rules and Commands. | 1.6k | 2024-11-19 |
-| [MiscSecNotes](https://github.com/JnuSimba/MiscSecNotes) | Web, cloud, Docker security and security program notes | 920 | 2024-09-14 |
-| [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) | Malware samples, intel, detection and sandboxes | 14.4k | 2024-05-30 |
+| [MiscSecNotes](https://github.com/JnuSimba/MiscSecNotes) | Web, cloud, Docker security and security program notes | 919 | 2024-09-14 |
+| [awesome-malware-analysis](https://github.com/rshipp/awesome-malware-analysis) | Malware samples, intel, detection and sandboxes | 14.5k | 2024-05-30 |
 | [RFSec-ToolKit](https://github.com/cn0xroot/RFSec-ToolKit) | RF security: SDR, GSM, 3G, LTE, NFC, RFID, ZigBee | 1.7k | 2024-05-28 |
 | [secbook](https://github.com/riusksk/secbook) | Recommended reading for security practitioners | 3.2k | 2024-04-21 |
 | [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) | Datasets, papers, books and talks | 9.6k | 2024-04-11 |
 | [awesome-shell](https://github.com/alebcay/awesome-shell) | Shell commands, tools and guides | 38.0k | 2024-02-20 |
 | [APTnotes](https://github.com/kbandla/APTnotes) | Public APT reports | 3.7k | 2024-01-01 |
-| [awesome-hacking](https://github.com/carpedm20/awesome-hacking) | Hacking tutorials and tools | 17.5k | 2023-12-06 |
-| [CarHackingTools](https://github.com/jgamblin/CarHackingTools) 🗄️ 💤 | Install and configure common car hacking tools | 979 | 2023-05-07 |
+| [awesome-hacking](https://github.com/carpedm20/awesome-hacking) | Hacking tutorials and tools | 17.6k | 2023-12-06 |
+| [CarHackingTools](https://github.com/jgamblin/CarHackingTools) 🗄️ 💤 | Install and configure common car hacking tools | 980 | 2023-05-07 |
 | [awesome-social-engineering](https://github.com/giuliacassara/awesome-social-engineering) 💤 | Social engineering resources | 4.3k | 2023-04-04 |
-| [LinuxSecNotes](https://github.com/JnuSimba/LinuxSecNotes) 💤 | Linux security notes | 456 | 2023-04-03 |
+| [LinuxSecNotes](https://github.com/JnuSimba/LinuxSecNotes) 💤 | Linux security notes | 455 | 2023-04-03 |
 | [PENTESTING-BIBLE](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE) 💤 | Hundreds of pentest, red team and security resources | 14.0k | 2023-02-23 |
 | [WeReport](https://github.com/bugsafe/WeReport) 💤 | Automated pentest report generation | 92 | 2022-11-09 |
 | [AndroidSecNotes](https://github.com/JnuSimba/AndroidSecNotes) 💤 | Android security notes | 1.4k | 2022-07-12 |
@@ -64,9 +64,9 @@ Reading lists, awesome lists, courses, cheat sheets and programming resources.
 | [Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) 🗄️ 💤 | Golang for Security Professionals | 1.8k | 2020-02-15 |
 | [Active-Directory-Pentest-Notes](https://github.com/uknowsec/Active-Directory-Pentest-Notes) 💤 | Active Directory pentest notes | 1.8k | 2020-02-07 |
 | [snowden-archive](https://github.com/iamcryptoki/snowden-archive) 💤 | Collection of the Snowden-leaked documents | 1.4k | 2020-01-14 |
-| [pySecurity](https://github.com/smartFlash/pySecurity) 💤 | Python security tutorials (Primal Security) | 667 | 2019-11-29 |
+| [pySecurity](https://github.com/smartFlash/pySecurity) 💤 | Python security tutorials (Primal Security) | 666 | 2019-11-29 |
 | [sec-chart](https://github.com/SecWiki/sec-chart/tree/294d7c1ff1eba297fa892dda08f3c05e90ed1428) 💤 | Security process diagrams | 6.5k | 2019-10-13 |
-| [Ethereum-Smart-Contracts-Security-CheckList](https://github.com/knownsec/Ethereum-Smart-Contracts-Security-CheckList) 💤 | Ethereum smart contract audit checklist (Knownsec 404) | 171 | 2019-08-02 |
+| [Ethereum-Smart-Contracts-Security-CheckList](https://github.com/knownsec/Ethereum-Smart-Contracts-Security-CheckList) 💤 | Ethereum smart contract audit checklist (Knownsec 404) | 168 | 2019-08-02 |
 | [awesome-iot-hacks](https://github.com/nebgnahz/awesome-iot-hacks) 💤 | IoT hacks (RFID, doorbells, hubs, wearables) | 2.4k | 2019-06-02 |
 | [PentestHardware](https://github.com/unprovable/PentestHardware) 💤 | Kinda useful notes collated together publicly | 509 | 2019-05-29 |
 | [Micro8](https://github.com/Micropoor/Micro8) 💤 | A decade of pentest notes: code audit, web, intranet, AD, tunnels, forensics | 18.0k | 2019-03-07 |
@@ -80,7 +80,7 @@ Reading lists, awesome lists, courses, cheat sheets and programming resources.
 | [Paper_for_Digital_Forensics](https://github.com/NetSecLab/Paper_for_Digital_Forensics) 💤 | Digital forensics papers (camera fingerprinting) | 10 | 2018-03-18 |
 | [Software-Security-Learning](https://github.com/CHYbeta/Software-Security-Learning) 💤 | Software security learning notes | 1.3k | 2018-02-17 |
 | [security_circle_2017](https://github.com/h4ck0ne/security_circle_2017) 💤 | Security skill-tree community highlights 2017 | 90 | 2017-10-29 |
-| [FuzzySecurity resource list](https://github.com/FuzzySecurity/Resource-List) 💤 | Pwn, PowerShell, CTF, malware links | 373 | 2016-09-02 |
+| [FuzzySecurity resource list](https://github.com/FuzzySecurity/Resource-List) 💤 | Pwn, PowerShell, CTF, malware links | 374 | 2016-09-02 |
 | [dumb-passwords](https://github.com/kn9ts/dumb-passwords) 💤 | JS library that rejects common passwords | 89 | 2016-06-22 |
 | [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/) | Secure configuration baselines for OS, DB and middleware |  |  |
 | [dl.acm.org](https://dl.acm.org/citation.cfm?id=3133956) | ACM CCS 2017 proceedings |  |  |
@@ -93,18 +93,18 @@ Reading lists, awesome lists, courses, cheat sheets and programming resources.
 
 | Tool | Description | ⭐ | Last commit |
 |---|---|--:|---|
-| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | Computer science video lectures | 84.9k | 2026-11-15 |
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books/) | Free-programming-books | 401.9k | 2026-11-12 |
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books/) | Free-programming-books | 402.1k | 2026-11-21 |
+| [cs-video-courses](https://github.com/Developer-Y/cs-video-courses) | Computer science video lectures | 84.9k | 2026-11-20 |
 | [Knowledge-Base](https://github.com/slowmist/Knowledge-Base/) | SlowMist knowledge base (blockchain security) | 4.6k | 2026-11-11 |
 | [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) | Awesome cheatsheet | 8.7k | 2026-11-05 |
 | [awesome-php](https://github.com/ziadoz/awesome-php#security) | PHP libraries incl. secure random, crypto and security checks | 32.8k | 2026-10-30 |
 | [programming-talks](https://github.com/hellerve/programming-talks#creative-coding) | Awesome & Interesting Talks concerning Programming | 7.4k | 2026-10-15 |
-| [awesome](https://github.com/sindresorhus/awesome) | Curated list of awesome lists | 539.3k | 2026-09-02 |
+| [awesome](https://github.com/sindresorhus/awesome) | Curated list of awesome lists | 541.4k | 2026-09-02 |
 | [ios-resources](https://github.com/Siguza/ios-resources) | iOS hacking resources | 2.0k | 2025-05-24 |
 | [RD_Checklist](https://github.com/knownsec/RD_Checklist) | Knownsec R&D skill checklist | 846 | 2024-08-23 |
 | [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) | Build complex regexes readably (JS) | 12.1k | 2024-05-16 |
 | [Mastering-Machine-Learning-for-Penetration-Testing](https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing) 💤 | Mastering Machine Learning for Penetration Testing – book code | 372 | 2023-01-30 |
-| [awesome-courses](https://github.com/prakhar1989/awesome-courses) 💤 | 📚 List of awesome university courses for learning Computer Science! | 73.0k | 2022-11-12 |
+| [awesome-courses](https://github.com/prakhar1989/awesome-courses) 💤 | 📚 List of awesome university courses for learning Computer Science! | 73.1k | 2022-11-12 |
 | [og-aws](https://github.com/open-guides/og-aws) 💤 | Practical guide to AWS | 36.5k | 2022-08-24 |
 | [Pentest-and-Development-Tips](https://github.com/3gstudent/Pentest-and-Development-Tips) 💤 | Pentest-and-Development-Tips (3gstudent) | 1.1k | 2022-05-26 |
 | [security-cheat-sheet](https://github.com/GoSecure/security-cheat-sheet) 💤 | Minimal secure coding cheat sheets | 54 | 2020-07-17 |
@@ -115,10 +115,10 @@ Reading lists, awesome lists, courses, cheat sheets and programming resources.
 
 | Tool | Description | ⭐ | Last commit |
 |---|---|--:|---|
-| [awesome-rust](https://github.com/rust-unofficial/awesome-rust) | A curated list of Rust code and resources. | 60.6k | 2026-11-19 |
+| [awesome-rust](https://github.com/rust-unofficial/awesome-rust) | A curated list of Rust code and resources. | 60.8k | 2026-11-23 |
+| [PyInstaller](https://github.com/pyinstaller/pyinstaller) | Bundle Python apps into executables | 13.2k | 2026-11-22 |
 | [Impacket](https://github.com/fortra/impacket) | Python classes for network protocols (SMB, MSRPC, Kerberos…) | 16.3k | 2026-11-18 |
-| [awesome-python](https://github.com/vinta/awesome-python) | Awesome-python | 335.8k | 2026-11-17 |
-| [PyInstaller](https://github.com/pyinstaller/pyinstaller) | Bundle Python apps into executables | 13.2k | 2026-11-17 |
+| [awesome-python](https://github.com/vinta/awesome-python) | Awesome-python | 336.6k | 2026-11-17 |
 | [awesomo](https://github.com/lk-geimfari/awesomo) | An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc. | 10.0k | 2026-10-26 |
 | [my-awesome](https://github.com/pe3zx/my-infosec-awesome) 🗄️ | Assorted security resources and tools | 1.2k | 2026-10-24 |
 | [Flask-HTTPAuth](https://github.com/miguelgrinberg/Flask-HTTPAuth) | HTTP authentication for Flask | 1.3k | 2026-08-29 |
@@ -129,9 +129,9 @@ Reading lists, awesome lists, courses, cheat sheets and programming resources.
 | [python_sec](https://github.com/bit4woo/python_sec) 💤 | Python security and code audit resources | 1.4k | 2020-08-06 |
 | [pyspider](https://github.com/binux/pyspider) 🗄️ 💤 | Python web crawler system | 16.7k | 2020-08-02 |
 | [PythonVerbalExpressions](https://github.com/VerbalExpressions/PythonVerbalExpressions) 💤 | Readable regex building (Python) | 1.6k | 2020-05-03 |
-| [v0lt](https://github.com/P1kachu/v0lt) 🗄️ 💤 | CTF-oriented Python toolkit | 371 | 2018-01-22 |
-| [Yosai](https://github.com/YosaiProject/yosai) 🗄️ 💤 | Python application security framework | 584 | 2017-02-07 |
-| [uncompyle](https://github.com/gstarnberger/uncompyle) 🗄️ 💤 | Python bytecode decompiler | 427 | 2016-10-01 |
+| [v0lt](https://github.com/P1kachu/v0lt) 🗄️ 💤 | CTF-oriented Python toolkit | 369 | 2018-01-22 |
+| [Yosai](https://github.com/YosaiProject/yosai) 🗄️ 💤 | Python application security framework | 583 | 2017-02-07 |
+| [uncompyle](https://github.com/gstarnberger/uncompyle) 🗄️ 💤 | Python bytecode decompiler | 426 | 2016-10-01 |
 | [pycipher](https://github.com/jameslyons/pycipher) 💤 | Classical ciphers in Python | 221 | 2016-07-21 |
-| [cyborg](https://github.com/orf/cyborg) 💤 | Python 3 scraping framework | 311 | 2016-01-03 |
+| [cyborg](https://github.com/orf/cyborg) 💤 | Python 3 scraping framework | 310 | 2016-01-03 |
 | [xahlee.info](http://xahlee.info/comp/comp_lang_tutorials_index.html) | Concise tutorials for many programming languages |  |  |
